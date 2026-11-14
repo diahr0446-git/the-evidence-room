@@ -132,43 +132,18 @@ function CaseCard({item,index,open,saved,toggleSaved}:{item:CaseFile;index:numbe
  </article>
 }
 
-const caseWikiTitles:Record<string,string>={
- 'zodiac-killer':'Zodiac Killer','black-dahlia':'Black Dahlia ( 사건 )','jonbenet-ramsey':'JonBenét Ramsey','db-cooper':'D. B. Cooper',
- 'aarushi-talwar':'Aarushi Talwar','burari-deaths':'Burari deaths','nithari-killings':'Nithari killings','cyanide-mohan':'Mohan Kumar (serial killer)',
- 'cyanide-mallika':'Mallika (serial killer)','jolly-joseph':'Koodathayi cyanide killings','raman-raghav':'Raman Raghav','stoneman-mumbai':'Stoneman (serial killer)',
- 'stoneman-kolkata':'Stoneman (serial killer)','jessica-lal':'Jessica Lal murder case','sheena-bora':'Sheena Bora murder case','umesh-reddy':'Umesh Reddy',
- 'priyadarshini-mattoo':'Priyadarshini Mattoo murder case','dhananjoy-chatterjee':'Dhananjoy Chatterjee','beer-man':'Beer Man murders',
- 'hinterkaifeck':'Hinterkaifeck murders','gabby-petito':'Gabby Petito','junko-furuta':'Junko Furuta','murdaugh-family-murders':'Murdaugh murders',
- 'casey-anthony-trial':'Casey Anthony','oj-simpson-trial':'O. J. Simpson murder case','mia-zapata':'Mia Zapata','rotenburg-cannibal-case':'Armin Meiwes',
- 'josef-fritzl-case':'Josef Fritzl','luka-magnotta':'Luka Magnotta','hello-kitty-murder':'Hello Kitty murder','issei-sagawa':'Issei Sagawa',
- 'collyer-brothers':'Collyer brothers','jonestown-massacre':'Jonestown','tokyo-subway-sarin':'Tokyo subway sarin attack',
- 'heavens-gate':"Heaven's Gate (religious group)",'nxivm':'NXIVM','sarah-lawrence-cult':'Sarah Lawrence sex cult',
- 'altantuya-shaariibuu':'Murder of Altantuya Shaariibuu','diddy-combs-case':'Sean Combs','daphne-caruana-galizia':'Daphne Caruana Galizia',
- 'duterte-war-on-drugs-icc':'Rodrigo Duterte'
-};
+const dossierArtwork=(id:string)=>{const hash=[...id].reduce((n,ch)=>n+ch.charCodeAt(0),0);return `/images/dossier-${String((hash%6)+1).padStart(2,'0')}.jpg`;};
 function Dossier({item,openBoard,saved,toggleSaved}:{item:CaseFile;openBoard:()=>void;saved:boolean;toggleSaved:()=>void}){
  const [tab,setTab]=useState<string>('overview'),[collapsed,setCollapsed]=useState(false);
- const [casePhoto,setCasePhoto]=useState<{url:string;page:string;caption:string}|null>(null);
- const [photoState,setPhotoState]=useState<'loading'|'ready'|'missing'>('loading');
+ const photoUrl=dossierArtwork(item.id);
  const activeIndex=sectionDefs.findIndex(x=>x[0]===tab);
- useEffect(()=>{
-  let cancelled=false;
-  const article=caseWikiTitles[item.id];
-  setCasePhoto(null);setPhotoState('loading');
-  if(!article){setPhotoState('missing');return;}
-  fetch('https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(article))
-   .then(r=>{if(!r.ok)throw new Error('No article image');return r.json()})
-   .then(d=>{if(cancelled)return;const url=d.thumbnail?.source||d.originalimage?.source;if(url){setCasePhoto({url,page:d.content_urls?.desktop?.page||('https://en.wikipedia.org/wiki/'+encodeURIComponent(article)),caption:d.title||article});setPhotoState('ready')}else setPhotoState('missing')})
-   .catch(()=>{if(!cancelled)setPhotoState('missing')});
-  return ()=>{cancelled=true};
- },[item.id]);
  return <section className="page-wrap dossier-page">
   <div className="breadcrumbs"><button onClick={()=>window.scrollTo({top:0,behavior:'smooth'})}>ARCHIVE</button><span>/</span>{item.country.toUpperCase()}<span>/</span>{item.case_number}</div>
   <div className="dossier-photo-hero">
-   {casePhoto&&<img className="dossier-case-photo" src={casePhoto.url} alt={casePhoto.caption} />}
+   <img className="dossier-case-photo" src={photoUrl} alt="AI-generated atmospheric illustration for this case dossier" />
    <div className="dossier-photo-shade"/>
    <div className="dossier-photo-copy"><div className="eyebrow">CLASSIFIED DOSSIER <i/> {item.case_number} <i/> {item.period}</div><h1>{item.title}</h1><p>{item.subtitle}</p><div className="dossier-chips"><span>{item.category}</span><span>{item.region}</span><span className={'status-chip '+item.status_type}>{item.status}</span></div></div>
-   <div className="dossier-photo-credit">{casePhoto?<a href={casePhoto.page} target="_blank" rel="noreferrer">IMAGE SOURCE · {casePhoto.caption} ↗</a>:photoState==='loading'?'LOCATING ARCHIVAL IMAGE':'ARCHIVAL IMAGE UNAVAILABLE'}</div>
+   <div className="dossier-photo-credit">AI-GENERATED ATMOSPHERIC ARTWORK · NOT CASE EVIDENCE</div>
    <div className="dossier-emblem">E.R.<small>ARCHIVE<br/>EDITION</small></div>
   </div>
   <div className="dossier-actions"><button className="btn-outline" onClick={openBoard}><Network size={15}/> Open evidence board</button><button className={saved?'btn-outline saved':'btn-outline'} onClick={toggleSaved}><Bookmark size={15} fill={saved?'currentColor':'none'}/>{saved?'Saved to your files':'Save dossier'}</button><span className="micro">LAST REVIEWED {item.last_researched}</span></div>
