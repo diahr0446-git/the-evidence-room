@@ -1,0 +1,1 @@
+The Evidence Room Studio uses original vector illustrations bundled with the project. `investigation-wall.svg` is the hero illustration; `forensic-lab.svg` is an educational visual plate. `docs/evidence-room-original-moodboard.png` preserves the previous generated moodboard as a design reference. Replace or supplement with licensed photography before commercial/public launch.

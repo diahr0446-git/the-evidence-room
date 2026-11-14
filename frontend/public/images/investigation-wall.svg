@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100">
+<defs>
+ <linearGradient id="wall" x2="1" y2="1"><stop stop-color="#514333"/><stop offset=".48" stop-color="#2b241d"/><stop offset="1" stop-color="#11100e"/></linearGradient>
+ <linearGradient id="desk" x2="0" y2="1"><stop stop-color="#493525"/><stop offset="1" stop-color="#17110d"/></linearGradient>
+ <radialGradient id="lamp"><stop stop-color="#e8bd77" stop-opacity=".48"/><stop offset="1" stop-color="#e8bd77" stop-opacity="0"/></radialGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="15"/></filter>
+ <pattern id="grain" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="1" cy="2" r=".7" fill="#e2d1ae" opacity=".12"/></pattern>
+</defs>
+<rect width="1800" height="1100" fill="url(#wall)"/>
+<rect x="80" y="70" width="1640" height="700" fill="#191612" stroke="#796348" stroke-width="14"/>
+<rect x="100" y="90" width="1600" height="660" fill="#28231d"/>
+<!-- wall panels -->
+<path d="M100 90H1700V750H100Z" fill="url(#grain)"/>
+<!-- pinboard panels -->
+<g opacity=".96">
+ <rect x="150" y="150" width="410" height="490" fill="#40372b" stroke="#9a7a4d" stroke-width="5"/>
+ <rect x="590" y="150" width="500" height="490" fill="#514330" stroke="#a08357" stroke-width="5"/>
+ <rect x="1120" y="150" width="510" height="490" fill="#302920" stroke="#8f7049" stroke-width="5"/>
+</g>
+<!-- evidence papers -->
+<g transform="rotate(-3 340 320)">
+ <rect x="195" y="200" width="150" height="210" fill="#d5c5a5"/><rect x="210" y="220" width="120" height="6" fill="#78654a"/><rect x="210" y="240" width="110" height="4" fill="#8f7c5e"/><rect x="210" y="255" width="112" height="4" fill="#8f7c5e"/><rect x="210" y="270" width="88" height="4" fill="#8f7c5e"/><rect x="210" y="300" width="100" height="78" fill="#796b58"/>
+ <circle cx="270" cy="340" r="25" fill="#29241d"/><path d="M244 370Q270 320 296 370" fill="#29241d"/>
+</g>
+<g transform="rotate(4 470 440)">
+ <rect x="370" y="230" width="150" height="195" fill="#c9b998"/><rect x="385" y="248" width="120" height="5" fill="#78654a"/><rect x="385" y="266" width="100" height="4" fill="#88775b"/><rect x="385" y="281" width="110" height="4" fill="#88775b"/><rect x="385" y="296" width="95" height="4" fill="#88775b"/><rect x="385" y="320" width="110" height="80" fill="#4a4033"/>
+</g>
+<g transform="rotate(-2 800 330)">
+ <rect x="650" y="205" width="190" height="225" fill="#d9c9a8"/><rect x="667" y="224" width="150" height="5" fill="#756249"/><rect x="667" y="244" width="145" height="4" fill="#89785b"/><rect x="667" y="260" width="120" height="4" fill="#89785b"/><rect x="667" y="285" width="145" height="115" fill="#77654c"/>
+ <path d="M690 385L730 310L775 385Z" fill="#2c2923"/>
+</g>
+<g transform="rotate(3 965 440)">
+ <rect x="860" y="245" width="170" height="200" fill="#e0d1b3"/><rect x="875" y="263" width="135" height="5" fill="#6d5a40"/><rect x="875" y="281" width="125" height="4" fill="#8b795b"/><rect x="875" y="297" width="130" height="4" fill="#8b795b"/><rect x="875" y="315" width="110" height="4" fill="#8b795b"/><circle cx="944" cy="385" r="34" fill="none" stroke="#8b3f37" stroke-width="5"/>
+</g>
+<g transform="rotate(-5 1260 330)">
+ <rect x="1170" y="205" width="180" height="215" fill="#d6c5a3"/><rect x="1185" y="223" width="145" height="5" fill="#6d5a40"/><rect x="1185" y="242" width="130" height="4" fill="#89785b"/><rect x="1185" y="258" width="140" height="4" fill="#89785b"/><rect x="1185" y="275" width="125" height="4" fill="#89785b"/><rect x="1185" y="300" width="140" height="100" fill="#4a4339"/>
+</g>
+<g transform="rotate(4 1470 470)">
+ <rect x="1380" y="255" width="170" height="220" fill="#cbb995"/><rect x="1395" y="275" width="140" height="5" fill="#6d5a40"/><rect x="1395" y="293" width="130" height="4" fill="#89785b"/><rect x="1395" y="310" width="140" height="4" fill="#89785b"/><rect x="1395" y="330" width="120" height="4" fill="#89785b"/><path d="M1410 365H1515M1410 380H1515M1410 395H1490" stroke="#766348" stroke-width="4"/>
+</g>
+<!-- red string -->
+<g fill="none" stroke="#a34c43" stroke-width="5" opacity=".95">
+ <path d="M270 340L730 345L944 385L1260 355L1460 365"/>
+ <path d="M450 320L740 520L945 390L1260 355"/>
+ <path d="M730 345L930 280L1460 365"/>
+</g>
+<g fill="#c9a56f" stroke="#34271d" stroke-width="4"><circle cx="270" cy="340" r="9"/><circle cx="730" cy="345" r="9"/><circle cx="944" cy="385" r="9"/><circle cx="1260" cy="355" r="9"/><circle cx="1460" cy="365" r="9"/></g>
+<!-- desk and files -->
+<path d="M0 800L1800 750V1100H0Z" fill="url(#desk)"/>
+<ellipse cx="930" cy="880" rx="720" ry="130" fill="#d5a15b" opacity=".11" filter="url(#shadow)"/>
+<g transform="rotate(-7 690 900)">
+ <rect x="350" y="805" width="620" height="230" rx="8" fill="#8b6b43" stroke="#b18b58" stroke-width="7"/>
+ <rect x="380" y="825" width="560" height="190" fill="#d2bd96"/>
+ <text x="470" y="900" font-family="Georgia" font-size="54" fill="#7b4538" letter-spacing="5">CASE FILE</text>
+ <path d="M430 930H880M430 950H830M430 970H790" stroke="#9b896a" stroke-width="4"/>
+</g>
+<g transform="translate(1250 800) rotate(12)">
+ <rect width="290" height="205" fill="#d4c29f"/><rect x="20" y="22" width="250" height="5" fill="#756249"/><rect x="20" y="42" width="230" height="4" fill="#8c795c"/><rect x="20" y="60" width="240" height="4" fill="#8c795c"/><rect x="20" y="90" width="250" height="85" fill="#5c5140"/>
+</g>
+<!-- lamp -->
+<path d="M1510 0V105L1450 165" stroke="#27221a" stroke-width="14"/><path d="M1390 165H1520L1485 235H1425Z" fill="#9a7546"/><ellipse cx="1450" cy="265" rx="330" ry="240" fill="url(#lamp)"/>
+<rect width="1800" height="1100" fill="url(#grain)" opacity=".45"/>
+<rect x="0" y="0" width="1800" height="1100" fill="none" stroke="#080706" stroke-width="40" opacity=".65"/>
+</svg>

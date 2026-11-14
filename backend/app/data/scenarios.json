@@ -1,0 +1,113 @@
+[
+  {
+    "id": "gallery-after-hours",
+    "title": "The Gallery After Hours",
+    "difficulty": "Rookie",
+    "fictional": true,
+    "brief": "A small painting is reported missing after a private viewing. Three staff members offer different accounts of the final twenty minutes. Your task is to test the records before settling on a theory.",
+    "clues": [
+      {
+        "title": "Visitor log",
+        "kind": "Document",
+        "body": "The final visitor signed out at 8:42 PM. The east corridor access log records a door opening at 8:51 PM."
+      },
+      {
+        "title": "Conservation note",
+        "kind": "Physical record",
+        "body": "A conservator recorded that the painting was removed from its frame for inspection earlier that afternoon and rehung before the viewing."
+      },
+      {
+        "title": "Camera gap",
+        "kind": "Digital record",
+        "body": "The corridor camera shows an empty front desk for six minutes. The recording does not show who entered the storage room."
+      },
+      {
+        "title": "Key register",
+        "kind": "Access record",
+        "body": "The east corridor master key was checked out by facilities and returned at 9:03 PM."
+      }
+    ],
+    "question": "What is the most defensible next investigative step?",
+    "options": [
+      "Assume the last visitor stole it",
+      "Reconcile the key register, access log and camera gap",
+      "Accuse the guard because the desk was empty"
+    ],
+    "answer": 1,
+    "explanation": "Reconcile independent access records and establish who could enter during the relevant window. A camera gap or proximity alone is not proof of guilt."
+  },
+  {
+    "id": "riverside-notebook",
+    "title": "The Riverside Notebook",
+    "difficulty": "Intermediate",
+    "fictional": true,
+    "brief": "A research notebook disappears after a storm. A badge log, paper fragment and delivery receipt appear to point in different directions.",
+    "clues": [
+      {
+        "title": "Weather report",
+        "kind": "Environmental record",
+        "body": "Heavy rain began at 6:10 PM and continued until 7:25 PM."
+      },
+      {
+        "title": "Building access",
+        "kind": "Digital record",
+        "body": "The side entrance registered a badge entry at 6:48 PM, but the badge holder says the card was misplaced that day."
+      },
+      {
+        "title": "Paper fragment",
+        "kind": "Forensic note",
+        "body": "A fragment near the loading area matches the notebook's paper stock, but that stock is used throughout the building."
+      },
+      {
+        "title": "Delivery receipt",
+        "kind": "Document",
+        "body": "A courier signed for a package at the main entrance at 7:02 PM. The receipt is time-stamped by the front desk system."
+      }
+    ],
+    "question": "What can the evidence support right now?",
+    "options": [
+      "The badge holder definitely took the notebook",
+      "The paper fragment proves where it went",
+      "The evidence narrows a window but does not identify a person"
+    ],
+    "answer": 2,
+    "explanation": "The records provide leads, not proof. The badge event needs corroboration and the paper stock is not unique."
+  },
+  {
+    "id": "the-darkroom-negative",
+    "title": "The Darkroom Negative",
+    "difficulty": "Advanced",
+    "fictional": true,
+    "brief": "An archive's original photographic negative is missing. A digital scan exists, but its metadata conflicts with the accession book.",
+    "clues": [
+      {
+        "title": "Accession book",
+        "kind": "Document",
+        "body": "The negative was checked into drawer 4B on Monday. The entry is written in a different ink from adjacent entries."
+      },
+      {
+        "title": "Scanner metadata",
+        "kind": "Digital record",
+        "body": "The scan file was created on Tuesday, but the workstation clock was found to be six hours fast during a later audit."
+      },
+      {
+        "title": "Glove residue",
+        "kind": "Trace evidence",
+        "body": "A glove was found near the cabinet. The archive uses the same glove type for routine handling."
+      },
+      {
+        "title": "Staff rota",
+        "kind": "Witness context",
+        "body": "Two staff members had authorised access to the darkroom that week; the rota does not record exact entry times."
+      }
+    ],
+    "question": "Which conclusion is justified?",
+    "options": [
+      "The ink proves the accession entry was forged",
+      "The metadata gives the exact removal time",
+      "The current evidence is insufficient; preserve originals and reconcile time sources"
+    ],
+    "answer": 2,
+    "explanation": "Ink difference, device-clock drift and common gloves are limitations, not proof. Preserve the original files and documents, then corroborate timestamps independently."
+  }
+]

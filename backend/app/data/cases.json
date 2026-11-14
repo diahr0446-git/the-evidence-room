@@ -1,0 +1,2346 @@
+[
+  {
+    "id": "zodiac-killer",
+    "case_number": "ER-001",
+    "title": "The Zodiac Killer",
+    "subtitle": "Northern California's unidentified letter-writing killer",
+    "country": "United States",
+    "region": "California · San Francisco Bay Area",
+    "period": "1968–1974",
+    "category": "Serial homicide",
+    "status": "Unsolved · unidentified offender",
+    "status_type": "unsolved",
+    "summary": "A series of Northern California attacks became linked to letters and cryptograms sent to newspapers. The writer used the name “Zodiac”; the offender's identity has never been conclusively established.",
+    "tags": [
+      "Cold case",
+      "Serial homicide",
+      "Cryptograms"
+    ],
+    "sections": {
+      "overview": "Attacks in the San Francisco Bay Area in 1968–1969 were linked by investigators to letters sent to newspapers. The writer called himself “Zodiac” and sent cryptograms and threats. The identity of the person responsible remains unconfirmed.",
+      "background": "The case emerged across multiple jurisdictions in Northern California. Public attention expanded after letters challenged newspapers to publish the correspondence. Later suspect theories and online identifications are not official findings.",
+      "timeline": "The best-known linked attacks occurred at Lake Herman Road, Blue Rock Springs, Lake Berryessa and Presidio Heights between December 1968 and October 1969. Letters and ciphers followed; the precise scope of linked crimes remains debated.",
+      "scene_findings": "Investigators documented several attack locations, survivor observations and physical evidence. This dossier avoids graphic scene details and treats each incident as a separately documented event.",
+      "forensic_evidence": "Letters, envelopes, fingerprints, handwriting and other physical items have been discussed in public records. Their attribution and evidentiary value vary; handwriting resemblance alone cannot establish identity.",
+      "witness_statements": "Survivors and witnesses gave descriptions and accounts under difficult conditions. These observations must be assessed with context, contemporaneous records and the limits of human memory.",
+      "investigative_leads": "Investigators examined correspondence, ciphers, physical evidence and persons of interest over decades. No public identification has resolved the case; internet suspect lists should not be treated as evidence.",
+      "investigation_issues": "The case spans jurisdictions and decades. Media attention, incomplete public records, changing forensic methods and speculative suspect narratives complicate retrospective analysis.",
+      "official_conclusion": "The offender has not been publicly and conclusively identified. Some attacks are commonly attributed to Zodiac, while the scope of linked incidents remains contested.",
+      "unanswered_questions": "Who authored the letters? Which incidents are conclusively connected? Can preserved evidence yield reliable new forensic results?"
+    },
+    "timeline": [
+      {
+        "date": "1968-12-20",
+        "title": "Lake Herman Road attack",
+        "detail": "Two teenagers were killed near Benicia; the attack became one of the incidents linked to the Zodiac investigation.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1969-07-04",
+        "title": "Blue Rock Springs attack",
+        "detail": "A couple was attacked in a parked car; a survivor later provided an account.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1969-09-27",
+        "title": "Lake Berryessa attack",
+        "detail": "Two people were attacked; one survived and described the assailant.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1969-10-11",
+        "title": "Presidio Heights taxi attack",
+        "detail": "Taxi driver Paul Stine was killed in San Francisco.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1969",
+        "title": "Cipher correspondence",
+        "detail": "Letters claiming responsibility and cryptograms were sent to Bay Area newspapers.",
+        "evidence_status": "Documented correspondence"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "zodiac-killer-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "zodiac-killer-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "zodiac-killer-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "zodiac-killer-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "Who authored the letters? Which incidents are conclusively connected? Can preserved evidence yield reliable new forensic results?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "FBI — The Zodiac Killer",
+        "publisher": "Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/history/famous-cases/the-zodiac-killer",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Zodiac case archive",
+        "publisher": "San Francisco Chronicle",
+        "url": "https://www.sfchronicle.com/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Zodiac Killer overview",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Zodiac-killer",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "black-dahlia",
+    "case_number": "ER-002",
+    "title": "The Black Dahlia",
+    "subtitle": "The 1947 murder of Elizabeth Short",
+    "country": "United States",
+    "region": "Los Angeles · California",
+    "period": "1947",
+    "category": "Homicide",
+    "status": "Unsolved",
+    "status_type": "unsolved",
+    "summary": "Elizabeth Short was found murdered in Los Angeles on 15 January 1947. The investigation became one of the most publicized unsolved homicides in the United States.",
+    "tags": [
+      "Cold case",
+      "Historic case",
+      "Media history"
+    ],
+    "sections": {
+      "overview": "Elizabeth Short, aged 22, was found dead in Los Angeles on 15 January 1947. The case became known as the Black Dahlia murder through sensational press coverage.",
+      "background": "Short had moved between cities and was living in Southern California before her death. Much of the popular narrative about her life was shaped by tabloid reporting and should not be mistaken for verified biography.",
+      "timeline": "Short was reportedly seen in Los Angeles in early January 1947. Her body was discovered on 15 January. Police received extensive public attention, tips and alleged communications.",
+      "scene_findings": "The body was discovered in a vacant lot in the Leimert Park area. Graphic details are omitted; the dossier focuses on documentary history and investigative process.",
+      "forensic_evidence": "Autopsy findings and physical evidence were central to the investigation. Public summaries do not substitute for original coroner and police records.",
+      "witness_statements": "Police received a large volume of tips and statements. Later alleged confessions and suspect claims were often uncorroborated or unreliable.",
+      "investigative_leads": "Investigators pursued numerous leads. Many people have been named in books and media, but no suspect has been officially established as the killer.",
+      "investigation_issues": "Intense press coverage, tip volume, lost or inaccessible records and speculative retrospective accounts complicate public understanding.",
+      "official_conclusion": "The homicide remains unsolved. No perpetrator has been conclusively established in the public record.",
+      "unanswered_questions": "Who killed Elizabeth Short? Which surviving records can be independently verified? How did sensational reporting affect the investigative record?"
+    },
+    "timeline": [
+      {
+        "date": "1947-01-09",
+        "title": "Reported last sightings",
+        "detail": "Short was reportedly seen in Los Angeles in the days before her death; accounts vary in reliability.",
+        "evidence_status": "Reported · verify source"
+      },
+      {
+        "date": "1947-01-15",
+        "title": "Body discovered",
+        "detail": "Elizabeth Short was found in a vacant lot in Los Angeles.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1947-01",
+        "title": "Investigation and public appeals",
+        "detail": "Police investigated leads amid intense newspaper coverage.",
+        "evidence_status": "Documented period"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "black-dahlia-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "black-dahlia-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "black-dahlia-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "black-dahlia-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "Who killed Elizabeth Short? Which surviving records can be independently verified? How did sensational reporting affect the investigative record?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Elizabeth Short biography",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Elizabeth-Short",
+        "source_type": "public reference"
+      },
+      {
+        "title": "LAPD historical resources",
+        "publisher": "Los Angeles Police Department",
+        "url": "https://www.lapdonline.org/",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "jonbenet-ramsey",
+    "case_number": "ER-003",
+    "title": "The JonBenét Ramsey Case",
+    "subtitle": "The 1996 Boulder homicide investigation",
+    "country": "United States",
+    "region": "Boulder · Colorado",
+    "period": "1996–present",
+    "category": "Homicide",
+    "status": "Unsolved · investigation remains open",
+    "status_type": "unsolved",
+    "summary": "Six-year-old JonBenét Ramsey was found dead in her family's Boulder home on 26 December 1996. The investigation remains unresolved and has been subject to extensive public speculation.",
+    "tags": [
+      "Cold case",
+      "Forensic evidence",
+      "Media scrutiny"
+    ],
+    "sections": {
+      "overview": "JonBenét Ramsey, aged six, was found dead in the family home in Boulder, Colorado, on 26 December 1996. The homicide remains unresolved.",
+      "background": "JonBenét was a child and the focus of intense media attention after her death. Coverage frequently discussed family members and theories; allegations must not be presented as facts.",
+      "timeline": "A ransom note was reported on the morning of 26 December 1996. JonBenét was later found inside the home. The sequence and interpretation of events have been examined extensively.",
+      "scene_findings": "The family home was the primary scene. Scene security and early processing became subjects of criticism and later review.",
+      "forensic_evidence": "The case involved biological evidence, handwriting examination and other forensic material. Methods and interpretations have evolved; no single public claim is a definitive resolution.",
+      "witness_statements": "Family members and other witnesses provided statements. Public summaries can be incomplete, contested and influenced by years of media coverage.",
+      "investigative_leads": "Investigators considered multiple possibilities over time. No theory should be treated as established absent an official, evidence-supported resolution.",
+      "investigation_issues": "Scene security, early investigative decisions, media pressure and competing interpretations have been widely discussed.",
+      "official_conclusion": "The homicide remains open. Authorities have periodically stated that the investigation continues.",
+      "unanswered_questions": "What can current forensic methods reliably establish? Which early assumptions should be revisited? What evidence can be independently corroborated?"
+    },
+    "timeline": [
+      {
+        "date": "1996-12-26",
+        "title": "Ransom note reported",
+        "detail": "A ransom note was reported at the Ramsey residence in Boulder.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1996-12-26",
+        "title": "JonBenét found",
+        "detail": "JonBenét Ramsey was found dead inside the family home.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1997",
+        "title": "Investigation expands",
+        "detail": "Investigators continued interviews, forensic review and follow-up on leads.",
+        "evidence_status": "Documented period"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "jonbenet-ramsey-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "jonbenet-ramsey-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "jonbenet-ramsey-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "jonbenet-ramsey-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "What can current forensic methods reliably establish? Which early assumptions should be revisited? What evidence can be independently corroborated?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "JonBenét Ramsey investigation",
+        "publisher": "Boulder Police Department",
+        "url": "https://bouldercolorado.gov/police",
+        "source_type": "public reference"
+      },
+      {
+        "title": "JonBenét Ramsey overview",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/JonBenet-Ramsey",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "db-cooper",
+    "case_number": "ER-004",
+    "title": "D. B. Cooper Hijacking",
+    "subtitle": "The unsolved 1971 Northwest Orient flight hijacking",
+    "country": "United States",
+    "region": "Pacific Northwest · Washington/Oregon",
+    "period": "1971–present",
+    "category": "Hijacking",
+    "status": "Unsolved · FBI suspended active investigation",
+    "status_type": "unsolved",
+    "summary": "A man using the name Dan Cooper hijacked a passenger aircraft in November 1971, received ransom money and parachutes, then exited the plane in flight. His identity and fate remain unknown.",
+    "tags": [
+      "Cold case",
+      "Aviation",
+      "Unsolved disappearance"
+    ],
+    "sections": {
+      "overview": "On 24 November 1971, a man using the name Dan Cooper hijacked Northwest Orient Flight 305 between Portland and Seattle. After receiving ransom money and parachutes, he exited the aircraft during flight and was never conclusively identified.",
+      "background": "The hijacker purchased a ticket under the name Dan Cooper. The press later popularized “D. B. Cooper” after an early reporting error.",
+      "timeline": "The aircraft departed Portland, landed in Seattle and later took off again after passengers were released. The hijacker exited from the rear stairs during the second flight.",
+      "scene_findings": "The aircraft, passenger accounts, flight crew observations and recovered items formed the core of the investigation. The remote landing area and weather made the search difficult.",
+      "forensic_evidence": "A tie and other items were examined. Some ransom bills were found near the Columbia River in 1980. These discoveries did not resolve identity or fate.",
+      "witness_statements": "Crew members and passengers described the hijacker and events aboard the aircraft. These are historical observations, not proof of identity.",
+      "investigative_leads": "The FBI investigated many suspects and leads. Active investigative work was suspended in 2016, though public interest continues.",
+      "investigation_issues": "The exact jump location was uncertain, terrain was difficult and the passage of time limited evidence opportunities.",
+      "official_conclusion": "The hijacker's identity and fate remain unknown. The FBI suspended active investigative work in 2016 while retaining evidence.",
+      "unanswered_questions": "Did the hijacker survive the jump? Where did the remaining ransom money go? What was his real identity?"
+    },
+    "timeline": [
+      {
+        "date": "1971-11-24",
+        "title": "Flight 305 hijacked",
+        "detail": "A passenger using the name Dan Cooper hijacked the flight and demanded ransom and parachutes.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1971-11-24",
+        "title": "Passengers released in Seattle",
+        "detail": "Passengers were released after the aircraft landed in Seattle.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1971-11-24",
+        "title": "Hijacker exits aircraft",
+        "detail": "The aircraft departed again; the hijacker parachuted from the rear stairs.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1980-02-10",
+        "title": "Ransom money discovered",
+        "detail": "A child found part of the ransom money near the Columbia River.",
+        "evidence_status": "Documented discovery"
+      },
+      {
+        "date": "2016-07",
+        "title": "FBI suspends active investigation",
+        "detail": "The FBI announced it was redirecting resources from the case.",
+        "evidence_status": "Official announcement"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "db-cooper-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "db-cooper-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "db-cooper-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "db-cooper-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "Did the hijacker survive the jump? Where did the remaining ransom money go? What was his real identity?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "D. B. Cooper Hijacking",
+        "publisher": "Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+        "source_type": "public reference"
+      },
+      {
+        "title": "The Neverending Mystery of D.B. Cooper",
+        "publisher": "Smithsonian Magazine",
+        "url": "https://www.smithsonianmag.com/history/the-neverending-mystery-of-db-cooper-180980478/",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "aarushi-talwar",
+    "case_number": "ER-005",
+    "title": "Aarushi–Hemraj Case",
+    "subtitle": "The 2008 Noida double-homicide investigation",
+    "country": "India",
+    "region": "Noida · Uttar Pradesh",
+    "period": "2008–2017 court proceedings",
+    "category": "Homicide",
+    "status": "Talwars acquitted by Allahabad High Court (2017)",
+    "status_type": "court-resolved",
+    "summary": "Aarushi Talwar, 13, and domestic worker Hemraj Banjade were found murdered at the Talwar residence in Noida in May 2008. The Allahabad High Court acquitted Rajesh and Nupur Talwar in 2017.",
+    "tags": [
+      "India",
+      "Noida",
+      "Court appeal",
+      "Investigation controversy"
+    ],
+    "sections": {
+      "overview": "Aarushi Talwar, aged 13, was found dead at her family's Noida home in May 2008. The body of domestic worker Hemraj Banjade was discovered on the terrace the following day. The case involved multiple investigative agencies and a widely scrutinized trial.",
+      "background": "The case occurred in Noida, Uttar Pradesh. Public discussion often focuses on family members, the domestic worker and investigative controversies. This dossier does not imply guilt by association.",
+      "timeline": "Aarushi was found on 16 May 2008; Hemraj was found on 17 May. The CBI filed a closure report before a trial court took cognizance and convicted the parents in 2013. The Allahabad High Court acquitted them in 2017.",
+      "scene_findings": "The residence and terrace were central locations. Scene handling and preservation, including the discovery of Hemraj's body, became major points of criticism.",
+      "forensic_evidence": "Post-mortem findings, forensic examinations and disputed interpretations formed part of the record. The High Court found the prosecution had not proved guilt beyond reasonable doubt.",
+      "witness_statements": "Statements from family members, neighbours, staff and investigators formed part of the record. Contradictions and reliability were examined during proceedings.",
+      "investigative_leads": "The investigation included local police and the Central Bureau of Investigation. Different investigative theories were advanced; the court outcome must be represented accurately.",
+      "investigation_issues": "The case drew criticism over scene management, investigative shifts, media narratives and the handling of circumstantial evidence.",
+      "official_conclusion": "In October 2017, the Allahabad High Court acquitted Rajesh and Nupur Talwar, holding that the prosecution had not established guilt beyond reasonable doubt. This overturned the 2013 trial-court conviction.",
+      "unanswered_questions": "Who killed Aarushi and Hemraj? Which investigative failures can be established from the record? What further evidence, if any, could clarify events?"
+    },
+    "timeline": [
+      {
+        "date": "2008-05-16",
+        "title": "Aarushi found dead",
+        "detail": "Aarushi Talwar was found dead at the family residence in Noida.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "2008-05-17",
+        "title": "Hemraj found",
+        "detail": "Hemraj Banjade's body was discovered on the terrace.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "2013-11-26",
+        "title": "Trial court conviction",
+        "detail": "A special CBI court convicted Rajesh and Nupur Talwar.",
+        "evidence_status": "Court record"
+      },
+      {
+        "date": "2017-10-12",
+        "title": "Allahabad High Court acquittal",
+        "detail": "The High Court acquitted the Talwars, finding the prosecution had not proved guilt beyond reasonable doubt.",
+        "evidence_status": "Court judgment"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "aarushi-talwar-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "aarushi-talwar-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "aarushi-talwar-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "aarushi-talwar-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "Who killed Aarushi and Hemraj? Which investigative failures can be established from the record? What further evidence, if any, could clarify events?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Aarushi–Hemraj case: Allahabad High Court acquits Talwars",
+        "publisher": "The Indian Express",
+        "url": "https://indianexpress.com/article/india/2008-aarushi-murder-case-allahabad-high-court-acquits-talwars-4886927/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Central Bureau of Investigation",
+        "publisher": "CBI",
+        "url": "https://cbi.gov.in/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Allahabad High Court",
+        "publisher": "Allahabad High Court",
+        "url": "https://allahabadhighcourt.in/",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "burari-deaths",
+    "case_number": "ER-006",
+    "title": "The Burari Deaths",
+    "subtitle": "Eleven family members found dead in Delhi in 2018",
+    "country": "India",
+    "region": "Burari · Delhi",
+    "period": "2018–2021 investigation",
+    "category": "Multiple deaths",
+    "status": "Police closure report · ritual-related accident conclusion reported",
+    "status_type": "investigation-closed",
+    "summary": "Eleven members of the Chundawat family were found dead at their Burari home on 1 July 2018. Police investigated the deaths, diaries and family context; reporting on the psychological autopsy described an unintended fatal ritual.",
+    "tags": [
+      "India",
+      "Delhi",
+      "Forensic psychology",
+      "Family deaths"
+    ],
+    "sections": {
+      "overview": "Eleven members of the Chundawat family were found dead at their home in Burari, Delhi, on 1 July 2018. The case initially prompted questions about homicide, suicide and ritual practice.",
+      "background": "The family lived together in Sant Nagar, Burari. Investigators examined handwritten notebooks, family routines, interviews with relatives and neighbours, and the circumstances preceding the deaths.",
+      "timeline": "The deaths were discovered on 1 July 2018. Police registered a case and transferred the investigation to the Crime Branch. A CFSL psychological-autopsy report was reported in September 2018; later police reporting described a closure report.",
+      "scene_findings": "The family residence was the central scene. The dossier deliberately avoids reproducing graphic scene descriptions and focuses on documented investigative findings.",
+      "forensic_evidence": "Post-mortem examinations and a CFSL psychological autopsy were discussed in public reporting. The psychological autopsy examined notebooks, statements and family context; it is an investigative tool, not a psychiatric diagnosis of every deceased person.",
+      "witness_statements": "Relatives and neighbours were interviewed by investigators and forensic experts. Their accounts were considered alongside diaries and medical records.",
+      "investigative_leads": "Investigators examined the family's notebooks, ritual instructions and the role of family member Lalit. Media speculation about occult activity should not be confused with forensic findings.",
+      "investigation_issues": "Early assumptions, sensational reporting and the interpretation of handwritten notes created confusion. A careful account should distinguish official investigative conclusions from media shorthand.",
+      "official_conclusion": "The CFSL psychological-autopsy findings were reported as indicating a ritual-related accident without an intention to die. Public accounts of the final police closure process should be checked against the original filing before the procedural status is described more specifically.",
+      "unanswered_questions": "How should psychological-autopsy findings be interpreted? What do the notebooks establish, and what do they not establish? How can media avoid stigmatizing mental health or religious practice?"
+    },
+    "timeline": [
+      {
+        "date": "2018-07-01",
+        "title": "Deaths discovered",
+        "detail": "Eleven members of one family were found dead at their Burari residence.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "2018-07",
+        "title": "Crime Branch investigation",
+        "detail": "The Delhi Police Crime Branch examined the scene, notebooks and family context.",
+        "evidence_status": "Documented investigation"
+      },
+      {
+        "date": "2018-09-14",
+        "title": "Psychological-autopsy findings reported",
+        "detail": "News reports described the CFSL report as indicating a ritual-related accident rather than an intentional suicide pact.",
+        "evidence_status": "Reported forensic finding"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "burari-deaths-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "burari-deaths-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "burari-deaths-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "burari-deaths-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "How should psychological-autopsy findings be interpreted? What do the notebooks establish, and what do they not establish? How can media avoid stigmatizing mental health or religious practice?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Burari deaths: Delhi Police receive psychological autopsy report",
+        "publisher": "The Indian Express",
+        "url": "https://indianexpress.com/article/cities/delhi/burari-deaths-delhi-police-receive-psychological-autopsy-report-5355456/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Burari deaths psychological autopsy report",
+        "publisher": "NDTV / PTI",
+        "url": "https://www.ndtv.com/delhi-news/delhis-burari-deaths-not-suicide-but-accident-psychological-autopsy-report-1916739",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. The reported psychological-autopsy finding is not a substitute for the full police record; verify the final closure filing before publication."
+  },
+  {
+    "id": "nithari-killings",
+    "case_number": "ER-007",
+    "title": "The Nithari Killings",
+    "subtitle": "The Noida disappearances and criminal cases",
+    "country": "India",
+    "region": "Nithari · Noida · Uttar Pradesh",
+    "period": "2005–2006 discoveries · litigation through 2025",
+    "category": "Multiple homicide cases",
+    "status": "Major convictions overturned; Koli acquitted in final case (2025)",
+    "status_type": "court-appeal",
+    "summary": "The Nithari cases followed disappearances and the discovery of human remains near a house in Noida in December 2006. In November 2025, the Supreme Court set aside Surendra Koli's final remaining conviction.",
+    "tags": [
+      "India",
+      "Noida",
+      "Supreme Court",
+      "Investigation failures"
+    ],
+    "sections": {
+      "overview": "The Nithari cases came to public attention after human remains were discovered in a drain near a house in Nithari, Noida, in December 2006. Multiple FIRs and trials followed, involving accused Moninder Singh Pandher and Surendra Koli.",
+      "background": "The victims included children and young women from the surrounding community. Their families' reports of disappearances and the handling of complaints became central to public scrutiny.",
+      "timeline": "Remains were discovered on 29 December 2006. Investigations led to multiple criminal cases. Courts later acquitted the accused in several cases; the Supreme Court's 11 November 2025 curative decision set aside Koli's last remaining conviction.",
+      "scene_findings": "The drain and property near which remains were found became focal points. Public summaries vary; consult investigation records and judgments for case-specific scene details.",
+      "forensic_evidence": "The prosecutions involved recovery, identification and forensic examination of remains and other material. The later appellate decisions scrutinized evidentiary reliability and investigative shortcomings.",
+      "witness_statements": "Families of missing people, neighbours and investigators provided accounts. The record spans multiple FIRs; evidence in one prosecution cannot automatically be transferred to another.",
+      "investigative_leads": "Investigators pursued separate cases arising from the disappearances and recoveries. The legal outcomes differ across cases and must be tracked individually.",
+      "investigation_issues": "The cases exposed serious questions about missing-person reporting, scene preservation, investigation quality, evidentiary standards and the treatment of vulnerable families.",
+      "official_conclusion": "On 11 November 2025, the Supreme Court allowed Surendra Koli's curative petition in the final pending case, set aside his conviction and ordered release if not required elsewhere. Earlier acquittals also affected the co-accused. The case history should be read through individual judgments, not a single simplified verdict.",
+      "unanswered_questions": "Which missing-person reports were not acted upon promptly? How did investigative errors affect individual prosecutions? What accountability and support did affected families receive?"
+    },
+    "timeline": [
+      {
+        "date": "2006-12-29",
+        "title": "Human remains discovered",
+        "detail": "Skeletal remains were discovered in a drain near a house in Nithari, Noida.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "2007",
+        "title": "Multiple cases investigated",
+        "detail": "Police registered multiple FIRs and investigated disappearances and recovered remains.",
+        "evidence_status": "Documented investigation"
+      },
+      {
+        "date": "2023-10",
+        "title": "Allahabad High Court acquittals",
+        "detail": "The High Court acquitted Pandher and Koli in several cases, citing deficiencies in evidence.",
+        "evidence_status": "Court proceedings"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "Supreme Court curative decision",
+        "detail": "The Supreme Court set aside Koli's final remaining conviction and ordered release if not required in another case.",
+        "evidence_status": "Supreme Court judgment"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "nithari-killings-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "nithari-killings-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "nithari-killings-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "nithari-killings-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "Which missing-person reports were not acted upon promptly? How did investigative errors affect individual prosecutions? What accountability and support did affected families receive?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Supreme Court sets aside Surendra Koli's conviction in last Nithari case",
+        "publisher": "Akashvani News",
+        "url": "https://newsonair.gov.in/supreme-court-sets-aside-surendra-kolis-conviction-in-last-nithari-case/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Nithari killings: Supreme Court acquits Surendra Koli in last pending case",
+        "publisher": "The Indian Express",
+        "url": "https://indianexpress.com/article/legal-news/nithari-killings-supreme-court-acquits-surendra-koli-in-last-pending-case-orders-his-release-10358544/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Surendra Koli v State of Uttar Pradesh, 2025 SCC OnLine SC 2384",
+        "publisher": "SCC Times",
+        "url": "https://www.scconline.com/blog/post/2025/11/12/supreme-court-acquits-nithari-killings-accused-surendra-koli/",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "cyanide-mohan",
+    "case_number": "ER-008",
+    "title": "Cyanide Mohan",
+    "subtitle": "Mohan Kumar and the Karnataka serial-poisoning cases",
+    "country": "India",
+    "region": "Dakshina Kannada · Karnataka",
+    "period": "2003–2009 cases · convictions through 2020",
+    "category": "Serial homicide",
+    "status": "Convicted in 20 murder cases · sentences include life imprisonment",
+    "status_type": "convicted",
+    "summary": "Mohan Kumar, known as Cyanide Mohan, was convicted in 20 murder cases involving women he met in Karnataka and neighbouring areas. Courts imposed life sentences and death sentences in individual cases; some death sentences were commuted.",
+    "tags": [
+      "India",
+      "Karnataka",
+      "Serial homicide",
+      "Court records"
+    ],
+    "sections": {
+      "overview": "Mohan Kumar, widely known as Cyanide Mohan, was arrested in 2009 after a series of deaths of women across Karnataka and nearby areas were linked by investigators. Courts ultimately convicted him in 20 murder cases.",
+      "background": "Mohan Kumar was a former schoolteacher. Investigators said he used aliases and cultivated relationships with women before luring them away. Descriptions of victims should remain respectful and avoid implying blame.",
+      "timeline": "Investigators linked cases from 2003–2009. Kumar was arrested in October 2009. Courts delivered convictions and sentences across separate prosecutions, with a final 20th-case conviction in 2020.",
+      "scene_findings": "The cases involved different locations, including lodges and public facilities. Each incident has its own record; a single composite scene narrative would be misleading.",
+      "forensic_evidence": "Toxicology, post-mortem examinations, recovered property and documentary evidence featured in individual prosecutions. Evidence and sentence outcomes varied by case.",
+      "witness_statements": "Investigators relied on witness accounts, records and recovered property in separate trials. The case files should be consulted individually rather than treating all cases as one trial.",
+      "investigative_leads": "Police connected a pattern of aliases, travel and repeated circumstances. Investigators' broader estimates should be distinguished from the 20 murder cases in which convictions were reported.",
+      "investigation_issues": "The series raises questions about missing-person investigations, cross-district information sharing, identification of unknown deceased women and how early deaths were classified.",
+      "official_conclusion": "Reporting states Kumar was convicted in 20 murder cases. The Karnataka High Court commuted a 2013 death sentence to life in 2017; in 2020 he received life imprisonment in the 20th case. Check each judgment for the precise sentence in each prosecution.",
+      "unanswered_questions": "How were separate cases linked? What data-sharing failures delayed recognition of a pattern? How should investigators avoid conflating allegations with adjudicated counts?"
+    },
+    "timeline": [
+      {
+        "date": "2003",
+        "title": "Series period begins",
+        "detail": "Later investigations linked several deaths from this period to Mohan Kumar.",
+        "evidence_status": "Retrospective linkage"
+      },
+      {
+        "date": "2009-10",
+        "title": "Arrest and investigation",
+        "detail": "Kumar was arrested in October 2009; investigators connected multiple cases.",
+        "evidence_status": "Documented investigation"
+      },
+      {
+        "date": "2013",
+        "title": "Death sentence in one case",
+        "detail": "A trial court imposed a death sentence in an individual prosecution.",
+        "evidence_status": "Court judgment"
+      },
+      {
+        "date": "2017",
+        "title": "Death sentence commuted",
+        "detail": "The Karnataka High Court commuted a death sentence to life imprisonment in one case.",
+        "evidence_status": "Appellate outcome"
+      },
+      {
+        "date": "2020-06",
+        "title": "20th case conviction",
+        "detail": "A Mangaluru court convicted Kumar in the final registered murder case and imposed life imprisonment.",
+        "evidence_status": "Court outcome"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "cyanide-mohan-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "cyanide-mohan-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "cyanide-mohan-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "cyanide-mohan-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "How were separate cases linked? What data-sharing failures delayed recognition of a pattern? How should investigators avoid conflating allegations with adjudicated counts?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "How Karnataka Police nabbed serial killer Cyanide Mohan",
+        "publisher": "The Indian Express",
+        "url": "https://indianexpress.com/article/cities/bangalore/love-sex-and-murder-how-karnataka-police-nabbed-serial-killer-cyanide-mohan-9022975/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Cyanide Mohan gets life sentence in 20th murder case",
+        "publisher": "The Indian Express / PTI",
+        "url": "https://indianexpress.com/article/cities/bangalore/cyanide-mohan-gets-life-sentence-in-20th-murder-case-6476940/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Cyanide Mohan convicted in 20th murder case",
+        "publisher": "NDTV / PTI",
+        "url": "https://www.ndtv.com/karnataka-news/serial-killer-cyanide-mohan-convicted-in-20th-murder-case-2249872",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "cyanide-mallika",
+    "case_number": "ER-009",
+    "title": "Cyanide Mallika",
+    "subtitle": "The Karnataka cases involving K. D. Kempamma",
+    "country": "India",
+    "region": "Bengaluru Rural · Karnataka",
+    "period": "2007 onward prosecutions",
+    "category": "Homicide cases",
+    "status": "Mixed case-specific outcomes · 2018 acquittal in one appeal",
+    "status_type": "mixed-court",
+    "summary": "K. D. Kempamma, known in media as Cyanide Mallika, was prosecuted in a series of cases involving women and alleged poisonings and thefts. Appellate outcomes differ by prosecution; a 2018 Karnataka High Court judgment acquitted her in one case.",
+    "tags": [
+      "India",
+      "Karnataka",
+      "Appellate judgment",
+      "Forensic evidence"
+    ],
+    "sections": {
+      "overview": "K. D. Kempamma, referred to in media as Cyanide Mallika, was prosecuted in multiple cases involving women who died after encounters at religious sites. The cases should be studied individually because evidence and outcomes differed.",
+      "background": "Public reporting described victims who visited temples and the accused's alleged use of religious trust to approach them. The dossier avoids sensational framing and focuses on the evidentiary record.",
+      "timeline": "Investigations and prosecutions took place across multiple districts. A 2009 trial-court death sentence in the Muniyamma case was reviewed by the Karnataka High Court; in a separate Elizabeth case, the High Court acquitted Mallika in 2018.",
+      "scene_findings": "The prosecutions involved different locations, including temple premises and rooms. Do not merge details from one victim's case into another.",
+      "forensic_evidence": "Forensic evidence, including chemical analysis in individual cases, was presented in court. The presence or absence of material objects and the evidentiary record differed across proceedings.",
+      "witness_statements": "Witnesses included people who encountered the accused, property owners and investigators. Their testimony must be tied to the specific prosecution.",
+      "investigative_leads": "Investigators pursued alleged links between victim encounters, temple visits and missing jewellery. These are prosecution narratives that must be checked against the court record.",
+      "investigation_issues": "Media labels can imply a settled series-wide finding even where individual charges were not proved. Appellate outcomes and case-specific evidentiary gaps are essential context.",
+      "official_conclusion": "A Karnataka High Court judgment dated 27 November 2018 set aside Mallika's conviction in the Elizabeth murder case and acquitted her in that prosecution. Other case outcomes must be tracked separately; do not describe every allegation as a conviction.",
+      "unanswered_questions": "Which incidents resulted in final convictions? Which were overturned? How did courts assess forensic and witness evidence in each individual case?"
+    },
+    "timeline": [
+      {
+        "date": "2007-07-11",
+        "title": "Elizabeth case incident",
+        "detail": "The prosecution alleged that Elizabeth died after a temple-related encounter; the case later resulted in an appeal.",
+        "evidence_status": "Case-specific allegation"
+      },
+      {
+        "date": "2009-03",
+        "title": "Muniyamma trial judgment",
+        "detail": "A trial court imposed a death sentence in the Muniyamma prosecution.",
+        "evidence_status": "Trial-court outcome"
+      },
+      {
+        "date": "2012-08-02",
+        "title": "High Court judgment",
+        "detail": "The Karnataka High Court considered a death-sentence reference and appeal in a separate prosecution.",
+        "evidence_status": "Court record"
+      },
+      {
+        "date": "2018-11-27",
+        "title": "Elizabeth case acquittal",
+        "detail": "The Karnataka High Court allowed the appeal and set aside Mallika's conviction in the Elizabeth case.",
+        "evidence_status": "Appellate judgment"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "cyanide-mallika-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "cyanide-mallika-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "cyanide-mallika-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "cyanide-mallika-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "Which incidents resulted in final convictions? Which were overturned? How did courts assess forensic and witness evidence in each individual case?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mallika @ Kala @ Kempamma v State of Karnataka (2018)",
+        "publisher": "Karnataka High Court judgment via Indian Kanoon",
+        "url": "https://indiankanoon.org/doc/175213358/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Registrar General v Mallika (2012)",
+        "publisher": "Karnataka High Court judgment via Indian Kanoon",
+        "url": "https://indiankanoon.org/doc/151419510/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Cyanide Mallika gets death",
+        "publisher": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/bengaluru/cyanide-mallika-gets-death/articleshow/12476553.cms",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "jolly-joseph",
+    "case_number": "ER-010",
+    "title": "Koodathayi Deaths · Jolly Joseph",
+    "subtitle": "The Kerala family-deaths investigation",
+    "country": "India",
+    "region": "Koodathayi · Kozhikode · Kerala",
+    "period": "2002–2016 alleged incidents · trial ongoing",
+    "category": "Multiple homicide allegations",
+    "status": "Undertrial · proceedings ongoing (2026)",
+    "status_type": "undertrial",
+    "summary": "Jolly Joseph is accused in six deaths in her extended family over a 14-year period. She remains an undertrial; as of October 2026 reporting, the trial is ongoing and no verdict has been delivered.",
+    "tags": [
+      "India",
+      "Kerala",
+      "Undertrial",
+      "Forensic toxicology"
+    ],
+    "sections": {
+      "overview": "The Koodathayi case concerns six deaths in an extended family in Kozhikode district over a period of years. Police arrested Jolly Joseph in 2019 and alleged that the deaths were connected. The allegations have not been finally adjudicated.",
+      "background": "The deaths occurred within an extended family in Koodathayi. The case received widespread attention after investigators revisited earlier deaths and exhumations and toxicological findings became central to the investigation.",
+      "timeline": "The deaths span 2002–2016 according to the prosecution. The investigation became public in 2019. Separate chargesheets were filed; trial proceedings began in 2023 and remain ongoing in 2026 reporting.",
+      "scene_findings": "There are multiple locations and incidents, not one crime scene. Exhumations and examination of historical records formed part of the investigation; avoid treating alleged methods as proven facts.",
+      "forensic_evidence": "The prosecution has relied on toxicology and exhumation-related evidence, alongside records and witness testimony. The defence disputes aspects of the prosecution case. The court has not delivered a verdict.",
+      "witness_statements": "Family members, medical professionals and investigators have been called as witnesses. Reported witness counts are time-sensitive and should be refreshed from current court reporting.",
+      "investigative_leads": "Investigators re-examined earlier deaths, family relationships, alleged motives and records. Any motive attributed to the accused remains a prosecution allegation until adjudication.",
+      "investigation_issues": "The long time span raises issues of preservation, cause-of-death documentation, exhumation, expert evidence and media coverage while a trial is pending.",
+      "official_conclusion": "As reported on 23 October 2026, Jolly Joseph remained in custody as an undertrial and the trial was ongoing. No conviction should be implied; update this status from court records before publication.",
+      "unanswered_questions": "Can each death be independently connected by admissible evidence? How are historical toxicology results interpreted? What safeguards are needed when reporting an active trial?"
+    },
+    "timeline": [
+      {
+        "date": "2002",
+        "title": "First death in prosecution chronology",
+        "detail": "The prosecution's case includes a death in the extended family in 2002.",
+        "evidence_status": "Prosecution chronology"
+      },
+      {
+        "date": "2016",
+        "title": "Latest death in prosecution chronology",
+        "detail": "The six-death sequence alleged by investigators extends through 2016.",
+        "evidence_status": "Prosecution chronology"
+      },
+      {
+        "date": "2019-10",
+        "title": "Arrest and investigation disclosed",
+        "detail": "Police arrested Jolly Joseph as the investigation became public.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "2023",
+        "title": "Trial begins",
+        "detail": "Separate trials/proceedings began after chargesheets were filed.",
+        "evidence_status": "Court proceedings"
+      },
+      {
+        "date": "2026-10-23",
+        "title": "Trial still ongoing",
+        "detail": "Contemporary reporting described Joseph as an undertrial and the case as still being heard.",
+        "evidence_status": "Current reporting"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "jolly-joseph-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "jolly-joseph-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "jolly-joseph-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "jolly-joseph-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "Can each death be independently connected by admissible evidence? How are historical toxicology results interpreted? What safeguards are needed when reporting an active trial?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Koodathayi cyanide killings: where does the case stand?",
+        "publisher": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/city/koodathayi-cyanide-killings-7-years-after-jolly-joseph-s-arrest-where-does-the-case-stand-article-14058271.html",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Kerala HC rejects plea to inspect crime scene",
+        "publisher": "Onmanorama",
+        "url": "https://www.onmanorama.com/news/kerala/2025/08/11/koodathayi-murder-case-appeal-dismissed.amp.html",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "raman-raghav",
+    "case_number": "ER-011",
+    "title": "Raman Raghav",
+    "subtitle": "The 1960s Bombay night-killings investigation",
+    "country": "India",
+    "region": "Bombay · Maharashtra",
+    "period": "1968",
+    "category": "Serial homicide",
+    "status": "Arrested · sentenced to life imprisonment",
+    "status_type": "convicted",
+    "summary": "A series of attacks on people sleeping outdoors terrorised Bombay in the 1960s. Raman Raghav was arrested in 1968 and later sentenced to life imprisonment.",
+    "tags": [
+      "India",
+      "Mumbai",
+      "Historic investigation",
+      "Serial homicide"
+    ],
+    "sections": {
+      "overview": "In the 1960s, a series of attacks on people sleeping outdoors in Bombay created public fear. Police investigations led to the arrest of Raman Raghav in August 1968.",
+      "background": "Many victims were homeless or sleeping in public spaces. The case drew attention to the vulnerability of people living on city streets and the challenges of investigating attacks with few witnesses.",
+      "timeline": "The attacks intensified in 1968. A police team led by Inspector Vinayakrao Vakatkar investigated the pattern. Raman Raghav was arrested in August 1968 after police linked observations and earlier leads.",
+      "scene_findings": "Attacks occurred at night in locations where people slept outdoors. This archive avoids graphic descriptions and focuses on the pattern and investigation.",
+      "forensic_evidence": "The public historical record centres on police observations, survivor accounts, physical circumstances and Raghav's statements. Modern forensic techniques were not available in their present form.",
+      "witness_statements": "Survivors and people in affected neighbourhoods helped investigators develop descriptions and leads. Retrospective recollections should be distinguished from contemporaneous statements.",
+      "investigative_leads": "Police developed a suspect profile from the attack pattern and local observations. An officer's later recollection described noticing Raghav with a wet umbrella in an area where it was not raining.",
+      "investigation_issues": "The victims' social marginalisation made the crimes less visible and complicated identification. Retrospective reporting can overstate the certainty of the number of killings attributed to one person.",
+      "official_conclusion": "Raman Raghav was arrested in 1968, confessed to numerous killings according to later accounts, and was sentenced to life imprisonment. He died in 1995. The precise number of offences conclusively adjudicated should not be conflated with confessions.",
+      "unanswered_questions": "How did investigators identify a pattern across locations? How did survivor accounts shape the inquiry? How did the victims' homelessness affect police response?"
+    },
+    "timeline": [
+      {
+        "date": "1968-06",
+        "title": "Killings intensify",
+        "detail": "Bombay experienced a wave of night-time killings, mainly targeting people sleeping outdoors.",
+        "evidence_status": "Historical reporting"
+      },
+      {
+        "date": "1968-08",
+        "title": "Raman Raghav arrested",
+        "detail": "Police arrested Raghav after investigative leads and observations.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1995",
+        "title": "Raman Raghav dies",
+        "detail": "Raghav died in custody after years of imprisonment.",
+        "evidence_status": "Historical record"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "raman-raghav-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "raman-raghav-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "raman-raghav-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "raman-raghav-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "How did investigators identify a pattern across locations? How did survivor accounts shape the inquiry? How did the victims' homelessness affect police response?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mumbai policeman who nabbed Raman Raghav recalls the case",
+        "publisher": "The Indian Express",
+        "url": "https://indianexpress.com/article/cities/mumbai/mumbai-policeman-who-nabbed-big-ticket-serial-killer-raman-raghav-dies-7051800/",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "stoneman-mumbai",
+    "case_number": "ER-012",
+    "title": "The Stoneman Murders · Mumbai",
+    "subtitle": "The unidentified attacks on pavement sleepers",
+    "country": "India",
+    "region": "Mumbai · Maharashtra",
+    "period": "1980s",
+    "category": "Unsolved serial-homicide series",
+    "status": "Unsolved · offender not identified",
+    "status_type": "unsolved",
+    "summary": "A series of killings of people sleeping outdoors in Mumbai was attributed by the press to a “Stoneman”. Whether the Mumbai and Kolkata series were connected has never been established.",
+    "tags": [
+      "India",
+      "Mumbai",
+      "Cold case",
+      "Unidentified offender"
+    ],
+    "sections": {
+      "overview": "During the mid-to-late 1980s, a series of attacks on people sleeping outdoors in Mumbai were attributed to an unidentified assailant nicknamed the Stoneman. The label is a media term, not a proven offender identity.",
+      "background": "Victims were often poor people sleeping in public spaces. Their social invisibility and limited identification made the cases difficult to investigate and brought attention to the vulnerability of pavement dwellers.",
+      "timeline": "Retrospective accounts commonly place the Mumbai series between 1985 and 1988. Reports describe attacks in areas including Sion and King's Circle; exact counts and dates differ between sources.",
+      "scene_findings": "The attacks were reported in outdoor sleeping locations. Graphic details are omitted. Individual incidents should be verified through contemporaneous police and newspaper records.",
+      "forensic_evidence": "The historical cases predate widespread CCTV and modern forensic practice. Publicly available information on surviving physical evidence is limited.",
+      "witness_statements": "A reported survivor in one attack was unable to provide a clear identification. Many victims had no known relatives or associates to assist identification.",
+      "investigative_leads": "Police investigated patterns and suspects, but no person was charged and convicted as the Stoneman. Later claims linking other killings remain unconfirmed.",
+      "investigation_issues": "The Mumbai series is often merged with the later Kolkata attacks. Similarities do not prove a single offender; counts and chronology vary in secondary sources.",
+      "official_conclusion": "No perpetrator was conclusively identified in the Mumbai series. Its possible relationship to the Kolkata cases remains unproven.",
+      "unanswered_questions": "How many attacks can be reliably attributed to this series? Were the Mumbai and Kolkata incidents connected? What original records survive?"
+    },
+    "timeline": [
+      {
+        "date": "Mid-1980s",
+        "title": "Mumbai series reported",
+        "detail": "A cluster of attacks on people sleeping outdoors was reported in Mumbai.",
+        "evidence_status": "Retrospective chronology"
+      },
+      {
+        "date": "1985–1988",
+        "title": "Pattern investigated",
+        "detail": "Police and press discussed a possible series in areas including Sion and King's Circle.",
+        "evidence_status": "Historical reporting"
+      },
+      {
+        "date": "1988",
+        "title": "Reported end of attacks",
+        "detail": "The commonly described Mumbai series appears to have stopped; no offender was identified.",
+        "evidence_status": "Unresolved"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "stoneman-mumbai-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "stoneman-mumbai-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "stoneman-mumbai-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "stoneman-mumbai-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "How many attacks can be reliably attributed to this series? Were the Mumbai and Kolkata incidents connected? What original records survive?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Stoneman Murders — case file",
+        "publisher": "Crime by Region",
+        "url": "https://www.crimebyregion.com/cases/stoneman-murders.html",
+        "source_type": "public reference"
+      },
+      {
+        "title": "The elusive Stoneman of Kolkata (context on both cities)",
+        "publisher": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india/the-elusive-stoneman-of-kolkata/story-BQBcCHfk87WvoLp2LSCKRN.html",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "stoneman-kolkata",
+    "case_number": "ER-013",
+    "title": "The Stoneman Murders · Kolkata",
+    "subtitle": "The 1989 killings of people sleeping outdoors",
+    "country": "India",
+    "region": "Kolkata · West Bengal",
+    "period": "1989",
+    "category": "Unsolved serial-homicide series",
+    "status": "Unsolved · no confirmed offender",
+    "status_type": "unsolved",
+    "summary": "Thirteen people sleeping outdoors in Kolkata were reported killed over roughly six months in 1989. The cases were never conclusively solved, and a link to Mumbai's earlier series was not established.",
+    "tags": [
+      "India",
+      "Kolkata",
+      "Cold case",
+      "Unidentified offender"
+    ],
+    "sections": {
+      "overview": "Kolkata experienced a series of killings of people sleeping outdoors in 1989. The press used the name “Stoneman” because victims were attacked with heavy stones or concrete objects.",
+      "background": "The victims were pavement dwellers, many of whom were not identified. The case highlights how people living at the margins can be overlooked in public safety and investigative systems.",
+      "timeline": "Historical reporting places the first Kolkata killing in June 1989 and describes 13 victims over approximately six months. Accounts differ on dates and whether later similar incidents belonged to the same series.",
+      "scene_findings": "The attacks occurred at night or early morning in dimly lit areas where people slept. Graphic descriptions are intentionally omitted.",
+      "forensic_evidence": "The historical public record contains limited modern forensic information. The use of heavy objects was a reported commonality, but it does not establish a single perpetrator.",
+      "witness_statements": "No publicly confirmed eyewitness identification resolved the series. Many victims were unidentified, complicating family tracing and case reconstruction.",
+      "investigative_leads": "Police examined similarities between incidents. No suspect was prosecuted and conclusively identified as the offender in the 1989 series.",
+      "investigation_issues": "It remains uncertain whether the Mumbai and Kolkata series were connected or whether copycat crimes or unrelated offenders were involved.",
+      "official_conclusion": "The 1989 Kolkata series remains unsolved in the public record. Do not merge it with the Mumbai series as a single proven case.",
+      "unanswered_questions": "Can victim identities be reconstructed? What police records remain? What evidence would be needed to establish whether the two city series were connected?"
+    },
+    "timeline": [
+      {
+        "date": "1989-06",
+        "title": "First reported Kolkata killing",
+        "detail": "A killing attributed to the Stoneman series was reported in Kolkata.",
+        "evidence_status": "Historical reporting"
+      },
+      {
+        "date": "1989-06 to 1989-12",
+        "title": "Thirteen deaths reported",
+        "detail": "Historical coverage described 13 people killed over roughly six months.",
+        "evidence_status": "Retrospective count"
+      },
+      {
+        "date": "1989-end",
+        "title": "Series subsides",
+        "detail": "The reported cluster ended without a confirmed offender identification.",
+        "evidence_status": "Unresolved"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "stoneman-kolkata-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "stoneman-kolkata-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "stoneman-kolkata-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "stoneman-kolkata-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "Can victim identities be reconstructed? What police records remain? What evidence would be needed to establish whether the two city series were connected?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "The elusive Stoneman of Kolkata",
+        "publisher": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india/the-elusive-stoneman-of-kolkata/story-BQBcCHfk87WvoLp2LSCKRN.html",
+        "source_type": "public reference"
+      },
+      {
+        "title": "The Stoneman Murders — case file",
+        "publisher": "Crime by Region",
+        "url": "https://www.crimebyregion.com/cases/stoneman-murders.html",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "jessica-lal",
+    "case_number": "ER-014",
+    "title": "The Jessica Lal Murder",
+    "subtitle": "The 1999 Delhi restaurant shooting and retrial",
+    "country": "India",
+    "region": "New Delhi · Delhi",
+    "period": "1999–2010 appeals",
+    "category": "Homicide",
+    "status": "Conviction upheld by Supreme Court (2010)",
+    "status_type": "convicted",
+    "summary": "Jessica Lal was shot at a Delhi restaurant in April 1999. An initial trial acquittal was overturned by the Delhi High Court; the Supreme Court upheld Manu Sharma's conviction in 2010.",
+    "tags": [
+      "India",
+      "Delhi",
+      "Court appeal",
+      "Witness testimony"
+    ],
+    "sections": {
+      "overview": "Jessica Lal was shot and killed at a crowded restaurant in south Delhi on 29 April 1999. The case became nationally significant after the trial court acquitted the accused and public scrutiny intensified.",
+      "background": "Lal was working at a restaurant event when she was shot. The case drew attention to witness intimidation, the reliability of testimony and public accountability in high-profile criminal trials.",
+      "timeline": "The shooting occurred on 29 April 1999. The trial court acquitted the accused in February 2006. The Delhi High Court convicted Manu Sharma in December 2006, and the Supreme Court upheld the conviction in April 2010.",
+      "scene_findings": "The restaurant was crowded and multiple people were present. The case record examined the shooting, the firearm and events after the incident.",
+      "forensic_evidence": "The prosecution relied on medical and ballistic evidence alongside witness testimony and circumstantial material. The appellate courts assessed the evidence in the context of the trial record.",
+      "witness_statements": "Witness testimony became a central issue, including concerns about witnesses turning hostile. The appellate proceedings revisited the credibility and cumulative weight of evidence.",
+      "investigative_leads": "Investigators examined the accused's presence, firearm evidence, witnesses and events following the shooting. The legal findings are established by the appellate judgments.",
+      "investigation_issues": "The case exposed the impact of witness intimidation, investigative quality and public pressure on criminal proceedings.",
+      "official_conclusion": "The Delhi High Court convicted Manu Sharma in December 2006 and imposed life imprisonment. The Supreme Court upheld the conviction in April 2010.",
+      "unanswered_questions": "What safeguards protect witnesses? How should courts evaluate hostile witnesses? What institutional lessons followed the initial acquittal?"
+    },
+    "timeline": [
+      {
+        "date": "1999-04-29",
+        "title": "Jessica Lal shot",
+        "detail": "Lal was shot at Tamarind Court restaurant in south Delhi.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "2006-02-21",
+        "title": "Trial court acquittal",
+        "detail": "The trial court acquitted the accused.",
+        "evidence_status": "Court record"
+      },
+      {
+        "date": "2006-12",
+        "title": "Delhi High Court conviction",
+        "detail": "The High Court convicted Manu Sharma and imposed life imprisonment.",
+        "evidence_status": "Court judgment"
+      },
+      {
+        "date": "2010-04-19",
+        "title": "Supreme Court upholds conviction",
+        "detail": "The Supreme Court upheld the High Court verdict.",
+        "evidence_status": "Supreme Court outcome"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "jessica-lal-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "jessica-lal-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "jessica-lal-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "jessica-lal-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "What safeguards protect witnesses? How should courts evaluate hostile witnesses? What institutional lessons followed the initial acquittal?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jessica Lal murder case: timeline",
+        "publisher": "India Today",
+        "url": "https://www.indiatoday.in/latest-headlines/story/jessica-lall-murder-case-timeline-72143-2010-04-18",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Supreme Court case records",
+        "publisher": "Supreme Court of India",
+        "url": "https://www.sci.gov.in/",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "delhi-2012",
+    "case_number": "ER-015",
+    "title": "The 2012 Delhi Gang Rape and Murder Case",
+    "subtitle": "The Nirbhaya case and criminal justice reforms",
+    "country": "India",
+    "region": "New Delhi · Delhi",
+    "period": "2012–2020 criminal proceedings",
+    "category": "Sexual violence and homicide",
+    "status": "Four adult convicts executed in 2020 · juvenile process separate",
+    "status_type": "court-resolved",
+    "summary": "A 23-year-old physiotherapy student was sexually assaulted on a bus in Delhi on 16 December 2012 and later died. Four adult convicts were executed in March 2020 after appeals; the case prompted major legal and public debate.",
+    "tags": [
+      "India",
+      "Delhi",
+      "Supreme Court",
+      "Criminal justice reform"
+    ],
+    "sections": {
+      "overview": "On 16 December 2012, a 23-year-old student was brutally assaulted on a bus in Delhi. She died on 29 December 2012 after treatment in Singapore. The case triggered national protests and legal reform debates.",
+      "background": "The survivor was a young student travelling with a friend. Her identity is protected in law; the public nickname “Nirbhaya” is used in reporting. The archive avoids graphic descriptions and centres the victim's dignity.",
+      "timeline": "The assault occurred on 16 December 2012. The survivor died on 29 December 2012. Four adult defendants were convicted and sentenced to death; the Supreme Court upheld the sentences in 2017. The four were executed on 20 March 2020.",
+      "scene_findings": "The bus and the route through Delhi formed part of the investigation. The dossier does not reproduce graphic details of the assault.",
+      "forensic_evidence": "Medical evidence, biological evidence, vehicle identification, witness accounts and the survivor's statements were central to the prosecution. The courts assessed the record in appeals.",
+      "witness_statements": "The survivor's statements and the account of her male friend were important parts of the record. Reporting should avoid reproducing intimate or traumatic details unnecessarily.",
+      "investigative_leads": "Police traced the bus and suspects through investigative leads and evidence. The case resulted in convictions of four adult defendants; a juvenile was dealt with through a separate legal process.",
+      "investigation_issues": "The case prompted scrutiny of policing, public transport safety, sexual violence law, trial procedure and the death penalty. Public discussion should avoid turning a victim's suffering into spectacle.",
+      "official_conclusion": "The Supreme Court upheld the death sentences of the four adult convicts in May 2017. They were executed on 20 March 2020. The juvenile's case proceeded separately under the law then in force.",
+      "unanswered_questions": "What institutional changes improved survivor support? How should public safety be evaluated beyond headline reforms? What are the limits and consequences of capital punishment?"
+    },
+    "timeline": [
+      {
+        "date": "2012-12-16",
+        "title": "Assault in Delhi",
+        "detail": "A 23-year-old student was assaulted on a bus in Delhi.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "2012-12-29",
+        "title": "Survivor dies",
+        "detail": "She died in Singapore after receiving medical treatment.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "2013-09",
+        "title": "Trial court verdict",
+        "detail": "Four adult accused were convicted and sentenced to death.",
+        "evidence_status": "Court judgment"
+      },
+      {
+        "date": "2017-05-05",
+        "title": "Supreme Court upholds sentences",
+        "detail": "The Supreme Court upheld the death sentences of the four adult convicts.",
+        "evidence_status": "Supreme Court judgment"
+      },
+      {
+        "date": "2020-03-20",
+        "title": "Executions carried out",
+        "detail": "The four adult convicts were executed at Tihar Jail.",
+        "evidence_status": "Official event"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "delhi-2012-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "delhi-2012-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "delhi-2012-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "delhi-2012-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "What institutional changes improved survivor support? How should public safety be evaluated beyond headline reforms? What are the limits and consequences of capital punishment?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Delhi gangrape case: from December 16, 2012 to now",
+        "publisher": "The Indian Express",
+        "url": "https://indianexpress.com/article/india/delhi-gangrape-case-from-december-16-2012-to-now-supreme-court-verdict-death-sentence-4642013/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Supreme Court of India",
+        "publisher": "Supreme Court of India",
+        "url": "https://www.sci.gov.in/",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "sheena-bora",
+    "case_number": "ER-016",
+    "title": "The Sheena Bora Case",
+    "subtitle": "The Mumbai disappearance and murder trial",
+    "country": "India",
+    "region": "Mumbai · Maharashtra",
+    "period": "2012 alleged offence · case surfaced 2015–present",
+    "category": "Homicide allegation",
+    "status": "Trial ongoing · undertrial proceedings (2026)",
+    "status_type": "undertrial",
+    "summary": "Sheena Bora disappeared in 2012; the case came to light in 2015 after a driver disclosed information. The prosecution alleges a conspiracy involving family members. The trial remained ongoing in 2026 reporting.",
+    "tags": [
+      "India",
+      "Mumbai",
+      "Undertrial",
+      "CBI"
+    ],
+    "sections": {
+      "overview": "Sheena Bora, aged 24, disappeared in 2012. The case came to public attention in 2015 after driver Shyamvar Rai's arrest in another matter led investigators to the alleged killing and disposal of her body.",
+      "background": "Sheena was the daughter of Indrani Mukerjea. The case involved complex family relationships and extensive media coverage. Allegations against the accused remain subject to trial.",
+      "timeline": "The alleged killing occurred in April 2012, according to the prosecution. The case surfaced in 2015; arrests followed and the CBI took over. The trial has continued for years, with the Supreme Court granting a further nine months in March 2026.",
+      "scene_findings": "The prosecution narrative includes a vehicle journey and a forest disposal site in Raigad district. The alleged sequence should be attributed to the charge sheet, not presented as an adjudicated finding.",
+      "forensic_evidence": "The prosecution has relied on forensic material, identification evidence, call records and other circumstantial evidence. The defence has challenged aspects of the record; the trial court has not delivered a verdict.",
+      "witness_statements": "The case has involved a large witness list, including the driver who became an approver and family acquaintances. Witness testimony remains part of the pending trial.",
+      "investigative_leads": "The investigation began after information from Shyamvar Rai and developed into a CBI prosecution. Motive theories reported in media remain allegations unless established by the court.",
+      "investigation_issues": "The long-running trial raises questions about witness examination, documentary evidence, forensic identification and pre-trial media narratives.",
+      "official_conclusion": "As of March 2026, the Supreme Court extended the trial deadline by nine months and directed the trial court to conclude within that period. The case remained pending in 2026 reporting; no verdict is represented here.",
+      "unanswered_questions": "How will the court assess the approver's evidence? Which forensic findings are independently corroborated? What explains the extended duration of the trial?"
+    },
+    "timeline": [
+      {
+        "date": "2012-04",
+        "title": "Alleged killing",
+        "detail": "The prosecution alleges Sheena Bora was killed in April 2012.",
+        "evidence_status": "Prosecution allegation"
+      },
+      {
+        "date": "2015-08",
+        "title": "Case comes to light",
+        "detail": "Driver Shyamvar Rai's arrest led to disclosures and a wider investigation.",
+        "evidence_status": "Documented investigation"
+      },
+      {
+        "date": "2015",
+        "title": "CBI investigation",
+        "detail": "The CBI took over and arrested additional accused.",
+        "evidence_status": "Documented investigation"
+      },
+      {
+        "date": "2026-03-18",
+        "title": "Supreme Court grants final extension",
+        "detail": "The Supreme Court granted nine additional months for trial completion and said no further extension would be entertained.",
+        "evidence_status": "Court order"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "sheena-bora-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "sheena-bora-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "sheena-bora-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "sheena-bora-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "How will the court assess the approver's evidence? Which forensic findings are independently corroborated? What explains the extended duration of the trial?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Supreme Court grants nine-month extension to conclude Sheena Bora trial",
+        "publisher": "The Indian Express",
+        "url": "https://indianexpress.com/article/legal-news/trial-not-concluded-sc-special-court-complete-sheena-bora-trial-nine-months-10589198/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Sheena Bora case: trial extension",
+        "publisher": "Bar & Bench",
+        "url": "https://www.barandbench.com/news/litigation/sheena-bora-murder-case-supreme-court-grants-9-month-extension-to-conclude-trial",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Sheena Bora case updates",
+        "publisher": "The Indian Express",
+        "url": "https://indianexpress.com/about/sheena-bora-murder-case/",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "umesh-reddy",
+    "case_number": "ER-017",
+    "title": "Umesh Reddy",
+    "subtitle": "The Karnataka serial rape and murder prosecutions",
+    "country": "India",
+    "region": "Karnataka · Bengaluru and surrounding districts",
+    "period": "1990s–2000s proceedings",
+    "category": "Serial sexual violence and homicide",
+    "status": "Death sentence upheld in Jayashree Subbaiah case · later mercy litigation",
+    "status_type": "court-sentence",
+    "summary": "Former police constable B. A. Umesh Reddy was accused in numerous cases and sentenced to death for the rape and murder of Jayashree Subbaiah. The Karnataka High Court rejected a challenge related to the mercy decision in 2021.",
+    "tags": [
+      "India",
+      "Karnataka",
+      "Court judgment",
+      "Serial offender"
+    ],
+    "sections": {
+      "overview": "B. A. Umesh Reddy, a former police constable, was accused in numerous sexual assault and homicide cases. The death sentence in the Jayashree Subbaiah case became the principal reported conviction and appellate matter.",
+      "background": "The case exposed vulnerabilities in the investigation of sexual violence and the danger of institutional trust being abused. This dossier focuses on the adjudicated case and does not treat every accusation as a conviction.",
+      "timeline": "A sessions court sentenced Reddy to death in 2006 for the Jayashree Subbaiah rape and murder. The Karnataka High Court upheld the sentence in 2009 and the Supreme Court in 2011. Mercy proceedings were rejected; the Karnataka High Court considered a later challenge in 2021.",
+      "scene_findings": "The Jayashree Subbaiah case involved the victim's home. The archive omits graphic detail and focuses on the court record and the evidence described in judgments.",
+      "forensic_evidence": "The prosecution relied on witness testimony and other circumstantial evidence. The victim's young son was reported as a key witness; the courts assessed the complete record.",
+      "witness_statements": "The testimony of the victim's five-year-old son was reported as important to the prosecution. Witnesses must be discussed with sensitivity, particularly where children are involved.",
+      "investigative_leads": "Investigators connected Reddy to the Jayashree Subbaiah case and other allegations. Only the specific charges and findings recorded by courts should be labelled convictions.",
+      "investigation_issues": "The case highlights the gap between broad allegations and proven charges, the importance of child-witness safeguards and the legal scrutiny of mercy decisions.",
+      "official_conclusion": "The death sentence in the Jayashree Subbaiah case was upheld by the Karnataka High Court and Supreme Court. A 2021 Karnataka High Court decision rejected a challenge to the rejection of his mercy plea. Confirm any later execution or commutation developments from current court records before publication.",
+      "unanswered_questions": "What protections should apply to child witnesses? How should courts assess the reliability of circumstantial evidence? What is the current legal status after the 2021 proceedings?"
+    },
+    "timeline": [
+      {
+        "date": "2006",
+        "title": "Sessions court death sentence",
+        "detail": "A Bengaluru sessions court sentenced Reddy to death in the Jayashree Subbaiah case.",
+        "evidence_status": "Court judgment"
+      },
+      {
+        "date": "2009",
+        "title": "Karnataka High Court upholds sentence",
+        "detail": "The High Court upheld the death sentence.",
+        "evidence_status": "Appellate judgment"
+      },
+      {
+        "date": "2011",
+        "title": "Supreme Court upholds sentence",
+        "detail": "The Supreme Court upheld the sentence.",
+        "evidence_status": "Supreme Court outcome"
+      },
+      {
+        "date": "2013-05-12",
+        "title": "Mercy petition rejected",
+        "detail": "The President rejected the mercy petition, as reported in later proceedings.",
+        "evidence_status": "Executive decision"
+      },
+      {
+        "date": "2021-09-29",
+        "title": "Karnataka High Court rejects challenge",
+        "detail": "The High Court dismissed a plea challenging rejection of the mercy petition.",
+        "evidence_status": "High Court judgment"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "umesh-reddy-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "umesh-reddy-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "umesh-reddy-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "umesh-reddy-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "What protections should apply to child witnesses? How should courts assess the reliability of circumstantial evidence? What is the current legal status after the 2021 proceedings?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Karnataka HC junks plea against rejection of Umesh Reddy's mercy plea",
+        "publisher": "The Indian Express",
+        "url": "https://indianexpress.com/article/cities/bangalore/karnataka-hc-junks-plea-against-rejection-of-serial-killer-umesh-reddys-mercy-plea-7542457/",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "priyadarshini-mattoo",
+    "case_number": "ER-018",
+    "title": "The Priyadarshini Mattoo Case",
+    "subtitle": "The 1996 Delhi rape and murder investigation",
+    "country": "India",
+    "region": "New Delhi · Delhi",
+    "period": "1996–2010 appeals",
+    "category": "Sexual violence and homicide",
+    "status": "Conviction upheld · death sentence commuted to life (2010)",
+    "status_type": "court-resolved",
+    "summary": "Law student Priyadarshini Mattoo was raped and murdered in Delhi in January 1996. Santosh Kumar Singh was initially acquitted, convicted by the Delhi High Court in 2006, and the Supreme Court upheld the conviction while commuting the death sentence to life in 2010.",
+    "tags": [
+      "India",
+      "Delhi",
+      "Court appeal",
+      "Investigation failure"
+    ],
+    "sections": {
+      "overview": "Priyadarshini Mattoo, a law student, was raped and murdered at her home in Delhi in January 1996. The case became notable for the initial acquittal and later reversal on appeal.",
+      "background": "Mattoo had reported harassment by Santosh Kumar Singh before her death. The case raised questions about police response, influence and the handling of complaints.",
+      "timeline": "The crime occurred in January 1996. A trial court acquitted Singh in December 1999, sharply criticising the investigation. The Delhi High Court convicted him in October 2006 and imposed death; the Supreme Court upheld the conviction but commuted the sentence to life in October 2010.",
+      "scene_findings": "Mattoo was attacked at her residence. Graphic descriptions are omitted; the case record should be used for scene details and evidentiary assessment.",
+      "forensic_evidence": "The prosecution presented medical and physical evidence alongside witness and circumstantial material. The High Court reassessed the record after the trial court acquittal.",
+      "witness_statements": "Witness accounts and the history of complaints were central to the case. The chronology of complaints should be read from the court record.",
+      "investigative_leads": "Investigators examined Singh's connection to Mattoo, earlier complaints and physical evidence. The High Court's appellate review overturned the trial court's assessment.",
+      "investigation_issues": "The case drew attention to alleged influence, investigative failures, prosecutorial delay and the role of appellate courts in correcting miscarriages of justice.",
+      "official_conclusion": "The Delhi High Court convicted Santosh Kumar Singh in October 2006 and sentenced him to death. On 6 October 2010, the Supreme Court upheld the conviction but commuted the death sentence to life imprisonment.",
+      "unanswered_questions": "What early investigative steps failed? How did appellate review reassess the evidence? What protections can help victims reporting stalking or harassment?"
+    },
+    "timeline": [
+      {
+        "date": "1996-01",
+        "title": "Priyadarshini Mattoo murdered",
+        "detail": "Mattoo was found murdered at her Delhi residence.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1999-12-03",
+        "title": "Trial court acquittal",
+        "detail": "The trial court acquitted Santosh Singh and criticised the investigation.",
+        "evidence_status": "Court judgment"
+      },
+      {
+        "date": "2006-10-17",
+        "title": "Delhi High Court conviction",
+        "detail": "The High Court convicted Singh and imposed a death sentence.",
+        "evidence_status": "Appellate judgment"
+      },
+      {
+        "date": "2010-10-06",
+        "title": "Supreme Court upholds conviction",
+        "detail": "The Supreme Court upheld the conviction but commuted the death sentence to life.",
+        "evidence_status": "Supreme Court judgment"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "priyadarshini-mattoo-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "priyadarshini-mattoo-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "priyadarshini-mattoo-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "priyadarshini-mattoo-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "What early investigative steps failed? How did appellate review reassess the evidence? What protections can help victims reporting stalking or harassment?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Priyadarshini Mattoo case: chronology of events",
+        "publisher": "The Indian Express",
+        "url": "https://indianexpress.com/article/india/crime/priyadarshini-mattoo-case-chronology-of-events/lite/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Supreme Court of India",
+        "publisher": "Supreme Court of India",
+        "url": "https://www.sci.gov.in/",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "dhananjoy-chatterjee",
+    "case_number": "ER-019",
+    "title": "Dhananjoy Chatterjee Case",
+    "subtitle": "The 1990 Hetal Parekh murder case in Kolkata",
+    "country": "India",
+    "region": "Kolkata · West Bengal",
+    "period": "1990–2004",
+    "category": "Sexual violence and homicide",
+    "status": "Conviction upheld · executed 14 August 2004",
+    "status_type": "court-resolved",
+    "summary": "Dhananjoy Chatterjee was convicted of the rape and murder of Hetal Parekh in Kolkata in 1990. The Supreme Court upheld the conviction and death sentence; Chatterjee was executed in August 2004.",
+    "tags": [
+      "India",
+      "Kolkata",
+      "Supreme Court",
+      "Capital punishment"
+    ],
+    "sections": {
+      "overview": "Hetal Parekh, aged 18, was raped and murdered in her apartment in Kolkata on 5 March 1990. Dhananjoy Chatterjee, a security guard at the apartment complex, was convicted of the offences.",
+      "background": "The case involved prior complaints about harassment and the accused's position as a security guard. The public record includes detailed Supreme Court reasoning on circumstantial evidence and sentencing.",
+      "timeline": "The crime occurred on 5 March 1990. A trial court sentenced Chatterjee to death in 1991; the Supreme Court upheld the conviction in January 1994. After mercy proceedings, he was executed on 14 August 2004.",
+      "scene_findings": "The crime occurred in an apartment in Anand Apartment, Kolkata. This dossier avoids graphic details and refers readers to the Supreme Court judgment for the evidentiary narrative.",
+      "forensic_evidence": "The Supreme Court judgment discussed medical evidence and other circumstantial evidence. The case is frequently cited in debates about capital punishment and standards for circumstantial proof.",
+      "witness_statements": "The judgment examined testimony from family members, building personnel and other witnesses. The court considered whether the prosecution circumstances formed a complete chain.",
+      "investigative_leads": "The investigation focused on Chatterjee's access to the building, prior complaints and evidence linking him to the apartment. The conviction was upheld by the Supreme Court.",
+      "investigation_issues": "The case is a significant example in India's capital-punishment history. Later debate has questioned the use of the death penalty and the framing of the judgment.",
+      "official_conclusion": "The Supreme Court upheld the conviction and death sentence. Chatterjee was executed on 14 August 2004. The judgment should be read in its historical legal context.",
+      "unanswered_questions": "How did the Supreme Court assess circumstantial evidence? What standards should govern capital sentencing? How did public pressure shape debate around the case?"
+    },
+    "timeline": [
+      {
+        "date": "1990-03-05",
+        "title": "Hetal Parekh murdered",
+        "detail": "Parekh was raped and murdered at her apartment in Kolkata.",
+        "evidence_status": "Supreme Court judgment"
+      },
+      {
+        "date": "1991",
+        "title": "Trial court death sentence",
+        "detail": "A sessions court convicted Chatterjee and imposed death.",
+        "evidence_status": "Court judgment"
+      },
+      {
+        "date": "1994-01-11",
+        "title": "Supreme Court upholds conviction",
+        "detail": "The Supreme Court upheld the conviction and death sentence.",
+        "evidence_status": "Supreme Court judgment"
+      },
+      {
+        "date": "2004-08-14",
+        "title": "Execution",
+        "detail": "Chatterjee was executed at Alipore Central Jail.",
+        "evidence_status": "Documented event"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "dhananjoy-chatterjee-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "dhananjoy-chatterjee-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "dhananjoy-chatterjee-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "dhananjoy-chatterjee-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "How did the Supreme Court assess circumstantial evidence? What standards should govern capital sentencing? How did public pressure shape debate around the case?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dhananjoy Chatterjee v State of West Bengal (1994)",
+        "publisher": "Supreme Court judgment via Indian Kanoon",
+        "url": "https://indiankanoon.org/doc/1328822/",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Dhananjoy Chatterjee hanged",
+        "publisher": "Rediff / PTI",
+        "url": "https://www.rediff.com/news/report/hang1/20040814.htm",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Dhananjoy Chatterjee judgment",
+        "publisher": "Supreme Court judgment archive",
+        "url": "https://api.sci.gov.in/jonew/judis/11728.pdf",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "beer-man",
+    "case_number": "ER-020",
+    "title": "The Beer Man Murders",
+    "subtitle": "Ravindra Kantrole and the Mumbai pavement killings",
+    "country": "India",
+    "region": "South Mumbai · Maharashtra",
+    "period": "2006–2009 court proceedings",
+    "category": "Multiple homicide cases",
+    "status": "Life sentence in one case · acquitted in two others",
+    "status_type": "mixed-court",
+    "summary": "Ravindra Kantrole, nicknamed “Beer Man” after beer cans were reportedly found near victims, was charged in three of seven killings of pavement dwellers. He was convicted in one case and acquitted in two.",
+    "tags": [
+      "India",
+      "Mumbai",
+      "Court outcomes",
+      "Victim identification"
+    ],
+    "sections": {
+      "overview": "Ravindra Kantrole, known in media as “Beer Man”, was arrested in January 2008 in connection with three murders among a wider series of deaths of men sleeping outdoors in south Mumbai.",
+      "background": "The victims were largely poor pavement dwellers. The nickname arose from reports that beer cans were found near bodies. Media labels should not be confused with proof that all similar killings were committed by one person.",
+      "timeline": "Seven men were found dead in south Mumbai between October 2006 and January 2007. Kantrole was arrested in January 2008 and charged in three cases. In 2009 he received a life sentence in one case and had been acquitted in the other two.",
+      "scene_findings": "The incidents occurred at outdoor locations in south Mumbai. The case record should distinguish the three prosecutions involving Kantrole from the wider set of deaths.",
+      "forensic_evidence": "The prosecution relied on forensic-laboratory evidence said to corroborate two eyewitnesses in the conviction case. The other two cases failed for lack of sufficient evidence or witnesses.",
+      "witness_statements": "Two eyewitnesses were reported as corroborating evidence in the case resulting in conviction. The absence of substantial evidence or witnesses was cited in the acquittals in the other two cases.",
+      "investigative_leads": "Police investigated similarities among deaths and focused on Kantrole in three cases. The broader series was not legally established as one offender's work.",
+      "investigation_issues": "The case illustrates the risk of using a media nickname as a substitute for a proven pattern. It also highlights how homelessness and lack of identification can complicate homicide investigations.",
+      "official_conclusion": "A Mumbai court sentenced Kantrole to life imprisonment in one murder case in January 2009. He had been acquitted in the other two cases registered against him. Do not describe him as convicted in all seven deaths.",
+      "unanswered_questions": "Which deaths were formally linked by investigators? What evidence supported the one conviction? How did courts assess the two failed prosecutions?"
+    },
+    "timeline": [
+      {
+        "date": "2006-10 to 2007-01",
+        "title": "Seven deaths reported",
+        "detail": "Seven men were found dead in south Mumbai over several months, according to reporting.",
+        "evidence_status": "Reported series"
+      },
+      {
+        "date": "2008-01",
+        "title": "Kantrole arrested",
+        "detail": "Police arrested Ravindra Kantrole and charged him in three murder cases.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "2008-06",
+        "title": "Two acquittals",
+        "detail": "Kantrole was acquitted in two cases after the prosecution failed to produce sufficient evidence or witnesses.",
+        "evidence_status": "Court outcome"
+      },
+      {
+        "date": "2009-01-01",
+        "title": "Life sentence in one case",
+        "detail": "A Mumbai sessions court sentenced Kantrole to life imprisonment in the third case.",
+        "evidence_status": "Court outcome"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "beer-man-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "beer-man-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "beer-man-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "beer-man-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "Which deaths were formally linked by investigators? What evidence supported the one conviction? How did courts assess the two failed prosecutions?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mumbai's serial killer gets life term",
+        "publisher": "Hindustan Times / PTI",
+        "url": "https://www.hindustantimes.com/india/mumbai-s-serial-killer-gets-life-term/story-kjm0LMx0WU4YTEepzV21ML.html",
+        "source_type": "public reference"
+      },
+      {
+        "title": "Mumbai's Beer Killer gets life term",
+        "publisher": "The New Indian Express",
+        "url": "https://www.newindianexpress.com/india/2009/Jan/01/mumbais-beer-killer-gets-life-term-14964.html",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "hinterkaifeck",
+    "case_number": "ER-021",
+    "title": "The Hinterkaifeck Murders",
+    "subtitle": "The 1922 unsolved farmstead killings in Bavaria",
+    "country": "Germany",
+    "region": "Hinterkaifeck · Bavaria",
+    "period": "1922",
+    "category": "Unsolved homicide",
+    "status": "Unsolved",
+    "status_type": "unsolved",
+    "summary": "Six people were killed at the Hinterkaifeck farmstead in Bavaria in March 1922. The case remains unresolved and is known for unusual observations reported before the murders.",
+    "tags": [
+      "Germany",
+      "Cold case",
+      "Historic investigation"
+    ],
+    "sections": {
+      "overview": "Six people were killed at the Hinterkaifeck farmstead in Bavaria in March 1922. Despite extensive investigation for its time, no perpetrator was conclusively identified.",
+      "background": "The farm was isolated, and reports of unusual noises and signs of an unknown presence before the murders became part of the case's enduring mystery. Such accounts need careful sourcing.",
+      "timeline": "The killings are generally dated to 31 March 1922. The bodies were discovered several days later, after neighbours became concerned about the family's absence.",
+      "scene_findings": "The farmstead was the principal scene. The case is often retold with sensational embellishments; this dossier separates contemporary evidence from later folklore.",
+      "forensic_evidence": "The investigation used the forensic methods available in the early 1920s. Modern DNA or trace-evidence reassessment is limited by preservation and the availability of original material.",
+      "witness_statements": "Neighbours and acquaintances provided observations about the family's routines and unusual events. Later retellings sometimes add details not present in reliable records.",
+      "investigative_leads": "Police examined acquaintances, possible motives and local leads. Numerous theories have circulated, but none has been established as the official solution.",
+      "investigation_issues": "The isolated setting, delayed discovery and early-20th-century investigative limitations constrained the inquiry. The case is also heavily mythologised online.",
+      "official_conclusion": "The murders remain unsolved. No suspect has been conclusively identified.",
+      "unanswered_questions": "Who was present at the farm? Which pre-crime observations were recorded contemporaneously? What original evidence remains available?"
+    },
+    "timeline": [
+      {
+        "date": "1922-03-31",
+        "title": "Likely date of killings",
+        "detail": "Six members of the Gruber/Gabriel household were killed at the farmstead, according to the historical case chronology.",
+        "evidence_status": "Historical reconstruction"
+      },
+      {
+        "date": "1922-04-04",
+        "title": "Bodies discovered",
+        "detail": "Neighbours discovered the bodies after the household had not been seen for days.",
+        "evidence_status": "Documented event"
+      },
+      {
+        "date": "1922 onward",
+        "title": "Investigation fails to identify offender",
+        "detail": "Police pursued leads but the case remained unresolved.",
+        "evidence_status": "Historical record"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "hinterkaifeck-ev1",
+        "title": "Primary case record",
+        "kind": "Document",
+        "detail": "Start with the court judgment, police statement or official archive linked in the source register. Record exactly what the source establishes.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "hinterkaifeck-ev2",
+        "title": "Timeline cross-check",
+        "kind": "Chronology",
+        "detail": "Compare dates across independent sources. Mark discrepancies rather than silently choosing one version.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "hinterkaifeck-ev3",
+        "title": "Forensic / investigative material",
+        "kind": "Forensic record",
+        "detail": "Review the available forensic and investigative record. Do not infer more than the report or judgment supports.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "hinterkaifeck-ev4",
+        "title": "Open questions",
+        "kind": "Research question",
+        "detail": "Who was present at the farm? Which pre-crime observations were recorded contemporaneously? What original evidence remains available?",
+        "status": "Unresolved / analytical",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hinterkaifeck murders overview",
+        "publisher": "Bavarian historical reporting / archival summaries",
+        "url": "https://www.historisches-lexikon-bayerns.de/",
+        "source_type": "public reference"
+      }
+    ],
+    "last_researched": "2026-11-03",
+    "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "fingerprint-analysis",
+    "title": "Fingerprint Analysis",
+    "eyebrow": "Pattern comparison",
+    "category": "Trace evidence",
+    "summary": "How friction-ridge impressions are developed, preserved, compared and reported — including partial prints, distortion and uncertainty.",
+    "workflow": [
+      "Document the scene and collection context",
+      "Develop and preserve impressions using validated methods",
+      "Compare ridge detail and assess quality",
+      "Independent review and transparent reporting"
+    ],
+    "limits": "A partial or distorted impression may not support a reliable conclusion. A visual resemblance is not an identification."
+  },
+  {
+    "id": "dna-profiling",
+    "title": "DNA Profiling",
+    "eyebrow": "Biological evidence",
+    "category": "Molecular forensics",
+    "summary": "An introduction to sample collection, STR profiling, mixtures, contamination risks and statistical interpretation.",
+    "workflow": [
+      "Document collection and chain of custody",
+      "Extract and quantify DNA",
+      "Generate and assess a profile",
+      "Interpret statistical weight in context"
+    ],
+    "limits": "A DNA association does not establish when, how or why biological material was deposited."
+  },
+  {
+    "id": "digital-forensics",
+    "title": "Digital Forensics",
+    "eyebrow": "Devices & metadata",
+    "category": "Digital evidence",
+    "summary": "Forensic acquisition, file systems, logs, metadata, deleted data and preserving original digital media.",
+    "workflow": [
+      "Secure and document the device",
+      "Create a verified forensic image",
+      "Examine artefacts, logs and metadata",
+      "Validate findings and report limitations"
+    ],
+    "limits": "Device timestamps can be affected by settings, time zones, synchronisation and system behaviour."
+  },
+  {
+    "id": "forensic-toxicology",
+    "title": "Forensic Toxicology",
+    "eyebrow": "Substances & interpretation",
+    "category": "Chemical analysis",
+    "summary": "How laboratories detect and interpret drugs, alcohol and toxic substances in biological specimens.",
+    "workflow": [
+      "Choose and document appropriate specimens",
+      "Perform screening tests",
+      "Use confirmatory analytical methods",
+      "Interpret results with medical and case context"
+    ],
+    "limits": "Detection alone does not establish impairment, cause of death or timing without context."
+  },
+  {
+    "id": "firearms-toolmarks",
+    "title": "Firearms & Toolmarks",
+    "eyebrow": "Patterned marks",
+    "category": "Trace evidence",
+    "summary": "The basics of firearm evidence, cartridge cases, projectiles, toolmarks and trajectory reconstruction.",
+    "workflow": [
+      "Document and secure items",
+      "Examine class characteristics",
+      "Compare microscopic marks where appropriate",
+      "State limitations and alternative explanations"
+    ],
+    "limits": "Conclusions must not claim a unique source beyond what the method and evidence support."
+  },
+  {
+    "id": "questioned-documents",
+    "title": "Questioned Documents",
+    "eyebrow": "Ink, paper & handwriting",
+    "category": "Document examination",
+    "summary": "Paper and ink characteristics, alterations, printing processes, indented writing and handwriting comparison.",
+    "workflow": [
+      "Preserve the original document",
+      "Examine paper, ink and impressions",
+      "Compare appropriate known exemplars",
+      "Report findings and limitations"
+    ],
+    "limits": "Handwriting opinions are comparative assessments and should not be presented as infallible identification."
+  },
+  {
+    "id": "bloodstain-patterns",
+    "title": "Bloodstain Pattern Analysis",
+    "eyebrow": "Scene interpretation",
+    "category": "Scene reconstruction",
+    "summary": "An overview of documenting bloodstain patterns, evaluating competing explanations and communicating uncertainty.",
+    "workflow": [
+      "Photograph and map stains before collection",
+      "Record stain shape, distribution and substrate",
+      "Evaluate possible mechanisms and limitations",
+      "Corroborate with independent scene evidence"
+    ],
+    "limits": "Patterns can be altered by movement, cleaning, surface texture and other factors; avoid overconfident reconstruction."
+  },
+  {
+    "id": "forensic-anthropology",
+    "title": "Forensic Anthropology",
+    "eyebrow": "Human remains",
+    "category": "Identification science",
+    "summary": "How specialists assess skeletal remains to support biological profile estimation, trauma analysis and identification efforts.",
+    "workflow": [
+      "Recover remains with archaeological care",
+      "Inventory and document skeletal elements",
+      "Estimate profile with stated uncertainty",
+      "Compare with missing-person and identification data"
+    ],
+    "limits": "Estimates are probabilistic and should not be mistaken for exact identity without corroboration."
+  }
+]

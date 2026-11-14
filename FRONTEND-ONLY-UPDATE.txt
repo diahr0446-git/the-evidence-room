@@ -1,0 +1,10 @@
+THE EVIDENCE ROOM — FRONTEND-ONLY CINEMATIC UPDATE
+
+This archive is based on the original working project. Only these frontend files were updated:
+- frontend/src/App.tsx
+- frontend/src/styles.css
+- new image assets under frontend/public/images/
+
+The backend folder, case data, API, database schema, and Python dependencies are retained from the original project.
+
+To run: follow README.md. Start backend in one terminal, frontend in another.
