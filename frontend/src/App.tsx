@@ -132,7 +132,7 @@ function CaseCard({item,index,open,saved,toggleSaved}:{item:CaseFile;index:numbe
  </article>
 }
 
-const dossierArtwork=(id:string)=>`/images/dossier-atlas.svg#${id}`;
+const dossierArtwork=(id:string)=>`/images/cases/${id}.svg`;
 function Dossier({item,openBoard,saved,toggleSaved}:{item:CaseFile;openBoard:()=>void;saved:boolean;toggleSaved:()=>void}){
  const [tab,setTab]=useState<string>('overview'),[collapsed,setCollapsed]=useState(false);
  const photoUrl=dossierArtwork(item.id);
