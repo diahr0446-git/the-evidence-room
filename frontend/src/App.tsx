@@ -132,7 +132,7 @@ function CaseCard({item,index,open,saved,toggleSaved}:{item:CaseFile;index:numbe
  </article>
 }
 
-const dossierArtwork=(id:string)=>{const hash=[...id].reduce((n,ch)=>n+ch.charCodeAt(0),0);return `/images/dossier-${String((hash%6)+1).padStart(2,'0')}.jpg`;};
+const dossierArtwork=(id:string)=>{const hash=[...id].reduce((n,ch)=>n+ch.charCodeAt(0),0);return `/images/dossier-${String((hash%6)+1).padStart(2,'0')}.svg`;};
 function Dossier({item,openBoard,saved,toggleSaved}:{item:CaseFile;openBoard:()=>void;saved:boolean;toggleSaved:()=>void}){
  const [tab,setTab]=useState<string>('overview'),[collapsed,setCollapsed]=useState(false);
  const photoUrl=dossierArtwork(item.id);
