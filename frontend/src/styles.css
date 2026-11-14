@@ -153,3 +153,12 @@ body{background:#100f0d;color:var(--ink)}
   font-size: 18px;
   line-height: 1.9;
 }
+
+
+/* Case-specific archival photography in dossier headers */
+.dossier-photo-hero{position:relative;isolation:isolate;min-height:330px;display:flex;align-items:flex-end;overflow:hidden;padding:38px 34px;border:1px solid #554633;background:linear-gradient(115deg,#29231c,#171512 72%);margin-top:22px}
+.dossier-case-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 35%;z-index:-2;filter:grayscale(32%) sepia(18%) brightness(.66);animation:dossier-photo-in .5s ease both}
+.dossier-photo-shade{position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(12,12,12,.94) 0%,rgba(12,12,12,.75) 48%,rgba(12,12,12,.2) 100%),linear-gradient(0deg,rgba(12,12,12,.62),transparent 65%)}
+.dossier-photo-copy{max-width:760px}.dossier-photo-copy h1{font:clamp(38px,5vw,61px)/1.1 var(--serif);font-weight:400;letter-spacing:-.035em;margin:16px 0 8px;color:#f0e5d3}.dossier-photo-copy>p{font:16px var(--serif);color:#c6b79f}.dossier-photo-credit{position:absolute;left:34px;bottom:12px;font:7px var(--mono);letter-spacing:.1em;color:#d0bd9c;opacity:.82}.dossier-photo-credit a{color:inherit;text-decoration:none}.dossier-photo-credit a:hover{text-decoration:underline}.dossier-photo-hero .dossier-emblem{position:absolute;right:34px;top:34px;background:#17151288}
+@keyframes dossier-photo-in{from{opacity:0}to{opacity:1}}
+@media(max-width:650px){.dossier-photo-hero{min-height:300px;padding:25px 18px}.dossier-photo-credit{left:18px;bottom:10px;max-width:70%}.dossier-photo-hero .dossier-emblem{right:16px;top:16px;width:66px;height:66px;font-size:19px}.dossier-photo-copy h1{font-size:38px}}
