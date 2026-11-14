@@ -10,9 +10,9 @@ The supplied archives were audited before rebuilding:
 
 - `TheEvidenceRoom(1).zip` had the stronger foundation: React + TypeScript, Vite, FastAPI, React Flow, ten-part dossiers, timelines and forensic modules. Its main limitation was a five-case corpus and a relatively early prototype implementation.
 - `evidence-room.zip` had a smaller React/React Flow prototype, a four-case dataset and a minimal API. It duplicated the case JSON between frontend and backend, making the data harder to maintain consistently.
-- Studio Edition consolidates the corpus in the FastAPI backend, expands it to 21 dossiers, introduces a ten-section common schema, richer search filters, source registers, case-status distinctions, a SQLite-backed evidence-board save endpoint, and a redesigned cinematic interface.
+- Studio Edition consolidates the corpus in the FastAPI backend, maintains a 20-dossier archive after editorial review, introduces a ten-section common schema, richer search filters, source registers, case-status distinctions, a SQLite-backed evidence-board save endpoint, and a redesigned cinematic interface.
 
-## Included case archive — 21 dossiers
+## Included case archive — 20 dossiers
 
 ### International cases
 1. The Zodiac Killer
@@ -32,12 +32,11 @@ The supplied archives were audited before rebuilding:
 13. The Stoneman Murders — Mumbai
 14. The Stoneman Murders — Kolkata
 15. The Jessica Lal Murder (Delhi)
-16. The 2012 Delhi Gang Rape and Murder Case
-17. The Sheena Bora Case (Mumbai)
-18. Umesh Reddy (Karnataka)
-19. The Priyadarshini Mattoo Case (Delhi)
-20. Dhananjoy Chatterjee Case (Kolkata)
-21. The Beer Man Murders (Mumbai)
+16. The Sheena Bora Case (Mumbai)
+17. Umesh Reddy (Karnataka)
+18. The Priyadarshini Mattoo Case (Delhi)
+19. Dhananjoy Chatterjee Case (Kolkata)
+20. The Beer Man Murders (Mumbai)
 
 The Stoneman Mumbai and Kolkata series are separate dossiers because a common offender has not been established. “Beer Man” refers to Ravindra Kantrole; he was convicted in one of three cases brought against him and acquitted in two others. The archive does not label him as convicted in all seven deaths sometimes discussed in media.
 
