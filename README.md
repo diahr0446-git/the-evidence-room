@@ -10,9 +10,9 @@ The supplied archives were audited before rebuilding:
 
 - `TheEvidenceRoom(1).zip` had the stronger foundation: React + TypeScript, Vite, FastAPI, React Flow, ten-part dossiers, timelines and forensic modules. Its main limitation was a five-case corpus and a relatively early prototype implementation.
 - `evidence-room.zip` had a smaller React/React Flow prototype, a four-case dataset and a minimal API. It duplicated the case JSON between frontend and backend, making the data harder to maintain consistently.
-- Studio Edition consolidates the corpus in the FastAPI backend, maintains a 20-dossier archive after editorial review, introduces a ten-section common schema, richer search filters, source registers, case-status distinctions, a SQLite-backed evidence-board save endpoint, and a redesigned cinematic interface.
+- Studio Edition consolidates the corpus in the FastAPI backend, expands the archive to 41 dossiers, including 21 new international case files, introduces a ten-section common schema, richer search filters, source registers, case-status distinctions, a SQLite-backed evidence-board save endpoint, and a redesigned cinematic interface.
 
-## Included case archive — 20 dossiers
+## Included case archive — 41 dossiers
 
 ### International cases
 1. The Zodiac Killer
@@ -39,6 +39,30 @@ The supplied archives were audited before rebuilding:
 20. The Beer Man Murders (Mumbai)
 
 The Stoneman Mumbai and Kolkata series are separate dossiers because a common offender has not been established. “Beer Man” refers to Ravindra Kantrole; he was convicted in one of three cases brought against him and acquitted in two others. The archive does not label him as convicted in all seven deaths sometimes discussed in media.
+
+
+### International additions — ER-040 to ER-060
+40. The Gabby Petito Case (United States)
+41. The Junko Furuta Case (Japan)
+42. The Murdaugh Family Murders (United States)
+43. The Casey Anthony Trial (United States)
+44. The O. J. Simpson Murder Trial (United States)
+45. The Murder of Mia Zapata (United States)
+46. The Rotenburg Cannibal Case (Germany)
+47. The Josef Fritzl Case (Austria)
+48. The Luka Magnotta Case (Canada)
+49. The Hello Kitty Murder (Hong Kong)
+50. The Issei Sagawa Case (France / Japan)
+51. The Collyer Brothers Mystery (United States)
+52. The Jonestown Massacre (Guyana)
+53. The Tokyo Subway Sarin Attack (Japan)
+54. The Heaven's Gate Mass Deaths (United States)
+55. The NXIVM Sex Cult Scandal (United States)
+56. The Sarah Lawrence Cult Case (United States)
+57. The Altantuya Shaariibuu Murder (Malaysia)
+58. The Sean 'Diddy' Combs Criminal Case (United States)
+59. The Daphne Caruana Galizia Assassination (Malta)
+60. The Duterte War on Drugs Investigation (Philippines / ICC)
 
 ## Each case has ten dossier sections
 
