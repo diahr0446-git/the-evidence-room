@@ -2225,5 +2225,2390 @@
     ],
     "last_researched": "2026-11-03",
     "editorial_note": "Starter dossier. Verify source text and update the case file before public publication."
+  },
+  {
+    "id": "gabby-petito",
+    "case_number": "ER-040",
+    "title": "The Gabby Petito Case",
+    "subtitle": "A cross-country disappearance, homicide investigation and online search",
+    "country": "United States",
+    "region": "Wyoming · Florida · multi-state",
+    "period": "2021",
+    "category": "Homicide · missing-person investigation",
+    "status": "Investigation concluded · Brian Laundrie died by suicide after writing that he was responsible",
+    "status_type": "court-resolved",
+    "summary": "Gabby Petito disappeared during a cross-country trip with her fiancé. Her remains were found in Wyoming; the FBI later reported that Brian Laundrie's notebook contained written statements claiming responsibility for her death.",
+    "tags": [
+      "Digital footprints",
+      "Missing persons",
+      "Social media",
+      "Domestic violence"
+    ],
+    "sections": {
+      "overview": "Gabby Petito, 22, disappeared while travelling across the western United States with Brian Laundrie in 2021. Her family reported her missing; her remains were found in the Bridger-Teton National Forest area of Wyoming. The FBI's final investigative update states that Laundrie's notebook contained statements claiming responsibility for her death.",
+      "background": "The couple documented parts of their trip online. Publicly shared posts, messages, witness reports and law-enforcement records became part of an unusually visible missing-person investigation. Online attention brought tips but also speculation and misinformation.",
+      "timeline": "2021-08 — Last known trip period. Petito and Laundrie travelled across the western United States; investigators later reconstructed movements from records and witness information.\n\n2021-09-11 — Missing-person report. Petito's family reported her missing, prompting a multi-agency investigation.\n\n2021-09-19 — Remains located. Searchers found Petito's remains in the Spread Creek area of Wyoming.\n\n2021-10-20 — Laundrie remains located. Authorities located Laundrie's remains and a notebook; the FBI later described statements in the notebook claiming responsibility.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The investigation used digital records, travel and financial information, physical evidence, autopsy findings and the notebook recovered with Laundrie's remains. The FBI reported the coroner's cause-of-death determination and the notebook's contents in its final update.",
+      "witness_statements": "Witness reports and publicly circulated video contributed to the chronology. Each account must be assessed by its original recording, timing and investigative context rather than social-media retellings.",
+      "investigative_leads": "Investigators traced travel, communications and transactions, coordinated searches and examined Laundrie's movements after Petito's disappearance. The FBI published a final investigative update.",
+      "investigation_issues": "The case illustrates the value and risks of crowdsourced investigation: public attention can generate leads while also spreading unsupported theories and placing pressure on families.",
+      "official_conclusion": "The FBI's final update states that Laundrie's notebook contained statements claiming responsibility for Petito's death. Laundrie died from a self-inflicted gunshot wound; no criminal trial took place.",
+      "unanswered_questions": "How should online communities handle unverified tips? Which digital records most reliably reconstruct a missing person's final movements? How can domestic-violence warning signs be addressed earlier?"
+    },
+    "timeline": [
+      {
+        "date": "2021-08",
+        "title": "Last known trip period",
+        "detail": "Petito and Laundrie travelled across the western United States; investigators later reconstructed movements from records and witness information.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2021-09-11",
+        "title": "Missing-person report",
+        "detail": "Petito's family reported her missing, prompting a multi-agency investigation.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2021-09-19",
+        "title": "Remains located",
+        "detail": "Searchers found Petito's remains in the Spread Creek area of Wyoming.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2021-10-20",
+        "title": "Laundrie remains located",
+        "detail": "Authorities located Laundrie's remains and a notebook; the FBI later described statements in the notebook claiming responsibility.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "gabby-petito-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "gabby-petito-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "gabby-petito-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "gabby-petito-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How should online communities handle unverified tips? Which digital records most reliably reconstruct a missing person's final movements? How can domestic-violence warning signs be addressed earlier?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "FBI — Final investigative update on Gabrielle Petito case",
+        "publisher": "Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/contact-us/field-offices/denver/news/press-releases/fbi-denver-provides-final-investigative-update-on-gabrielle-petito-case",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Teton County Coroner information",
+        "publisher": "Teton County, Wyoming",
+        "url": "https://www.tetoncountywy.gov/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "junko-furuta",
+    "case_number": "ER-041",
+    "title": "The Junko Furuta Case",
+    "subtitle": "The 1988–1989 abduction and murder of a Japanese high-school student",
+    "country": "Japan",
+    "region": "Saitama · Tokyo metropolitan area",
+    "period": "1988–1989 · court proceedings followed",
+    "category": "Homicide · juvenile justice",
+    "status": "Convictions · juvenile sentencing controversy",
+    "status_type": "court-resolved",
+    "summary": "Junko Furuta, a 17-year-old student, was abducted and murdered after a prolonged period of captivity and abuse. The case provoked lasting debate about juvenile sentencing, accountability and the treatment of victims.",
+    "tags": [
+      "Juvenile justice",
+      "Criminal accountability",
+      "Japan",
+      "Court controversy"
+    ],
+    "sections": {
+      "overview": "Junko Furuta was a 17-year-old student abducted in late 1988 and held captive before being murdered in January 1989. Several youths were prosecuted. The case remains a point of public discussion about juvenile justice and the seriousness of violence committed by minors.",
+      "background": "The case exposed failures to protect a victim during an extended period of captivity. Public discussion has often repeated graphic details; this dossier avoids sensational description and focuses on the documented investigation, proceedings and legal questions.",
+      "timeline": "1988-11 — Abduction. Furuta was abducted in the Tokyo metropolitan area.\n\n1988-11 to 1989-01 — Captivity. She was held captive and subjected to repeated abuse.\n\n1989-01 — Death and investigation. Furuta was killed; investigators identified and arrested perpetrators.\n\n1989 onward — Juvenile proceedings. Criminal proceedings and sentences prompted debate about juvenile justice.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The prosecution relied on the investigation of the place where Furuta was held, physical and medical evidence, witness accounts and statements by the accused. Public retellings vary; original court records should take priority.",
+      "witness_statements": "Witness and participant statements were central to reconstructing the period of captivity. Their evidentiary role should be described through court findings rather than unsourced online summaries.",
+      "investigative_leads": "Investigators traced the victim's disappearance, identified the perpetrators and reconstructed the location and duration of captivity.",
+      "investigation_issues": "The case raised questions about intervention opportunities, juvenile culpability, sentencing proportionality, victim protection and media ethics.",
+      "official_conclusion": "The perpetrators were prosecuted and convicted under Japan's juvenile and criminal justice framework. Sentences differed according to each individual's role and legal status; avoid reducing the outcome to one collective sentence.",
+      "unanswered_questions": "How should juvenile sentencing balance rehabilitation and accountability in exceptionally serious crimes? What safeguarding failures allowed prolonged captivity? How should media report extreme violence without exploiting the victim?"
+    },
+    "timeline": [
+      {
+        "date": "1988-11",
+        "title": "Abduction",
+        "detail": "Furuta was abducted in the Tokyo metropolitan area.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1988-11 to 1989-01",
+        "title": "Captivity",
+        "detail": "She was held captive and subjected to repeated abuse.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1989-01",
+        "title": "Death and investigation",
+        "detail": "Furuta was killed; investigators identified and arrested perpetrators.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1989 onward",
+        "title": "Juvenile proceedings",
+        "detail": "Criminal proceedings and sentences prompted debate about juvenile justice.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "junko-furuta-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "junko-furuta-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "junko-furuta-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "junko-furuta-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How should juvenile sentencing balance rehabilitation and accountability in exceptionally serious crimes? What safeguarding failures allowed prolonged captivity? How should media report extreme violence without exploiting the victim?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Japan court and juvenile justice information",
+        "publisher": "Supreme Court of Japan",
+        "url": "https://www.courts.go.jp/english/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Japan legal system overview",
+        "publisher": "Ministry of Justice, Japan",
+        "url": "https://www.moj.go.jp/EN/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "murdaugh-family-murders",
+    "case_number": "ER-042",
+    "title": "The Murdaugh Family Murders",
+    "subtitle": "A South Carolina double homicide and a wider financial-crime investigation",
+    "country": "United States",
+    "region": "Colleton County · South Carolina",
+    "period": "2021–2026 proceedings",
+    "category": "Double homicide · financial crime",
+    "status": "Murder convictions in 2023 · new-trial proceedings ordered in 2026",
+    "status_type": "court-resolved",
+    "summary": "Alex Murdaugh's wife Maggie and son Paul were killed in 2021. Murdaugh was convicted of their murders in 2023; separate financial crimes and subsequent appellate developments brought further scrutiny.",
+    "tags": [
+      "Courtroom evidence",
+      "Financial crime",
+      "Power and privilege",
+      "Appeal"
+    ],
+    "sections": {
+      "overview": "Maggie and Paul Murdaugh were found shot dead at the family's property in South Carolina in June 2021. Alex Murdaugh was convicted of their murders in March 2023. The investigation unfolded alongside revelations of financial misconduct and other criminal proceedings.",
+      "background": "The Murdaugh family had longstanding ties to the local legal system. The homicide investigation attracted national attention because of the family's prominence and the parallel financial-crime cases.",
+      "timeline": "2021-06-07 — Murders discovered. Maggie and Paul Murdaugh were found dead at the family's property.\n\n2022-07 — Indictment. Alex Murdaugh was indicted for the murders.\n\n2023-03-02 — Murder convictions. A jury found Alex Murdaugh guilty of murdering his wife and son.\n\n2026-05 — New-trial ruling. The South Carolina Supreme Court reversed the denial of a new-trial motion and remanded the matter.\n\n2026-06 — Case assignment. The state supreme court assigned a judge to handle further proceedings, including any retrial matters.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The prosecution presented digital evidence, video and audio recordings, phone data, firearm evidence and testimony. The trial record should be used to distinguish demonstrative evidence, expert interpretation and contested inferences.",
+      "witness_statements": "Family, law-enforcement and investigative witnesses testified. The credibility and scope of each witness's evidence should be tied to the trial transcript and appellate rulings.",
+      "investigative_leads": "Investigators examined the crime scenes, digital devices, financial records, firearms and Murdaugh's movements. Financial investigations exposed separate misconduct and prosecutions.",
+      "investigation_issues": "The case raises questions about conflicts of interest, institutional trust, the use of digital evidence, jury conduct and appellate safeguards.",
+      "official_conclusion": "Murdaugh was convicted of two murders in 2023 and sentenced to life imprisonment. In May 2026, the South Carolina Supreme Court reversed the denial of his new-trial motion and remanded the case; the convictions should not be described as finally immune from further proceedings.",
+      "unanswered_questions": "What happens at the remand and any retrial proceedings? How should courts assess digital evidence and jury-related claims? What institutional safeguards prevent conflicts of interest?"
+    },
+    "timeline": [
+      {
+        "date": "2021-06-07",
+        "title": "Murders discovered",
+        "detail": "Maggie and Paul Murdaugh were found dead at the family's property.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2022-07",
+        "title": "Indictment",
+        "detail": "Alex Murdaugh was indicted for the murders.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2023-03-02",
+        "title": "Murder convictions",
+        "detail": "A jury found Alex Murdaugh guilty of murdering his wife and son.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2026-05",
+        "title": "New-trial ruling",
+        "detail": "The South Carolina Supreme Court reversed the denial of a new-trial motion and remanded the matter.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2026-06",
+        "title": "Case assignment",
+        "detail": "The state supreme court assigned a judge to handle further proceedings, including any retrial matters.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "murdaugh-family-murders-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "murdaugh-family-murders-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "murdaugh-family-murders-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "murdaugh-family-murders-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "What happens at the remand and any retrial proceedings? How should courts assess digital evidence and jury-related claims? What institutional safeguards prevent conflicts of interest?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "State v. Murdaugh — Supreme Court order, June 8 2026",
+        "publisher": "Supreme Court of South Carolina",
+        "url": "https://www.sccourts.org/media/courtOrders/PDFs/2026-06-08-01.pdf",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "South Carolina court information",
+        "publisher": "South Carolina Judicial Branch",
+        "url": "https://www.sccourts.org/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "casey-anthony-trial",
+    "case_number": "ER-043",
+    "title": "The Casey Anthony Trial",
+    "subtitle": "The disappearance and death of Caylee Anthony",
+    "country": "United States",
+    "region": "Orlando · Florida",
+    "period": "2008–2011",
+    "category": "Child death investigation · criminal trial",
+    "status": "Acquitted of murder and manslaughter · convicted of providing false information",
+    "status_type": "court-resolved",
+    "summary": "Caylee Anthony, aged two, disappeared in 2008 and her remains were found months later. Her mother Casey Anthony was acquitted of murder and manslaughter but convicted of providing false information to investigators.",
+    "tags": [
+      "Forensic controversy",
+      "Media trial",
+      "Acquittal",
+      "Evidence evaluation"
+    ],
+    "sections": {
+      "overview": "Two-year-old Caylee Anthony was reported missing in July 2008 after a lengthy delay. Her remains were discovered in December 2008 near the family home in Florida. Her mother, Casey Anthony, was tried for murder and related offences in 2011.",
+      "background": "The case became a major television and online spectacle. Public opinion often treated suspicion as proof, making the distinction between public narrative, forensic testimony and the jury's verdict especially important.",
+      "timeline": "2008-07 — Missing-person report. Caylee's disappearance was reported to authorities.\n\n2008-12 — Remains located. Caylee's remains were found near the Anthony family home.\n\n2011-05 — Trial begins. The prosecution and defence presented competing interpretations of the evidence.\n\n2011-07 — Verdict. Casey Anthony was acquitted of murder and manslaughter and convicted of providing false information.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The trial included forensic testimony concerning decomposition, trace evidence, computer and internet records and the circumstances of the discovery. Several interpretations were contested; the jury's verdict must be reported accurately.",
+      "witness_statements": "Family members, investigators, forensic experts and other witnesses testified. Their accounts were subject to cross-examination and should not be paraphrased as uncontested facts.",
+      "investigative_leads": "Investigators reviewed the missing-person report, family statements, vehicle and household evidence, digital records and the location where Caylee's remains were found.",
+      "investigation_issues": "The case demonstrates the gap between public certainty and proof beyond reasonable doubt. It also raises questions about expert disagreement and the influence of televised trials.",
+      "official_conclusion": "In July 2011, Casey Anthony was found not guilty of first-degree murder, aggravated manslaughter and aggravated child abuse. She was convicted of four counts of providing false information to law enforcement; two convictions were later vacated.",
+      "unanswered_questions": "How should juries evaluate conflicting forensic experts? How does intense media coverage affect perceptions of guilt? What investigative steps should be taken when a child's disappearance is reported late?"
+    },
+    "timeline": [
+      {
+        "date": "2008-07",
+        "title": "Missing-person report",
+        "detail": "Caylee's disappearance was reported to authorities.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2008-12",
+        "title": "Remains located",
+        "detail": "Caylee's remains were found near the Anthony family home.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2011-05",
+        "title": "Trial begins",
+        "detail": "The prosecution and defence presented competing interpretations of the evidence.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2011-07",
+        "title": "Verdict",
+        "detail": "Casey Anthony was acquitted of murder and manslaughter and convicted of providing false information.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "casey-anthony-trial-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "casey-anthony-trial-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "casey-anthony-trial-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "casey-anthony-trial-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How should juries evaluate conflicting forensic experts? How does intense media coverage affect perceptions of guilt? What investigative steps should be taken when a child's disappearance is reported late?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "State of Florida v. Casey Marie Anthony — court records",
+        "publisher": "Florida Courts",
+        "url": "https://www.flcourts.gov/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Caylee Anthony case coverage archive",
+        "publisher": "Associated Press",
+        "url": "https://apnews.com/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "oj-simpson-trial",
+    "case_number": "ER-044",
+    "title": "The O. J. Simpson Murder Trial",
+    "subtitle": "The 1994 killings, criminal acquittal and later civil judgment",
+    "country": "United States",
+    "region": "Los Angeles · California",
+    "period": "1994–1997",
+    "category": "Double homicide · criminal and civil proceedings",
+    "status": "Criminal acquittal · later civil liability finding",
+    "status_type": "court-resolved",
+    "summary": "O. J. Simpson was tried for the murders of Nicole Brown Simpson and Ronald Goldman. He was acquitted in the criminal trial and later found liable in a civil wrongful-death case.",
+    "tags": [
+      "DNA evidence",
+      "Celebrity trial",
+      "Race and justice",
+      "Courtroom history"
+    ],
+    "sections": {
+      "overview": "Nicole Brown Simpson and Ronald Goldman were killed in Los Angeles in June 1994. O. J. Simpson was charged and tried in a nationally televised criminal case, followed by a separate civil action.",
+      "background": "The trial unfolded amid intense debate about race, policing, celebrity, domestic violence and forensic science. Criminal and civil proceedings applied different burdens of proof and reached different outcomes.",
+      "timeline": "1994-06-12 — Murders. Nicole Brown Simpson and Ronald Goldman were killed in Los Angeles.\n\n1994-06 — Pursuit and arrest. A televised vehicle pursuit preceded Simpson's arrest.\n\n1995-10-03 — Criminal verdict. A jury acquitted Simpson of the murders.\n\n1997-02 — Civil judgment. A civil jury found Simpson liable for the deaths and awarded damages.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The prosecution and defence disputed blood, DNA, collection, handling and contamination issues. The dossier should separate laboratory results from arguments about collection procedures and chain of custody.",
+      "witness_statements": "Police officers, forensic analysts, friends, family and other witnesses testified. The trial's cross-examinations and demonstrative exhibits became central to public debate.",
+      "investigative_leads": "Investigators examined the crime scenes, physical evidence, blood traces, timelines and witness accounts. The criminal and civil cases developed different evidentiary records.",
+      "investigation_issues": "The trial remains a landmark in discussions of forensic evidence, racial inequality, police credibility, televised justice and the different standards of proof in criminal and civil courts.",
+      "official_conclusion": "Simpson was acquitted in the 1995 criminal trial. In 1997, a civil jury found him liable for the deaths of Brown Simpson and Goldman. The civil finding was not a criminal conviction.",
+      "unanswered_questions": "How should juries evaluate DNA evidence and chain-of-custody challenges? How did televised proceedings shape public trust? Why can criminal and civil cases reach different outcomes?"
+    },
+    "timeline": [
+      {
+        "date": "1994-06-12",
+        "title": "Murders",
+        "detail": "Nicole Brown Simpson and Ronald Goldman were killed in Los Angeles.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1994-06",
+        "title": "Pursuit and arrest",
+        "detail": "A televised vehicle pursuit preceded Simpson's arrest.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1995-10-03",
+        "title": "Criminal verdict",
+        "detail": "A jury acquitted Simpson of the murders.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1997-02",
+        "title": "Civil judgment",
+        "detail": "A civil jury found Simpson liable for the deaths and awarded damages.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "oj-simpson-trial-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "oj-simpson-trial-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "oj-simpson-trial-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "oj-simpson-trial-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How should juries evaluate DNA evidence and chain-of-custody challenges? How did televised proceedings shape public trust? Why can criminal and civil cases reach different outcomes?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "People v. Simpson — California court information",
+        "publisher": "California Courts",
+        "url": "https://www.courts.ca.gov/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "O. J. Simpson trial archive",
+        "publisher": "Los Angeles Times",
+        "url": "https://www.latimes.com/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "mia-zapata",
+    "case_number": "ER-045",
+    "title": "The Murder of Mia Zapata",
+    "subtitle": "A Seattle musician's murder solved through later DNA testing",
+    "country": "United States",
+    "region": "Seattle · Washington",
+    "period": "1993–2004",
+    "category": "Homicide · cold-case DNA breakthrough",
+    "status": "Conviction",
+    "status_type": "court-resolved",
+    "summary": "Mia Zapata, lead singer of The Gits, was murdered in Seattle in 1993. The investigation remained unresolved for years until DNA evidence helped identify and convict Jesus Mezquia.",
+    "tags": [
+      "Cold case",
+      "Forensic DNA",
+      "Music community",
+      "Investigative persistence"
+    ],
+    "sections": {
+      "overview": "Mia Zapata, singer of the Seattle punk band The Gits, was sexually assaulted and murdered in July 1993. The case remained unsolved for more than a decade before DNA evidence helped investigators identify a suspect.",
+      "background": "Zapata was part of Seattle's music community. Friends and fellow musicians sustained public attention and advocacy while investigators continued to pursue leads.",
+      "timeline": "1993-07-07 — Murder. Zapata was found dead in Seattle.\n\n1990s — Unresolved investigation. Investigators pursued leads without identifying a suspect for years.\n\n2003 — DNA database lead. A DNA comparison helped direct investigators toward a suspect.\n\n2004 — Conviction. Jesus Mezquia was convicted of Zapata's murder.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "Biological evidence collected in the investigation was preserved and later compared through DNA analysis. The case illustrates the importance of evidence preservation and later advances in forensic databases.",
+      "witness_statements": "Friends, community members and investigators provided accounts about Zapata's movements and the investigation. Forensic identification was a central breakthrough.",
+      "investigative_leads": "Investigators revisited preserved biological evidence and used DNA database comparisons to identify a suspect, then developed the case for prosecution.",
+      "investigation_issues": "The case highlights cold-case review, evidence storage, forensic database safeguards and the role of community advocacy without allowing public pressure to replace proof.",
+      "official_conclusion": "Jesus Mezquia was convicted of Zapata's murder in 2004 and sentenced to prison.",
+      "unanswered_questions": "How can agencies ensure biological evidence is preserved for future testing? What safeguards govern DNA database searches? Which cold cases may benefit from modern forensic review?"
+    },
+    "timeline": [
+      {
+        "date": "1993-07-07",
+        "title": "Murder",
+        "detail": "Zapata was found dead in Seattle.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1990s",
+        "title": "Unresolved investigation",
+        "detail": "Investigators pursued leads without identifying a suspect for years.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2003",
+        "title": "DNA database lead",
+        "detail": "A DNA comparison helped direct investigators toward a suspect.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2004",
+        "title": "Conviction",
+        "detail": "Jesus Mezquia was convicted of Zapata's murder.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "mia-zapata-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "mia-zapata-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "mia-zapata-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "mia-zapata-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How can agencies ensure biological evidence is preserved for future testing? What safeguards govern DNA database searches? Which cold cases may benefit from modern forensic review?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Seattle Police Department",
+        "publisher": "Seattle Police Department",
+        "url": "https://www.seattle.gov/police",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "The Gits and Mia Zapata archive",
+        "publisher": "The Gits",
+        "url": "https://www.thegits.com/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "rotenburg-cannibal-case",
+    "case_number": "ER-046",
+    "title": "The Rotenburg Cannibal Case",
+    "subtitle": "Online contact, consent arguments and German criminal law",
+    "country": "Germany",
+    "region": "Rotenburg an der Fulda · Hesse",
+    "period": "2001–2006",
+    "category": "Homicide · exceptional legal controversy",
+    "status": "Murder conviction after appellate proceedings",
+    "status_type": "court-resolved",
+    "summary": "Armin Meiwes killed a man he had contacted online. The case raised difficult questions about consent, intent and the limits of consent as a defence to homicide under German law.",
+    "tags": [
+      "Digital evidence",
+      "Consent and criminal law",
+      "Online communities",
+      "Germany"
+    ],
+    "sections": {
+      "overview": "In 2001, Armin Meiwes killed a man he had contacted through an online advertisement. The case became internationally known because of the unusual circumstances and legal arguments about consent.",
+      "background": "The case required German courts to examine the relationship between the victim's stated wishes, the accused's conduct and the legal definition of homicide. This dossier avoids graphic details.",
+      "timeline": "2001 — Online contact and killing. Meiwes met the victim after contact through an internet advertisement and killed him.\n\n2004 — Initial conviction. A court convicted Meiwes of manslaughter.\n\n2005 — Appeal. The Federal Court of Justice overturned the initial judgment and ordered a new trial.\n\n2006 — Murder conviction. A new trial resulted in a murder conviction and life sentence.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The investigation relied on digital communications, recordings, physical evidence and forensic examination. The evidence must be discussed in relation to the elements of the offences charged.",
+      "witness_statements": "Investigators and expert witnesses reconstructed the online contact and events. The victim's communications were relevant to the consent argument but did not resolve the legal question by themselves.",
+      "investigative_leads": "Police discovered the case through investigative leads connected to online activity and digital material. The online advertisement and communications became key evidence.",
+      "investigation_issues": "The proceedings tested how criminal law treats consent where a person agrees to conduct that results in their death. Consent does not automatically make homicide lawful.",
+      "official_conclusion": "After an initial manslaughter conviction was overturned, Meiwes was convicted of murder in a retrial in 2006 and sentenced to life imprisonment.",
+      "unanswered_questions": "What limits should apply to consent as a defence? How should online platforms preserve evidence? How do courts distinguish a person's stated wishes from legal permission to cause death?"
+    },
+    "timeline": [
+      {
+        "date": "2001",
+        "title": "Online contact and killing",
+        "detail": "Meiwes met the victim after contact through an internet advertisement and killed him.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2004",
+        "title": "Initial conviction",
+        "detail": "A court convicted Meiwes of manslaughter.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2005",
+        "title": "Appeal",
+        "detail": "The Federal Court of Justice overturned the initial judgment and ordered a new trial.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2006",
+        "title": "Murder conviction",
+        "detail": "A new trial resulted in a murder conviction and life sentence.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "rotenburg-cannibal-case-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "rotenburg-cannibal-case-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "rotenburg-cannibal-case-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "rotenburg-cannibal-case-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "What limits should apply to consent as a defence? How should online platforms preserve evidence? How do courts distinguish a person's stated wishes from legal permission to cause death?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Federal Court of Justice of Germany",
+        "publisher": "Bundesgerichtshof",
+        "url": "https://www.bundesgerichtshof.de/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "German criminal justice information",
+        "publisher": "Federal Ministry of Justice",
+        "url": "https://www.bmj.de/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "josef-fritzl-case",
+    "case_number": "ER-047",
+    "title": "The Josef Fritzl Case",
+    "subtitle": "A concealed cellar, prolonged captivity and the 2008 discovery",
+    "country": "Austria",
+    "region": "Amstetten · Lower Austria",
+    "period": "1984–2009",
+    "category": "Kidnapping · sexual violence · criminal trial",
+    "status": "Conviction · life imprisonment",
+    "status_type": "court-resolved",
+    "summary": "Josef Fritzl imprisoned his daughter in a concealed cellar for 24 years and subjected her to repeated abuse. The case was uncovered in 2008 and led to a major criminal trial.",
+    "tags": [
+      "Captivity",
+      "Victim identification",
+      "Investigative oversight",
+      "Austria"
+    ],
+    "sections": {
+      "overview": "In 2008, Austrian authorities discovered that Josef Fritzl had held his daughter captive in a concealed cellar in Amstetten for 24 years. The case involved prolonged abuse, children born during captivity and failures of detection.",
+      "background": "Fritzl had constructed and concealed the cellar beneath the family property. The case raised questions about family violence, institutional oversight and how a victim could remain hidden for so long.",
+      "timeline": "1984 — Captivity begins. Fritzl imprisoned his daughter in a concealed cellar.\n\n1984–2008 — Prolonged captivity. The victim and children lived under coercive confinement.\n\n2008-04 — Discovery. Medical concerns involving one of the children led to police investigation and discovery.\n\n2009-03 — Trial and conviction. Fritzl pleaded guilty and was convicted on multiple serious charges.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "Investigators documented the concealed structure, access controls, living conditions and medical evidence. The reconstruction of the cellar and the victim's identification were central to understanding the offences.",
+      "witness_statements": "The victim's account and testimony were central, handled under protective procedures. The dossier avoids identifying protected family members or reproducing traumatic details.",
+      "investigative_leads": "A child's serious medical condition brought the family to hospital and triggered scrutiny. Police investigation then exposed the concealed cellar and long-term captivity.",
+      "investigation_issues": "The case raises questions about domestic abuse hidden within households, missed warning signs, victim protection, medical safeguarding and institutional coordination.",
+      "official_conclusion": "Fritzl pleaded guilty and was convicted in 2009 of murder by omission, enslavement, rape, incest, coercion and false imprisonment; he received a life sentence in a secure psychiatric institution.",
+      "unanswered_questions": "Which safeguards can detect coercive control hidden within families? How should agencies coordinate when medical concerns suggest abuse? How can victim privacy be protected in major cases?"
+    },
+    "timeline": [
+      {
+        "date": "1984",
+        "title": "Captivity begins",
+        "detail": "Fritzl imprisoned his daughter in a concealed cellar.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1984–2008",
+        "title": "Prolonged captivity",
+        "detail": "The victim and children lived under coercive confinement.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2008-04",
+        "title": "Discovery",
+        "detail": "Medical concerns involving one of the children led to police investigation and discovery.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2009-03",
+        "title": "Trial and conviction",
+        "detail": "Fritzl pleaded guilty and was convicted on multiple serious charges.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "josef-fritzl-case-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "josef-fritzl-case-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "josef-fritzl-case-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "josef-fritzl-case-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "Which safeguards can detect coercive control hidden within families? How should agencies coordinate when medical concerns suggest abuse? How can victim privacy be protected in major cases?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Austrian justice system",
+        "publisher": "Federal Ministry of Justice, Austria",
+        "url": "https://www.justiz.gv.at/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Amstetten case reporting archive",
+        "publisher": "BBC News",
+        "url": "https://www.bbc.com/news",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "luka-magnotta",
+    "case_number": "ER-048",
+    "title": "The Luka Magnotta Case",
+    "subtitle": "An online murder investigation and international manhunt",
+    "country": "Canada",
+    "region": "Montreal · Quebec / Berlin · Germany",
+    "period": "2012",
+    "category": "Homicide · international fugitive investigation",
+    "status": "Conviction · life imprisonment",
+    "status_type": "court-resolved",
+    "summary": "The murder of Jun Lin in Montreal led to an international manhunt after evidence was posted online and body parts were sent to institutions. Luka Magnotta was arrested in Berlin and convicted in Canada.",
+    "tags": [
+      "Digital forensics",
+      "International policing",
+      "Evidence authentication",
+      "Online media"
+    ],
+    "sections": {
+      "overview": "Jun Lin, a university student, was murdered in Montreal in 2012. The investigation expanded internationally after disturbing material appeared online and packages containing human remains were sent to political institutions. Luka Magnotta was arrested in Berlin and extradited to Canada.",
+      "background": "The case involved cross-border investigation, online video evidence, digital traces and extensive media coverage. The victim's identity and dignity should remain central; graphic content is excluded.",
+      "timeline": "2012-05 — Murder and online material. Jun Lin was killed in Montreal; material connected to the crime circulated online.\n\n2012-05 — International alerts. Investigators issued alerts after packages containing human remains were discovered.\n\n2012-06 — Arrest in Berlin. Magnotta was arrested in Germany.\n\n2014-12 — Conviction. A Canadian jury convicted Magnotta of first-degree murder and related offences.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "Investigators authenticated digital files, examined physical evidence and used forensic identification to establish the victim's identity. Chain of custody and cross-border evidence transfer were important.",
+      "witness_statements": "Witnesses, investigators and digital forensic experts contributed to the reconstruction. Online uploads were evidence to authenticate, not content to redistribute.",
+      "investigative_leads": "Digital traces, online posts, travel records, package investigations and international police cooperation helped identify and locate the suspect.",
+      "investigation_issues": "The case raises questions about harmful online content, platform responsibilities, international evidence-sharing, victim privacy and media amplification.",
+      "official_conclusion": "Magnotta was convicted in Canada in 2014 of first-degree murder and other offences and sentenced to life imprisonment.",
+      "unanswered_questions": "How should platforms respond to evidence of violent crime uploaded online? What safeguards govern cross-border digital evidence? How can public reporting avoid amplifying perpetrators' material?"
+    },
+    "timeline": [
+      {
+        "date": "2012-05",
+        "title": "Murder and online material",
+        "detail": "Jun Lin was killed in Montreal; material connected to the crime circulated online.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2012-05",
+        "title": "International alerts",
+        "detail": "Investigators issued alerts after packages containing human remains were discovered.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2012-06",
+        "title": "Arrest in Berlin",
+        "detail": "Magnotta was arrested in Germany.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2014-12",
+        "title": "Conviction",
+        "detail": "A Canadian jury convicted Magnotta of first-degree murder and related offences.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "luka-magnotta-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "luka-magnotta-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "luka-magnotta-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "luka-magnotta-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How should platforms respond to evidence of violent crime uploaded online? What safeguards govern cross-border digital evidence? How can public reporting avoid amplifying perpetrators' material?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "SPVM — Montreal Police Service",
+        "publisher": "Service de police de la Ville de Montréal",
+        "url": "https://spvm.qc.ca/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Royal Canadian Mounted Police",
+        "publisher": "RCMP",
+        "url": "https://rcmp.ca/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "hello-kitty-murder",
+    "case_number": "ER-049",
+    "title": "The Hello Kitty Murder",
+    "subtitle": "The 1999 Hong Kong homicide and forensic identification investigation",
+    "country": "Hong Kong",
+    "region": "Tsim Sha Tsui · Kowloon",
+    "period": "1999",
+    "category": "Homicide · unlawful confinement",
+    "status": "Convictions",
+    "status_type": "court-resolved",
+    "summary": "Fan Man-yee was abducted and held captive in Hong Kong before being murdered. The case became known internationally because investigators found human remains concealed inside a Hello Kitty-themed doll.",
+    "tags": [
+      "Witness testimony",
+      "Forensic identification",
+      "Organised abuse",
+      "Hong Kong"
+    ],
+    "sections": {
+      "overview": "Fan Man-yee was abducted and held captive by several people in Hong Kong in 1999. She was killed and her remains were concealed. The case became known by a media nickname connected to an item in which remains were found.",
+      "background": "The case involved prolonged abuse, coercion and multiple perpetrators. Public coverage often sensationalises the discovery; this dossier focuses on the investigation, victim identification and legal proceedings.",
+      "timeline": "1999 — Abduction and captivity. Fan Man-yee was held captive and abused in an apartment in Kowloon.\n\n1999 — Death and concealment. She was murdered and her remains concealed.\n\n1999 — Police investigation. Police investigation and forensic examination led to identification and arrests.\n\n2000 — Court proceedings. The principal defendants were convicted of manslaughter; one received a life sentence for murder-related conduct under the court's findings.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "Forensic examination of recovered remains, the apartment and associated items supported identification and reconstruction. The precise findings should be taken from Hong Kong court records.",
+      "witness_statements": "A young witness's account was central to bringing the abuse to police attention. The account and the court's treatment of it should be described sensitively and accurately.",
+      "investigative_leads": "Police received information about the victim's captivity, investigated the apartment and recovered evidence that supported identification and prosecution.",
+      "investigation_issues": "The case raises questions about coercive group violence, the protection of vulnerable witnesses, forensic identification and the way sensational labels can overshadow a victim's life.",
+      "official_conclusion": "Three defendants were convicted in Hong Kong. The principal woman defendant was convicted of murder and sentenced to life imprisonment; two male defendants were convicted of manslaughter and received prison sentences.",
+      "unanswered_questions": "How can authorities protect witnesses who are themselves vulnerable? How should courts assess participation and culpability in group abuse? How can reporting avoid reducing a victim to a sensational nickname?"
+    },
+    "timeline": [
+      {
+        "date": "1999",
+        "title": "Abduction and captivity",
+        "detail": "Fan Man-yee was held captive and abused in an apartment in Kowloon.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1999",
+        "title": "Death and concealment",
+        "detail": "She was murdered and her remains concealed.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1999",
+        "title": "Police investigation",
+        "detail": "Police investigation and forensic examination led to identification and arrests.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2000",
+        "title": "Court proceedings",
+        "detail": "The principal defendants were convicted of manslaughter; one received a life sentence for murder-related conduct under the court's findings.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "hello-kitty-murder-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "hello-kitty-murder-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "hello-kitty-murder-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "hello-kitty-murder-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How can authorities protect witnesses who are themselves vulnerable? How should courts assess participation and culpability in group abuse? How can reporting avoid reducing a victim to a sensational nickname?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hong Kong Judiciary",
+        "publisher": "Hong Kong Judiciary",
+        "url": "https://www.judiciary.hk/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Hong Kong Police Force",
+        "publisher": "Hong Kong Police Force",
+        "url": "https://www.police.gov.hk/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "issei-sagawa",
+    "case_number": "ER-050",
+    "title": "The Issei Sagawa Case",
+    "subtitle": "A Paris homicide, psychiatric proceedings and jurisdictional controversy",
+    "country": "France / Japan",
+    "region": "Paris · France / Tokyo · Japan",
+    "period": "1981–1986 and later",
+    "category": "Homicide · cross-border legal controversy",
+    "status": "French proceedings ended after psychiatric findings · later release in Japan",
+    "status_type": "court-resolved",
+    "summary": "Issei Sagawa murdered a Dutch student in Paris in 1981. He was found unfit to stand trial in France and later returned to Japan after the French proceedings ended, prompting international controversy about jurisdiction and accountability.",
+    "tags": [
+      "International law",
+      "Psychiatric assessment",
+      "Jurisdiction",
+      "Legal accountability"
+    ],
+    "sections": {
+      "overview": "In 1981, Japanese national Issei Sagawa murdered Dutch student Renée Hartevelt in Paris. French authorities detained him, but psychiatric assessments led to a finding that he was unfit to stand trial. He later returned to Japan.",
+      "background": "The case became controversial because the criminal process did not culminate in a conventional trial and sentence in France. Later events in Japan were shaped by the legal and medical record transferred between jurisdictions.",
+      "timeline": "1981 — Murder in Paris. Renée Hartevelt was killed by Sagawa in Paris.\n\n1981–1983 — French detention and assessment. Psychiatric assessments led to a finding that Sagawa was unfit to stand trial.\n\n1984 — Return to Japan. Sagawa returned to Japan after the French proceedings were discontinued.\n\n1986 — Release from psychiatric hospital. He was released in Japan after the relevant medical and legal process.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The case involved crime-scene evidence, forensic psychiatric assessments and cross-border transfer of legal and medical records. Public sources should distinguish forensic facts from sensationalised accounts.",
+      "witness_statements": "Investigators and psychiatric experts contributed to the French proceedings. The available public record should not be treated as equivalent to a contested criminal trial.",
+      "investigative_leads": "French authorities investigated the homicide and assessed Sagawa's mental condition. Subsequent questions centred on the legal basis for his return and treatment in Japan.",
+      "investigation_issues": "The case highlights the interaction between criminal jurisdiction, fitness to stand trial, psychiatric detention, extradition and public expectations of accountability.",
+      "official_conclusion": "Sagawa was not tried to verdict in France after being found unfit to stand trial. He returned to Japan and was later released from psychiatric hospital; the case did not result in a standard criminal conviction.",
+      "unanswered_questions": "How should states coordinate when a suspect is found unfit to stand trial? What safeguards ensure that psychiatric findings are reviewed fairly? How can legal reporting avoid implying a conviction where none occurred?"
+    },
+    "timeline": [
+      {
+        "date": "1981",
+        "title": "Murder in Paris",
+        "detail": "Renée Hartevelt was killed by Sagawa in Paris.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1981–1983",
+        "title": "French detention and assessment",
+        "detail": "Psychiatric assessments led to a finding that Sagawa was unfit to stand trial.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1984",
+        "title": "Return to Japan",
+        "detail": "Sagawa returned to Japan after the French proceedings were discontinued.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1986",
+        "title": "Release from psychiatric hospital",
+        "detail": "He was released in Japan after the relevant medical and legal process.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "issei-sagawa-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "issei-sagawa-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "issei-sagawa-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "issei-sagawa-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How should states coordinate when a suspect is found unfit to stand trial? What safeguards ensure that psychiatric findings are reviewed fairly? How can legal reporting avoid implying a conviction where none occurred?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "French Ministry of Justice",
+        "publisher": "Ministère de la Justice",
+        "url": "https://www.justice.gouv.fr/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Japan Ministry of Justice",
+        "publisher": "Ministry of Justice, Japan",
+        "url": "https://www.moj.go.jp/EN/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "collyer-brothers",
+    "case_number": "ER-051",
+    "title": "The Collyer Brothers Mystery",
+    "subtitle": "A 1947 Harlem discovery involving hoarding, isolation and forensic reconstruction",
+    "country": "United States",
+    "region": "Harlem · Manhattan · New York",
+    "period": "1947",
+    "category": "Historical death investigation · social isolation",
+    "status": "Historical investigation · no homicide finding established",
+    "status_type": "historical",
+    "summary": "Reclusive brothers Homer and Langley Collyer died in their Harlem brownstone amid vast accumulations of possessions and improvised traps. The deaths became a notorious historical mystery, not an established murder case.",
+    "tags": [
+      "Historical mystery",
+      "Forensic reconstruction",
+      "Social isolation",
+      "New York"
+    ],
+    "sections": {
+      "overview": "Homer and Langley Collyer were reclusive brothers who lived in a Harlem brownstone surrounded by large quantities of accumulated possessions. Police discovered both brothers dead in 1947 after neighbours raised concerns.",
+      "background": "The brothers' isolation and the condition of their home attracted public fascination. The story has often been framed as an eccentric mystery; a careful archive should avoid treating their deaths as a homicide without evidence.",
+      "timeline": "1947-03 — Welfare concern. Police were called to investigate concerns about the brothers' welfare.\n\n1947-03 — Homer found. Homer Collyer was found dead inside the house.\n\n1947-04 — Langley found. Langley Collyer's remains were discovered after a prolonged search through the accumulated objects.\n\n1947 — Medical findings. The deaths were attributed to natural causes and an accident involving the home's hazards, rather than an established homicide.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The physical layout, blocked passages, improvised alarms and accumulated objects complicated access and recovery. The case is useful for studying scene documentation and death reconstruction, not homicide attribution.",
+      "witness_statements": "Neighbours and responders described the brothers' isolation and the difficulty of accessing the house. Accounts should be separated from later folklore.",
+      "investigative_leads": "Police responded to welfare concerns, searched the property and reconstructed how the brothers had lived and died within the obstructed home.",
+      "investigation_issues": "The case illustrates social isolation, hoarding disorder as a modern analytical lens, emergency access challenges and the danger of sensationalising unusual deaths.",
+      "official_conclusion": "The brothers' deaths were not established as murders. The case is retained as a historical death investigation and unusual-scene study.",
+      "unanswered_questions": "How should emergency services respond to people living in unsafe isolation? What evidence distinguishes accidental death from homicide? How does folklore distort historical case records?"
+    },
+    "timeline": [
+      {
+        "date": "1947-03",
+        "title": "Welfare concern",
+        "detail": "Police were called to investigate concerns about the brothers' welfare.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1947-03",
+        "title": "Homer found",
+        "detail": "Homer Collyer was found dead inside the house.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1947-04",
+        "title": "Langley found",
+        "detail": "Langley Collyer's remains were discovered after a prolonged search through the accumulated objects.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1947",
+        "title": "Medical findings",
+        "detail": "The deaths were attributed to natural causes and an accident involving the home's hazards, rather than an established homicide.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "collyer-brothers-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "collyer-brothers-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "collyer-brothers-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "collyer-brothers-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How should emergency services respond to people living in unsafe isolation? What evidence distinguishes accidental death from homicide? How does folklore distort historical case records?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "New York City historical archives",
+        "publisher": "NYC Department of Records",
+        "url": "https://www.nyc.gov/site/records/index.page",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "New York Public Library — local history",
+        "publisher": "New York Public Library",
+        "url": "https://www.nypl.org/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "jonestown-massacre",
+    "case_number": "ER-052",
+    "title": "The Jonestown Massacre",
+    "subtitle": "The Peoples Temple, coercive control and mass death in Guyana",
+    "country": "Guyana / United States",
+    "region": "Jonestown · Guyana",
+    "period": "1978",
+    "category": "Mass death · coercive organisation",
+    "status": "Historical investigation · mass murder and suicide terminology debated",
+    "status_type": "historical",
+    "summary": "More than 900 people died at the Peoples Temple agricultural settlement in Guyana in November 1978. The deaths followed years of coercive control and culminated in a mass killing and suicide event led by Jim Jones.",
+    "tags": [
+      "Cult psychology",
+      "Coercive control",
+      "Mass casualty",
+      "Institutional warnings"
+    ],
+    "sections": {
+      "overview": "On 18 November 1978, more than 900 people died at the Peoples Temple settlement in Jonestown, Guyana. The event followed years of authoritarian leadership, isolation and coercive control under Jim Jones.",
+      "background": "The Peoples Temple began in the United States and relocated many members to Guyana. A visit by U.S. Representative Leo Ryan and accompanying journalists preceded the killings and mass deaths.",
+      "timeline": "1977 — Relocation to Guyana. Many Peoples Temple members relocated to the settlement in Guyana.\n\n1978-11-17 — Congressional visit. U.S. Representative Leo Ryan and a delegation visited Jonestown.\n\n1978-11-18 — Airstrip killings and mass death. Ryan and others were killed at Port Kaituma; more than 900 people died at Jonestown.\n\n1978 onward — Investigations. Authorities and historians examined the deaths, leadership, coercion and institutional failures.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The investigation involved mass-fatality recovery, identification, toxicology and examination of the airstrip attack. Records must distinguish those killed by force, those who died under coercion and those who took their own lives.",
+      "witness_statements": "Survivors, defectors, relatives and journalists provided accounts. Their testimony is essential to understanding coercive conditions and the events of 18 November.",
+      "investigative_leads": "Investigators examined the settlement, the airstrip attack, organisational records, communications and survivor accounts.",
+      "investigation_issues": "The event raises questions about coercive control, isolation, state oversight, freedom of movement, mass-casualty response and the language used to describe deaths involving both force and suicide.",
+      "official_conclusion": "The deaths are commonly described as the Jonestown massacre. The record includes murders, coerced deaths and suicides; it should not be flattened into a single category.",
+      "unanswered_questions": "What indicators of coercive control were visible before the event? How can authorities protect people inside closed organisations? What language best represents the different circumstances of individual deaths?"
+    },
+    "timeline": [
+      {
+        "date": "1977",
+        "title": "Relocation to Guyana",
+        "detail": "Many Peoples Temple members relocated to the settlement in Guyana.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1978-11-17",
+        "title": "Congressional visit",
+        "detail": "U.S. Representative Leo Ryan and a delegation visited Jonestown.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1978-11-18",
+        "title": "Airstrip killings and mass death",
+        "detail": "Ryan and others were killed at Port Kaituma; more than 900 people died at Jonestown.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1978 onward",
+        "title": "Investigations",
+        "detail": "Authorities and historians examined the deaths, leadership, coercion and institutional failures.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "jonestown-massacre-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "jonestown-massacre-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "jonestown-massacre-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "jonestown-massacre-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "What indicators of coercive control were visible before the event? How can authorities protect people inside closed organisations? What language best represents the different circumstances of individual deaths?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jonestown and Peoples Temple archive",
+        "publisher": "San Diego State University",
+        "url": "https://jonestown.sdsu.edu/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "U.S. Department of State historical materials",
+        "publisher": "U.S. Department of State",
+        "url": "https://history.state.gov/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "tokyo-subway-sarin",
+    "case_number": "ER-053",
+    "title": "The Tokyo Subway Sarin Attack",
+    "subtitle": "Aum Shinrikyo's 1995 chemical attack on Tokyo commuters",
+    "country": "Japan",
+    "region": "Tokyo · Japan",
+    "period": "1995 and subsequent proceedings",
+    "category": "Chemical terrorism · mass casualty",
+    "status": "Convictions · principal perpetrators executed",
+    "status_type": "court-resolved",
+    "summary": "Members of Aum Shinrikyo released sarin on Tokyo subway trains in March 1995, killing 14 people and injuring thousands. The investigation exposed a violent organisation with a sophisticated chemical programme.",
+    "tags": [
+      "Chemical forensics",
+      "Extremist organisation",
+      "Intelligence failures",
+      "Mass casualty"
+    ],
+    "sections": {
+      "overview": "On 20 March 1995, Aum Shinrikyo members carried out a sarin attack on Tokyo subway lines. The attack killed 14 people and injured thousands, many with lasting effects.",
+      "background": "Aum Shinrikyo was a religious movement led by Shoko Asahara that developed into a violent organisation. The subway attack followed earlier crimes and chemical-weapons activity.",
+      "timeline": "1994 — Matsumoto sarin attack. Aum members carried out an earlier sarin attack in Nagano Prefecture.\n\n1995-03-20 — Tokyo subway attack. Sarin was released on multiple subway trains during the morning commute.\n\n1995 onward — Raids and arrests. Police raided Aum facilities and arrested members.\n\n2018 — Executions. Asahara and several other convicted members were executed in 2018.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "Investigators and medical teams identified sarin exposure through symptoms, environmental sampling and chemical analysis. Evidence connected the attack to Aum's production and deployment capabilities.",
+      "witness_statements": "Commuters, station staff, emergency responders and medical personnel documented the attack and its effects. Survivor accounts are central to understanding the immediate response.",
+      "investigative_leads": "Investigators linked the attack to Aum through chemical evidence, organisational records, suspect statements and earlier incidents.",
+      "investigation_issues": "The case raises questions about chemical-threat detection, emergency preparedness, intelligence coordination, extremist recruitment and long-term support for survivors.",
+      "official_conclusion": "Multiple Aum members were convicted. Shoko Asahara and several other senior figures were executed in July 2018. The attack remains a major case in chemical terrorism history.",
+      "unanswered_questions": "What warning signs were missed before the attack? How should cities prepare for chemical incidents in transit systems? What long-term care is owed to survivors?"
+    },
+    "timeline": [
+      {
+        "date": "1994",
+        "title": "Matsumoto sarin attack",
+        "detail": "Aum members carried out an earlier sarin attack in Nagano Prefecture.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1995-03-20",
+        "title": "Tokyo subway attack",
+        "detail": "Sarin was released on multiple subway trains during the morning commute.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1995 onward",
+        "title": "Raids and arrests",
+        "detail": "Police raided Aum facilities and arrested members.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2018",
+        "title": "Executions",
+        "detail": "Asahara and several other convicted members were executed in 2018.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "tokyo-subway-sarin-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "tokyo-subway-sarin-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "tokyo-subway-sarin-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "tokyo-subway-sarin-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "What warning signs were missed before the attack? How should cities prepare for chemical incidents in transit systems? What long-term care is owed to survivors?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Police Agency of Japan",
+        "publisher": "National Police Agency",
+        "url": "https://www.npa.go.jp/english/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Tokyo Metro historical information",
+        "publisher": "Tokyo Metro",
+        "url": "https://www.tokyometro.jp/en/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "heavens-gate",
+    "case_number": "ER-054",
+    "title": "The Heaven's Gate Mass Deaths",
+    "subtitle": "A 1997 mass death event and the group's online presence",
+    "country": "United States",
+    "region": "Rancho Santa Fe · California",
+    "period": "1997",
+    "category": "Mass death · coercive group dynamics",
+    "status": "Historical investigation",
+    "status_type": "historical",
+    "summary": "Thirty-nine members of the Heaven's Gate group died in Rancho Santa Fe, California, in March 1997. The group combined apocalyptic beliefs with a distinctive online presence and recruitment activity.",
+    "tags": [
+      "Group psychology",
+      "Digital archives",
+      "Cult indoctrination",
+      "Mass death"
+    ],
+    "sections": {
+      "overview": "Thirty-nine members of Heaven's Gate died at a residence in Rancho Santa Fe, California, in March 1997. The group believed that death would allow them to reach an extraterrestrial level of existence.",
+      "background": "Heaven's Gate was led by Marshall Applewhite and Bonnie Nettles before Nettles' death. The group used the internet to publish its beliefs and attract attention.",
+      "timeline": "1970s — Group formation. The movement developed around apocalyptic and extraterrestrial beliefs.\n\n1990s — Online presence. Members used a website and online material to communicate their beliefs.\n\n1997-03 — Mass deaths discovered. Authorities discovered 39 members dead at a residence in Rancho Santa Fe.\n\n1997 onward — Investigation and analysis. Investigators and researchers examined the deaths, group dynamics and online materials.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The investigation involved scene documentation, identification, medical examination and reconstruction of the deaths. The record should avoid reproducing graphic material.",
+      "witness_statements": "Former members, relatives, neighbours and investigators contributed accounts of group life and the discovery.",
+      "investigative_leads": "Authorities responded to information about the residence, documented the scene and identified the deceased. Archived online materials became a major source for later researchers.",
+      "investigation_issues": "The case raises questions about coercive influence, social isolation, apocalyptic belief systems, online recruitment and how to distinguish voluntary action from manipulation.",
+      "official_conclusion": "Thirty-nine members died in the 1997 event. The case is treated as a mass death investigation; avoid implying that every participant's circumstances can be reduced to a single simple explanation.",
+      "unanswered_questions": "How did online communication shape the group's identity? What signs of coercive control were visible? How can families and communities respond to escalating isolation?"
+    },
+    "timeline": [
+      {
+        "date": "1970s",
+        "title": "Group formation",
+        "detail": "The movement developed around apocalyptic and extraterrestrial beliefs.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1990s",
+        "title": "Online presence",
+        "detail": "Members used a website and online material to communicate their beliefs.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1997-03",
+        "title": "Mass deaths discovered",
+        "detail": "Authorities discovered 39 members dead at a residence in Rancho Santa Fe.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "1997 onward",
+        "title": "Investigation and analysis",
+        "detail": "Investigators and researchers examined the deaths, group dynamics and online materials.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "heavens-gate-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "heavens-gate-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "heavens-gate-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "heavens-gate-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How did online communication shape the group's identity? What signs of coercive control were visible? How can families and communities respond to escalating isolation?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Heaven's Gate official archive",
+        "publisher": "Heaven's Gate",
+        "url": "https://www.heavensgate.com/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "San Diego County historical resources",
+        "publisher": "County of San Diego",
+        "url": "https://www.sandiegocounty.gov/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "nxivm",
+    "case_number": "ER-055",
+    "title": "The NXIVM Sex Cult Scandal",
+    "subtitle": "A self-improvement organisation, coercion and federal prosecutions",
+    "country": "United States",
+    "region": "Albany · New York",
+    "period": "1998–2020",
+    "category": "Sex trafficking · racketeering · coercive organisation",
+    "status": "Convictions · Keith Raniere sentenced to 120 years",
+    "status_type": "court-resolved",
+    "summary": "NXIVM marketed personal-development programmes but was exposed as a coercive organisation involving exploitation, blackmail and a secret subgroup. Founder Keith Raniere was convicted on federal charges.",
+    "tags": [
+      "Coercive control",
+      "Financial structures",
+      "Recruitment",
+      "Federal prosecution"
+    ],
+    "sections": {
+      "overview": "NXIVM offered personal-development programmes and built a network of paying members. Federal investigators later prosecuted founder Keith Raniere and others over crimes involving racketeering, sex trafficking, forced labour and exploitation.",
+      "background": "The organisation used hierarchical courses and personal relationships to recruit and retain members. A secret subgroup known as DOS was central to allegations and trial evidence.",
+      "timeline": "1998 — Organisation founded. NXIVM began operating personal-development programmes.\n\n2017 — Public reporting. Investigative reporting brought allegations about DOS and coercive practices to wider attention.\n\n2018 — Federal arrest. Raniere was arrested in Mexico and brought to the United States.\n\n2019 — Conviction. A federal jury convicted Raniere on racketeering and related charges.\n\n2020 — Sentence. Raniere was sentenced to 120 years in prison.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The prosecution relied on communications, financial records, testimony, photographs and other documentary evidence. The dossier should identify which facts were established at trial and which were allegations about other individuals.",
+      "witness_statements": "Former members and victims testified about recruitment, coercion, branding, blackmail and organisational hierarchy. Their accounts were examined in court.",
+      "investigative_leads": "Investigative journalism, victim disclosures, financial and communication records and federal investigation contributed to the prosecution.",
+      "investigation_issues": "The case raises questions about coercive control in organisations, consent under manipulation, financial exploitation, whistleblower protection and the role of celebrity or wealth in recruitment.",
+      "official_conclusion": "Raniere was convicted in federal court in 2019 and sentenced to 120 years in prison in 2020. Other defendants entered pleas or were convicted in separate proceedings.",
+      "unanswered_questions": "How can institutions identify coercive organisations disguised as self-help programmes? What protections help people leave high-control groups? How should courts assess consent under coercion?"
+    },
+    "timeline": [
+      {
+        "date": "1998",
+        "title": "Organisation founded",
+        "detail": "NXIVM began operating personal-development programmes.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2017",
+        "title": "Public reporting",
+        "detail": "Investigative reporting brought allegations about DOS and coercive practices to wider attention.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2018",
+        "title": "Federal arrest",
+        "detail": "Raniere was arrested in Mexico and brought to the United States.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2019",
+        "title": "Conviction",
+        "detail": "A federal jury convicted Raniere on racketeering and related charges.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2020",
+        "title": "Sentence",
+        "detail": "Raniere was sentenced to 120 years in prison.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "nxivm-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "nxivm-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "nxivm-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "nxivm-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How can institutions identify coercive organisations disguised as self-help programmes? What protections help people leave high-control groups? How should courts assess consent under coercion?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "United States v. Keith Raniere — case information",
+        "publisher": "U.S. Department of Justice",
+        "url": "https://www.justice.gov/usao-edny",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "NXIVM trial coverage",
+        "publisher": "Associated Press",
+        "url": "https://apnews.com/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "sarah-lawrence-cult",
+    "case_number": "ER-056",
+    "title": "The Sarah Lawrence Cult Case",
+    "subtitle": "Larry Ray's exploitation of students in a college residence",
+    "country": "United States",
+    "region": "Bronx · New York",
+    "period": "2010–2023",
+    "category": "Sex trafficking · extortion · forced labour",
+    "status": "Conviction · 60-year sentence",
+    "status_type": "court-resolved",
+    "summary": "Larry Ray moved into his daughter's Sarah Lawrence College residence and gained control over a group of students through manipulation, coercion and exploitation. He was convicted in federal court.",
+    "tags": [
+      "Psychological control",
+      "Witness testimony",
+      "Financial exploitation",
+      "College safety"
+    ],
+    "sections": {
+      "overview": "Larry Ray began living in his daughter's student accommodation at Sarah Lawrence College in 2010. Prosecutors later established that he exploited a group of students through coercion, threats, extortion and abuse.",
+      "background": "Ray presented himself as a mentor and authority figure. Students were drawn into a coercive environment in which he used confessions, threats and financial demands to maintain control.",
+      "timeline": "2010 — Move into residence. Ray began staying in his daughter's college accommodation.\n\n2010s — Coercion and exploitation. Students were subjected to manipulation, abuse and financial exploitation.\n\n2020 — Federal arrest. Ray was arrested and charged.\n\n2022 — Conviction. A jury convicted Ray on multiple federal counts.\n\n2023 — Sentence. Ray was sentenced to 60 years in prison.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The case relied heavily on documentary evidence, recordings, financial transactions, communications and victim testimony. It demonstrates how coercion may be established through patterns rather than one isolated act.",
+      "witness_statements": "Former students and victims testified about manipulation, threats, sexual exploitation and extortion. Their accounts were tested through the trial process.",
+      "investigative_leads": "Victim disclosures, investigative journalism, financial records and federal investigation brought the conduct to authorities' attention.",
+      "investigation_issues": "The case raises questions about safeguarding in student housing, adult access to young people, coercive persuasion, institutional response and victim support.",
+      "official_conclusion": "Ray was convicted in federal court in 2022 and sentenced to 60 years in prison in 2023.",
+      "unanswered_questions": "What safeguarding rules should apply to residential colleges? How can institutions respond when students report coercion by a trusted adult? What evidence helps demonstrate a pattern of exploitation?"
+    },
+    "timeline": [
+      {
+        "date": "2010",
+        "title": "Move into residence",
+        "detail": "Ray began staying in his daughter's college accommodation.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2010s",
+        "title": "Coercion and exploitation",
+        "detail": "Students were subjected to manipulation, abuse and financial exploitation.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2020",
+        "title": "Federal arrest",
+        "detail": "Ray was arrested and charged.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2022",
+        "title": "Conviction",
+        "detail": "A jury convicted Ray on multiple federal counts.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2023",
+        "title": "Sentence",
+        "detail": "Ray was sentenced to 60 years in prison.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "sarah-lawrence-cult-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "sarah-lawrence-cult-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "sarah-lawrence-cult-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "sarah-lawrence-cult-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "What safeguarding rules should apply to residential colleges? How can institutions respond when students report coercion by a trusted adult? What evidence helps demonstrate a pattern of exploitation?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "United States v. Lawrence Ray — case information",
+        "publisher": "U.S. Department of Justice",
+        "url": "https://www.justice.gov/usao-sdny",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Sarah Lawrence case reporting",
+        "publisher": "The New York Times",
+        "url": "https://www.nytimes.com/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "altantuya-shaariibuu",
+    "case_number": "ER-057",
+    "title": "The Altantuya Shaariibuu Murder",
+    "subtitle": "A 2006 Malaysian murder, police convictions and unresolved questions",
+    "country": "Malaysia / Mongolia",
+    "region": "Shah Alam · Kuala Lumpur · Malaysia",
+    "period": "2006–2026 civil and criminal proceedings",
+    "category": "Homicide · political controversy",
+    "status": "Two police officers convicted · civil damages appeal developments in 2026",
+    "status_type": "court-resolved",
+    "summary": "Mongolian national Altantuya Shaariibuu was murdered in Malaysia in 2006. Two police officers were convicted. Questions about possible wider responsibility remain unresolved; recent civil proceedings concern damages and government liability.",
+    "tags": [
+      "Political connections",
+      "Forensic evidence",
+      "Command responsibility",
+      "Cross-border justice"
+    ],
+    "sections": {
+      "overview": "Altantuya Shaariibuu, a Mongolian national, was murdered near Kuala Lumpur in 2006. Two police officers were convicted. A political analyst who had been associated with her was acquitted. Allegations about wider political responsibility have remained contested and no court finding should be inferred beyond the established record.",
+      "background": "The case attracted international attention because of the defendants' police roles and alleged connections to senior political figures. The murder convictions and separate civil litigation must be distinguished from unresolved allegations about who ordered the killing.",
+      "timeline": "2006-10 — Murder. Shaariibuu was killed near Kuala Lumpur and her body destroyed using explosives.\n\n2009 — Convictions. Two police officers were convicted of her murder.\n\n2015 — Federal Court ruling. The Federal Court reinstated the officers' convictions after an appellate acquittal.\n\n2022 — Civil damages. The High Court awarded damages to Shaariibuu's family.\n\n2026-01 — Civil appeal ruling. The Court of Appeal reduced damages and ruled the government was not vicariously liable.\n\n2026-11 — Further appeal application. Bernama reported that the family's leave-to-appeal application was scheduled for February 2027.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The case involved identification, investigation of the murder location and the use of explosives to destroy evidence. The forensic record should be sourced to court judgments and official proceedings.",
+      "witness_statements": "Police officers, investigators and parties to the civil proceedings provided evidence. Allegations about political direction must remain clearly labelled as allegations unless judicially established.",
+      "investigative_leads": "Investigators traced the victim's contacts and movements and prosecuted two police officers. Civil litigation later examined liability and damages.",
+      "investigation_issues": "The case raises questions about police accountability, political influence, command responsibility, witness access and the ability of victims' families to obtain full answers.",
+      "official_conclusion": "Two police officers remain convicted for the murder; one received a commuted sentence in 2023. The family continues to challenge civil rulings on damages and government liability. Who, if anyone, ordered the killing has not been judicially established.",
+      "unanswered_questions": "What evidence could clarify whether anyone ordered the murder? How should courts address state liability for crimes by officers? What remedies are available to families when criminal and civil outcomes differ?"
+    },
+    "timeline": [
+      {
+        "date": "2006-10",
+        "title": "Murder",
+        "detail": "Shaariibuu was killed near Kuala Lumpur and her body destroyed using explosives.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2009",
+        "title": "Convictions",
+        "detail": "Two police officers were convicted of her murder.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2015",
+        "title": "Federal Court ruling",
+        "detail": "The Federal Court reinstated the officers' convictions after an appellate acquittal.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2022",
+        "title": "Civil damages",
+        "detail": "The High Court awarded damages to Shaariibuu's family.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2026-01",
+        "title": "Civil appeal ruling",
+        "detail": "The Court of Appeal reduced damages and ruled the government was not vicariously liable.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2026-11",
+        "title": "Further appeal application",
+        "detail": "Bernama reported that the family's leave-to-appeal application was scheduled for February 2027.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "altantuya-shaariibuu-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "altantuya-shaariibuu-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "altantuya-shaariibuu-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "altantuya-shaariibuu-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "What evidence could clarify whether anyone ordered the murder? How should courts address state liability for crimes by officers? What remedies are available to families when criminal and civil outcomes differ?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Altantuya family appeal leave bid set for Feb 25 next year",
+        "publisher": "Bernama",
+        "url": "https://web26.bernama.com/en/crime_courts/news.php?id=2633901",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Mongolia protests Malaysia's handling of 20-year-old murder case",
+        "publisher": "Associated Press",
+        "url": "https://apnews.com/article/41be72d0d6f4197870049348bf0b1cc7",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "diddy-combs-case",
+    "case_number": "ER-058",
+    "title": "The Sean 'Diddy' Combs Criminal Case",
+    "subtitle": "Federal prosecution, criminal verdict and separate civil litigation",
+    "country": "United States",
+    "region": "New York · United States",
+    "period": "2023–2026",
+    "category": "Federal criminal case · civil litigation",
+    "status": "Acquitted of racketeering and sex-trafficking counts · convicted on two transportation counts",
+    "status_type": "court-resolved",
+    "summary": "Sean Combs faced federal charges and numerous civil allegations. In July 2025, a jury acquitted him of racketeering conspiracy and sex trafficking but convicted him on two counts of transportation to engage in prostitution.",
+    "tags": [
+      "Celebrity influence",
+      "Witness testimony",
+      "Digital evidence",
+      "Civil litigation"
+    ],
+    "sections": {
+      "overview": "Music executive Sean 'Diddy' Combs faced a federal criminal prosecution in New York alongside multiple civil lawsuits. The criminal trial produced a mixed verdict in July 2025, with acquittals on the most serious counts and convictions on two transportation counts.",
+      "background": "The case involved allegations from multiple individuals, federal investigation, extensive media coverage and parallel civil litigation. Civil allegations are not equivalent to criminal findings.",
+      "timeline": "2023 — Civil allegations and public scrutiny. Civil lawsuits and public allegations brought increased scrutiny.\n\n2024-09 — Federal arrest. Combs was arrested and charged in federal court.\n\n2025-07 — Jury verdict. The jury acquitted Combs of racketeering conspiracy and sex trafficking and convicted him on two transportation counts.\n\n2025 onward — Sentencing and post-trial proceedings. Sentencing and subsequent legal proceedings followed the verdict.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The prosecution involved digital communications, recordings, travel and financial records, and physical evidence. The archive should distinguish evidence admitted at trial from material alleged in separate civil cases.",
+      "witness_statements": "Complainants, employees, investigators and other witnesses testified. Their testimony must be attributed accurately and separated from allegations that were not decided by the jury.",
+      "investigative_leads": "Federal investigators examined communications, travel, financial records and witness accounts. Separate civil cases continue to raise claims outside the criminal verdict.",
+      "investigation_issues": "The case raises questions about celebrity power, coercion, witness protection, the interaction between civil and criminal proceedings and how a mixed verdict should be explained.",
+      "official_conclusion": "In July 2025, Combs was acquitted of racketeering conspiracy and sex-trafficking counts and convicted on two counts of transportation to engage in prostitution. Civil litigation is separate and must not be presented as criminal convictions.",
+      "unanswered_questions": "How should reporting explain mixed verdicts? What protections are available to witnesses in high-profile cases? How do civil claims differ from criminal charges and proof?"
+    },
+    "timeline": [
+      {
+        "date": "2023",
+        "title": "Civil allegations and public scrutiny",
+        "detail": "Civil lawsuits and public allegations brought increased scrutiny.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2024-09",
+        "title": "Federal arrest",
+        "detail": "Combs was arrested and charged in federal court.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2025-07",
+        "title": "Jury verdict",
+        "detail": "The jury acquitted Combs of racketeering conspiracy and sex trafficking and convicted him on two transportation counts.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2025 onward",
+        "title": "Sentencing and post-trial proceedings",
+        "detail": "Sentencing and subsequent legal proceedings followed the verdict.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "diddy-combs-case-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "diddy-combs-case-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "diddy-combs-case-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "diddy-combs-case-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "How should reporting explain mixed verdicts? What protections are available to witnesses in high-profile cases? How do civil claims differ from criminal charges and proof?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "United States v. Sean Combs — court docket",
+        "publisher": "U.S. District Court, Southern District of New York",
+        "url": "https://www.nysd.uscourts.gov/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Federal prosecution information",
+        "publisher": "U.S. Attorney's Office, SDNY",
+        "url": "https://www.justice.gov/usao-sdny",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "daphne-caruana-galizia",
+    "case_number": "ER-059",
+    "title": "The Daphne Caruana Galizia Assassination",
+    "subtitle": "The 2017 killing of a Maltese investigative journalist",
+    "country": "Malta",
+    "region": "Bidnija · Malta",
+    "period": "2017–2026 proceedings",
+    "category": "Assassination · corruption investigation",
+    "status": "Multiple convictions and guilty pleas · proceedings involving alleged mastermind remain contested",
+    "status_type": "ongoing",
+    "summary": "Investigative journalist Daphne Caruana Galizia was killed by a car bomb in 2017 after reporting on corruption. Several participants have been convicted or pleaded guilty; proceedings involving businessman Yorgen Fenech have continued and legal outcomes must be checked against current court records.",
+    "tags": [
+      "Investigative journalism",
+      "Corruption",
+      "Political accountability",
+      "Court controversy"
+    ],
+    "sections": {
+      "overview": "Maltese investigative journalist Daphne Caruana Galizia was assassinated by a car bomb near her home in October 2017. Her reporting examined corruption and political connections. The investigation and prosecutions exposed criminal networks and institutional failures.",
+      "background": "The killing became a major test of Malta's rule of law and press freedom. A public inquiry later found the state had created an atmosphere of impunity that facilitated the assassination.",
+      "timeline": "2017-10-16 — Assassination. Caruana Galizia was killed by a car bomb.\n\n2017–2021 — Arrests and convictions. Investigators arrested suspects; several defendants pleaded guilty or were convicted.\n\n2021 — Public inquiry report. A public inquiry published findings about state responsibility and the climate preceding the murder.\n\n2026 — Further court developments. Proceedings and appeals concerning alleged involvement and civil or criminal responsibility continued; verify the latest final rulings before publication.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The investigation examined explosive materials, vehicle components, communications, financial records and phone data. The car-bomb evidence was central to reconstructing the attack.",
+      "witness_statements": "Investigators, intermediaries, defendants and journalists provided evidence. The testimony and legal status of each participant must be described in relation to specific judgments.",
+      "investigative_leads": "The investigation followed communications, financial networks, phone data and the alleged chain of participants. International cooperation and public inquiry findings added context.",
+      "investigation_issues": "The case raises questions about journalist safety, corruption, state capture, source protection, investigative independence and the distinction between conviction and allegations of ordering a murder.",
+      "official_conclusion": "Several participants in the assassination have been convicted or pleaded guilty. The status of proceedings involving Yorgen Fenech and any appeals should be updated from the latest Maltese court record; do not label allegations as proven unless a final judgment establishes them.",
+      "unanswered_questions": "Who bears responsibility at each level of an assassination plot? How can states protect investigative journalists? What institutional reforms can prevent impunity for attacks on the press?"
+    },
+    "timeline": [
+      {
+        "date": "2017-10-16",
+        "title": "Assassination",
+        "detail": "Caruana Galizia was killed by a car bomb.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2017–2021",
+        "title": "Arrests and convictions",
+        "detail": "Investigators arrested suspects; several defendants pleaded guilty or were convicted.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2021",
+        "title": "Public inquiry report",
+        "detail": "A public inquiry published findings about state responsibility and the climate preceding the murder.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2026",
+        "title": "Further court developments",
+        "detail": "Proceedings and appeals concerning alleged involvement and civil or criminal responsibility continued; verify the latest final rulings before publication.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "daphne-caruana-galizia-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "daphne-caruana-galizia-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "daphne-caruana-galizia-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "daphne-caruana-galizia-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "Who bears responsibility at each level of an assassination plot? How can states protect investigative journalists? What institutional reforms can prevent impunity for attacks on the press?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Daphne Caruana Galizia public inquiry",
+        "publisher": "Government of Malta",
+        "url": "https://www.gov.mt/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Daphne Caruana Galizia Foundation",
+        "publisher": "DCG Foundation",
+        "url": "https://www.daphne.foundation/",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "Recent case reporting",
+        "publisher": "Euronews",
+        "url": "https://www.euronews.com/",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
+  },
+  {
+    "id": "duterte-war-on-drugs-icc",
+    "case_number": "ER-060",
+    "title": "The Duterte War on Drugs Investigation",
+    "subtitle": "ICC proceedings concerning alleged crimes against humanity in the Philippines",
+    "country": "Philippines",
+    "region": "Philippines / The Hague · Netherlands",
+    "period": "2011–2026 ICC proceedings",
+    "category": "International criminal law · alleged crimes against humanity",
+    "status": "ICC charges confirmed · trial scheduled to open 30 November 2026",
+    "status_type": "ongoing",
+    "summary": "Former Philippine president Rodrigo Duterte faces ICC charges of crimes against humanity involving alleged murders and attempted murders connected to the anti-drug campaign. The charges were confirmed in April 2026; trial is scheduled to open on 30 November 2026.",
+    "tags": [
+      "Command responsibility",
+      "International criminal law",
+      "State power",
+      "Witness protection"
+    ],
+    "sections": {
+      "overview": "The International Criminal Court is examining allegations that Rodrigo Roa Duterte bears responsibility for crimes against humanity connected to killings during anti-drug operations in the Philippines. The ICC confirmed three counts in April 2026 and committed the case to trial.",
+      "background": "The proceedings concern alleged conduct between November 2011 and March 2019, including periods when Duterte held public office. The allegations are charges to be adjudicated, not findings of guilt.",
+      "timeline": "2011–2019 — Period covered by allegations. The ICC case concerns alleged crimes during the relevant period in the Philippines.\n\n2025-03 — Surrender to ICC. Duterte was surrendered to the ICC after his arrest.\n\n2026-02 — Confirmation hearing. The Pre-Trial Chamber heard submissions on confirmation of charges.\n\n2026-04-23 — Charges confirmed. The ICC confirmed three counts of crimes against humanity and committed Duterte to trial.\n\n2026-10-08 — Fitness decision. The Trial Chamber made public its decision that Duterte is fit to stand trial.\n\n2026-11-30 — Scheduled trial opening. The ICC has scheduled the opening of trial for 30 November 2026.",
+      "scene_findings": "The investigation record should be reconstructed from contemporaneous scene documentation, official reports and court findings. This dossier avoids graphic detail and distinguishes documented observations from later interpretation.",
+      "forensic": "The case is built around documentary material, witness accounts, policy and command structures, incident records and other evidence presented by the prosecution. The archive should not imply that charges have been proven.",
+      "witness_statements": "Victims and witnesses participate through legal representatives. Their evidence and protection are central to the proceedings; avoid publishing identifying details or treating allegations as established facts.",
+      "investigative_leads": "The ICC investigation examined alleged patterns of killings, command structures, official statements and evidence from victims and witnesses.",
+      "investigation_issues": "The case raises questions about command responsibility, state power, jurisdiction, complementarity, witness protection and the standards required for a fair international trial.",
+      "official_conclusion": "As of 14 November 2026, the ICC has confirmed the charges and scheduled trial to open on 30 November 2026. No trial judgment has been issued; Duterte is presumed innocent unless and until guilt is established by the Court.",
+      "unanswered_questions": "What evidence can establish command responsibility? How will the ICC assess patterns and individual incidents? What protections are available to victims and witnesses during trial?"
+    },
+    "timeline": [
+      {
+        "date": "2011–2019",
+        "title": "Period covered by allegations",
+        "detail": "The ICC case concerns alleged crimes during the relevant period in the Philippines.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2025-03",
+        "title": "Surrender to ICC",
+        "detail": "Duterte was surrendered to the ICC after his arrest.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2026-02",
+        "title": "Confirmation hearing",
+        "detail": "The Pre-Trial Chamber heard submissions on confirmation of charges.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2026-04-23",
+        "title": "Charges confirmed",
+        "detail": "The ICC confirmed three counts of crimes against humanity and committed Duterte to trial.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2026-10-08",
+        "title": "Fitness decision",
+        "detail": "The Trial Chamber made public its decision that Duterte is fit to stand trial.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      },
+      {
+        "date": "2026-11-30",
+        "title": "Scheduled trial opening",
+        "detail": "The ICC has scheduled the opening of trial for 30 November 2026.",
+        "evidence_status": "Documented chronology · verify against cited source"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "duterte-war-on-drugs-icc-ev1",
+        "title": "Official record and court findings",
+        "kind": "Document",
+        "detail": "Locate the relevant judgment, official investigative update or institutional case record. Record the exact finding and its procedural status.",
+        "status": "Source-led",
+        "x": 70,
+        "y": 75
+      },
+      {
+        "id": "duterte-war-on-drugs-icc-ev2",
+        "title": "Chronology and digital record",
+        "kind": "Chronology",
+        "detail": "Cross-check dated events against original records, communications and independent reporting. Preserve discrepancies.",
+        "status": "Research task",
+        "x": 370,
+        "y": 55
+      },
+      {
+        "id": "duterte-war-on-drugs-icc-ev3",
+        "title": "Forensic and investigative material",
+        "kind": "Forensic record",
+        "detail": "Review physical, medical, digital or documentary evidence relevant to this case. Separate expert findings from disputed interpretation.",
+        "status": "Context required",
+        "x": 210,
+        "y": 260
+      },
+      {
+        "id": "duterte-war-on-drugs-icc-ev4",
+        "title": "Procedural status and open questions",
+        "kind": "Legal record",
+        "detail": "What evidence can establish command responsibility? How will the ICC assess patterns and individual incidents? What protections are available to victims and witnesses during trial?",
+        "status": "Ongoing research",
+        "x": 570,
+        "y": 260
+      }
+    ],
+    "sources": [
+      {
+        "title": "Duterte case — trial to open 30 November 2026",
+        "publisher": "International Criminal Court",
+        "url": "https://www.icc-cpi.int/news/duterte-case-trial-open-30-november-2026",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "ICC case information — Rodrigo Roa Duterte",
+        "publisher": "International Criminal Court",
+        "url": "https://www.icc-cpi.int/philippines/duterte",
+        "source_type": "official or established public reference"
+      },
+      {
+        "title": "ICC decision confirming charges",
+        "publisher": "International Criminal Court",
+        "url": "https://www.icc-cpi.int/news/icc-pre-trial-chamber-i-confirms-all-charges-against-rodrigo-roa-duterte-and-commits-him-trial",
+        "source_type": "official or established public reference"
+      }
+    ],
+    "last_researched": "2026-11-14",
+    "editorial_note": "Research dossier. Confirm each factual detail against linked primary records before publication; legal status is time-sensitive and should be updated as proceedings develop."
   }
 ]
