@@ -96,3 +96,60 @@ body{background:#100f0d;color:var(--ink)}
 .case-art[data-case="aarushi-talwar"]{background-image:url('/images/case-aarushi.jpg')!important}
 @media(max-width:1100px){.noir-archive-section{grid-template-columns:230px minmax(0,1fr)}.noir-case-strip{grid-template-columns:repeat(3,minmax(0,1fr))}.noir-case-card:nth-child(n+4){display:none}.noir-tools{grid-template-columns:repeat(3,minmax(0,1fr))}.noir-tool{height:165px}}
 @media(max-width:720px){.noir-home{padding:0 12px 45px!important}.noir-hero{height:560px;min-height:0}.noir-hero-bg{background-position:58% center;opacity:.9}.noir-hero-copy{padding:90px 22px 0;width:100%}.noir-hero h1{font-size:58px}.noir-hero-caption{left:20px;right:20px;justify-content:space-between;font-size:6px}.noir-tools{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.noir-tool{height:155px;padding:13px}.noir-tool b{font-size:19px}.noir-tool small{font-size:10px}.noir-archive-section{grid-template-columns:1fr}.noir-filter-panel{padding:15px}.noir-sidebar-note{display:none}.noir-case-strip{grid-template-columns:repeat(2,minmax(0,1fr))}.noir-case-card{height:230px}.noir-case-card:nth-child(n+4){display:flex}.noir-case-card:nth-child(n+5){display:none}.noir-section-heading h2{font-size:25px}.noir-bottom-line span:last-child{display:none}.noir-manifesto{padding:16px;gap:12px}.noir-manifesto-note{display:none}}
+
+
+/* Dossier readability fix: keep section navigation dark, legible and high-contrast. */
+.dossier-sidebar .section-link,
+.dossier-sidebar button.section-link {
+  appearance: none;
+  -webkit-appearance: none;
+  display: flex;
+  width: 100%;
+  min-height: 44px;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 10px;
+  border: 0;
+  border-bottom: 1px solid #514332;
+  border-radius: 2px;
+  background: transparent !important;
+  background-color: transparent !important;
+  color: #e7d8c1 !important;
+  -webkit-text-fill-color: #e7d8c1 !important;
+  font: 500 12px/1.45 'DM Sans', sans-serif;
+  letter-spacing: .015em;
+  text-align: left;
+  box-shadow: none;
+  opacity: 1;
+}
+.dossier-sidebar .section-link span {
+  flex: 0 0 24px;
+  color: #d0ad76 !important;
+  -webkit-text-fill-color: #d0ad76 !important;
+  font: 10px/1 'DM Mono', monospace;
+}
+.dossier-sidebar .section-link:hover,
+.dossier-sidebar .section-link.active {
+  background: #30251b !important;
+  background-color: #30251b !important;
+  color: #fff0d8 !important;
+  -webkit-text-fill-color: #fff0d8 !important;
+  border-left: 2px solid #b98a55;
+}
+.dossier-sidebar .section-link.active span,
+.dossier-sidebar .section-link:hover span {
+  color: #e5bd80 !important;
+  -webkit-text-fill-color: #e5bd80 !important;
+}
+.dossier-article .section-label {
+  color: #d4b47f;
+  font-size: 10px;
+}
+.dossier-article h2 {
+  color: #f3e7d5;
+}
+.dossier-article .dossier-prose {
+  color: #e0d5c5;
+  font-size: 18px;
+  line-height: 1.9;
+}
