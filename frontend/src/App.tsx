@@ -40,7 +40,7 @@ export default function App(){
  return <div className="app" style={{"--asset-base":import.meta.env.BASE_URL} as React.CSSProperties}>
   <header className="topbar">
    <button className="mobile-menu" onClick={()=>setMobile(!mobile)} aria-label="Toggle navigation"><Menu/></button>
-   <button className="brand" onClick={()=>navigate('home')}><span className="brand-glyph">✳</span><span className="brand-name">THE EVIDENCE ROOM<small>ARCHIVE · INVESTIGATE · UNDERSTAND</small></span></button>
+   <button className="brand" onClick={()=>navigate('home')}><span className="brand-glyph">E.R.</span><span className="brand-name">THE EVIDENCE ROOM<small>ARCHIVE · INVESTIGATE · UNDERSTAND</small></span></button>
    <nav className={mobile?'nav open':'nav'}>
     <button className={page==='home'?'on':''} onClick={()=>navigate('home')}>The room</button>
     <button className={page==='archives'||page==='case'?'on':''} onClick={()=>navigate('archives')}>Case archive <sup>{cases.length}</sup></button>
@@ -104,7 +104,7 @@ function Home({cases,stats,openCase,go}:{cases:CaseFile[];stats:any;openCase:(id
    </aside>
    <div className="noir-featured-panel"><div className="noir-section-heading"><div><span className="noir-kicker">THE CASE FILES</span><h2>Featured <em>investigations.</em></h2></div><button onClick={()=>go('archives')}>View all cases <ArrowRight size={15}/></button></div>
     <div className="noir-case-strip">{picks.map((c,i)=><button key={c.id} className={`noir-case-card noir-case-${i%5}`} onClick={()=>openCase(c.id)}>
-      <span className="noir-case-photo" style={{backgroundImage:`url('${import.meta.env.BASE_URL}images/case-${(['zodiac','black-dahlia','jonbenet','burari','aarushi'][i%5])}.jpg')`}}/>
+      <span className="noir-case-photo" style={{backgroundImage:`url('${import.meta.env.BASE_URL}images/cases/${c.id}.svg')`}}/>
       <span className="noir-case-shade"/>
       <span className="noir-case-meta">{c.country==='India'?'INDIA':'INTERNATIONAL'} · {(c.status||'RESEARCH').toUpperCase()}</span>
       <b>{c.title}</b><small>{c.summary}</small><span className="noir-open-case">OPEN CASE <ArrowRight size={13}/></span>
@@ -144,7 +144,7 @@ function ArchivePage({cases,loading,q,setQ,country,setCountry,countries,status,s
 function CaseCard({item,index,open,saved,toggleSaved}:{item:CaseFile;index:number;open:()=>void;saved:boolean;toggleSaved:()=>void}){
  const artClass='case-art art-'+(index%6);
  return <article className="case-card">
-  <button className={artClass} data-case={item.id} style={{backgroundImage:`url('${import.meta.env.BASE_URL}images/cases/${item.id}.svg')`}} onClick={open}><span className="art-file">{item.case_number} / RESEARCH COPY</span><span className="art-glyph">{item.country==='India'?'IND':item.category==='Hijacking'?'FLIGHT':item.category==='Unsolved homicide'?'UNSOLVED':'DOSSIER'}</span><span className="art-period">{item.period}</span><span className="art-serial">EVIDENCE ROOM</span><span className="art-handnote">field copy · keep checking</span></button>
+  <button className={artClass} data-case={item.id} style={{backgroundImage:`url('${import.meta.env.BASE_URL}images/cases/${item.id}.svg')`}} onClick={open}><span className="art-file">{item.case_number} / RESEARCH COPY</span><span className="art-glyph">{item.country==='India'?'IND':item.category==='Hijacking'?'FLIGHT':item.category==='Unsolved homicide'?'UNSOLVED':'DOSSIER'}</span><span className="art-period">{item.period}</span><span className="art-serial">EVIDENCE ROOM</span><span className="art-handnote">field copy · keep checking</span><span className="art-handnote">field copy · keep checking</span></button>
   <div className="case-card-content"><div className="card-meta"><span>{item.country.toUpperCase()}</span><span className={'status-chip '+item.status_type}>{statusLabels[item.status_type]||item.status_type}</span></div><button className="card-title" onClick={open}>{item.title}</button><p>{item.summary}</p><div className="card-tags">{item.tags.slice(0,3).map(t=><span key={t}>{t}</span>)}</div><div className="card-bottom"><button className="open-dossier" onClick={open}>OPEN DOSSIER <ArrowRight size={14}/></button><button className={saved?'save-btn saved':'save-btn'} onClick={toggleSaved} title={saved?'Remove bookmark':'Bookmark case'}><Bookmark size={15} fill={saved?'currentColor':'none'}/></button></div></div>
  </article>
 }
