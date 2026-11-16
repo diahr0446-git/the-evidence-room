@@ -38,7 +38,7 @@ app = FastAPI(
     redoc_url="/redoc",
     lifespan=lifespan,
 )
-origins = os.getenv("CORS_ORIGINS", "http://localhost:5173,http://127.0.0.1:5173").split(",")
+origins = ["https://diahr0446-git.github.io", "https://the-evidence-room-tcel.vercel.app", "http://localhost:5173", "http://127.0.0.1:5173"] + os.getenv("CORS_ORIGINS", "").split(",")
 app.add_middleware(CORSMiddleware, allow_origins=[x.strip() for x in origins], allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
 
 @contextmanager
