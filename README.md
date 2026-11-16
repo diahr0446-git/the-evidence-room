@@ -1,5 +1,10 @@
 # THE EVIDENCE ROOM — Studio Edition
 
+**LIVE WEBSITE: [Open The Evidence Room](https://diahr0446-git.github.io/the-evidence-room/)**
+
+The official project site is hosted on GitHub Pages. Use the project URL above (it includes `/the-evidence-room/`).
+
+
 **Every detail tells a story. Every piece of evidence matters.**
 
 A cinematic, source-led true-crime archive and interactive investigation workspace. This is a substantially rebuilt version combining the strongest structure from both supplied ZIP projects, then expanding the dataset, API, UI and documentation.
