@@ -33,11 +33,7 @@ jobs:
           GITHUB_PAGES: 'true'
           VITE_API_URL: https://the-evidence-room-api.onrender.com
         run: npm run build
-      - name: Enable GitHub Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-      - name: Upload site artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: frontend/dist
