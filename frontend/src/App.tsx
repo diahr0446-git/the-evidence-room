@@ -37,7 +37,7 @@ export default function App(){
  const filtered=cases;
  const countries=useMemo(()=>['All countries',...Array.from(new Set(cases.map(c=>c.country))).sort()],[cases]);
  const categories=useMemo(()=>['All categories',...Array.from(new Set(cases.map(c=>c.category))).sort()],[cases]);
- return <div className="app">
+ return <div className="app" style={{"--asset-base":import.meta.env.BASE_URL} as React.CSSProperties}>
   <header className="topbar">
    <button className="mobile-menu" onClick={()=>setMobile(!mobile)} aria-label="Toggle navigation"><Menu/></button>
    <button className="brand" onClick={()=>navigate('home')}><span className="brand-glyph">✳</span><span className="brand-name">THE EVIDENCE ROOM<small>ARCHIVE · INVESTIGATE · UNDERSTAND</small></span></button>
