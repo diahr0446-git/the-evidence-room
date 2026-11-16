@@ -103,7 +103,7 @@ function Home({cases,stats,openCase,go}:{cases:CaseFile[];stats:any;openCase:(id
    </aside>
    <div className="noir-featured-panel"><div className="noir-section-heading"><div><span className="noir-kicker">THE CASE FILES</span><h2>Featured <em>investigations.</em></h2></div><button onClick={()=>go('archives')}>View all cases <ArrowRight size={15}/></button></div>
     <div className="noir-case-strip">{picks.map((c,i)=><button key={c.id} className={`noir-case-card noir-case-${i%5}`} onClick={()=>openCase(c.id)}>
-      <span className="noir-case-photo" style={{backgroundImage:`url('/images/case-${(['zodiac','black-dahlia','jonbenet','burari','aarushi'][i%5])}.jpg')`}}/>
+      <span className="noir-case-photo" style={{backgroundImage:`url('${import.meta.env.BASE_URL}images/case-${(['zodiac','black-dahlia','jonbenet','burari','aarushi'][i%5])}.jpg')`}}/>
       <span className="noir-case-shade"/>
       <span className="noir-case-meta">{c.country==='India'?'INDIA':'INTERNATIONAL'} · {(c.status||'RESEARCH').toUpperCase()}</span>
       <b>{c.title}</b><small>{c.summary}</small><span className="noir-open-case">OPEN CASE <ArrowRight size={13}/></span>
@@ -132,7 +132,7 @@ function CaseCard({item,index,open,saved,toggleSaved}:{item:CaseFile;index:numbe
  </article>
 }
 
-const dossierArtwork=(id:string)=>`/images/cases/${id}.svg`;
+const dossierArtwork=(id:string)=>`${import.meta.env.BASE_URL}images/cases/${id}.svg`;
 function Dossier({item,openBoard,saved,toggleSaved}:{item:CaseFile;openBoard:()=>void;saved:boolean;toggleSaved:()=>void}){
  const [tab,setTab]=useState<string>('overview'),[collapsed,setCollapsed]=useState(false);
  const photoUrl=dossierArtwork(item.id);
