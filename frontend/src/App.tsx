@@ -43,7 +43,7 @@ export default function App(){
    <button className="brand" onClick={()=>navigate('home')}><span className="brand-glyph">✳</span><span className="brand-name">THE EVIDENCE ROOM<small>ARCHIVE · INVESTIGATE · UNDERSTAND</small></span></button>
    <nav className={mobile?'nav open':'nav'}>
     <button className={page==='home'?'on':''} onClick={()=>navigate('home')}>The room</button>
-    <button className={page==='archives'||page==='case'?'on':''} onClick={()=>navigate('archives')}>Case archive <sup>21</sup></button>
+    <button className={page==='archives'||page==='case'?'on':''} onClick={()=>navigate('archives')}>Case archive <sup>{cases.length}</sup></button>
     <button className={page==='board'?'on':''} onClick={()=>navigate('board')}>Evidence board</button>
     <button className={page==='detective'?'on':''} onClick={()=>navigate('detective')}>Detective mode</button>
     <button className={page==='forensics'?'on':''} onClick={()=>navigate('forensics')}>Forensic lab</button>
@@ -82,15 +82,16 @@ function Home({cases,stats,openCase,go}:{cases:CaseFile[];stats:any;openCase:(id
   <section className="noir-hero">
    <div className="noir-hero-bg"/>
    <div className="noir-hero-copy">
-    <div className="noir-classified">CLASSIFIED ARCHIVE <span>·</span> #0027</div>
+    <div className="noir-classified">INDEPENDENT RESEARCH PROJECT <span>·</span> EST. 2026</div>
     <h1>THE <em>EVIDENCE</em><br/>ROOM</h1>
-    <p>Every detail tells a story.<br/>Every piece of evidence matters.</p>
-    <div className="noir-actions"><button className="noir-enter" onClick={()=>go('archives')}>Enter the Archives <ArrowRight size={17}/></button><button className="noir-watch" onClick={()=>go('detective')}><span>▶</span> Explore Detective Mode</button></div>
+    <p>A growing archive of real cases, source notes<br/>and questions that deserve a closer look.</p>
+    <div className="noir-actions"><button className="noir-enter" onClick={()=>go('archives')}>Browse the case files <ArrowRight size={17}/></button><button className="noir-watch" onClick={()=>go('detective')}><span>↗</span> Try a fictional investigation</button></div>
    </div>
+   <aside className="hero-pencil-note"><span>desk note / 01</span><b>Sources first.<br/>Theories second.</b><small>— a rule I keep coming back to</small></aside>
    <div className="noir-hero-caption"><span>THE WALL OF QUESTIONS</span><span>OBSERVE · CONNECT · VERIFY</span></div>
   </section>
   <section className="noir-tools" aria-label="Investigation tools">
-   {tiles.map((t,i)=><button key={t.title} className={`noir-tool ${t.image}`} onClick={t.go}><span className="noir-tool-no">0{i+1} / FIELD DESK</span><span className="noir-tool-icon">{t.icon}</span><b>{t.title}</b><small>{t.desc}</small><span className="noir-tool-arrow"><ArrowRight size={17}/></span></button>)}
+   {tiles.map((t,i)=><button key={t.title} className={`noir-tool ${t.image}`} onClick={t.go}><span className="noir-tool-no">0{i+1} / ON MY DESK</span><span className="noir-tool-icon">{t.icon}</span><b>{t.title}</b><small>{t.desc}</small><span className="noir-tool-arrow"><ArrowRight size={17}/></span></button>)}
   </section>
   <section className="noir-archive-section">
    <aside className="noir-filter-panel"><div className="noir-panel-title">EXPLORE THE ARCHIVE</div>
@@ -108,16 +109,32 @@ function Home({cases,stats,openCase,go}:{cases:CaseFile[];stats:any;openCase:(id
       <span className="noir-case-meta">{c.country==='India'?'INDIA':'INTERNATIONAL'} · {(c.status||'RESEARCH').toUpperCase()}</span>
       <b>{c.title}</b><small>{c.summary}</small><span className="noir-open-case">OPEN CASE <ArrowRight size={13}/></span>
      </button>)}</div>
-    <div className="noir-bottom-line"><span>21 CASE FILES · SOURCE-LED RESEARCH</span><span>SELECT A FILE TO OPEN ITS DOSSIER →</span></div>
+    <div className="noir-bottom-line"><span>{cases.length} CASE FILES · SOURCE-LED RESEARCH</span><span>SELECT A FILE TO OPEN ITS DOSSIER →</span></div>
    </div>
   </section>
   <section className="noir-manifesto"><span className="noir-stamp">E.R.<small>ARCHIVE<br/>EDITION</small></span><p>Evidence does not speak for itself.<br/><em>It asks to be examined.</em></p><span className="noir-manifesto-note">FACTS / QUESTIONS / CONTEXT</span></section>
+  <section className="maker-note" aria-labelledby="maker-note-title">
+   <div className="maker-paper">
+    <div className="maker-paper-top"><span>NOTES FROM THE DESK</span><span>PERSONAL PROJECT · 001</span></div>
+    <span className="maker-kicker">A NOTE FROM THE PERSON BEHIND THE FILES</span>
+    <h2 id="maker-note-title">Why I built <em>this archive.</em></h2>
+    <p>I wanted one place where I could slow down, follow a timeline, compare sources and keep the unanswered questions visible. This is my way of learning in public — one case file at a time, with room for corrections along the way.</p>
+    <div className="maker-signoff"><span>— The person behind the files</span><small>BUILT WITH CURIOSITY · STILL A WORK IN PROGRESS</small></div>
+    <span className="maker-paperclip" aria-hidden="true">✳</span>
+   </div>
+   <aside className="maker-margin">
+    <span className="maker-handwriting">a reminder</span>
+    <p>Good research makes room for uncertainty.</p>
+    <ul><li>Check the source, not just the headline.</li><li>Separate an allegation from a finding.</li><li>Leave unanswered questions unanswered.</li></ul>
+    <span className="maker-margin-stamp">FIELD<br/>NOTES</span>
+   </aside>
+  </section>
  </div>
 }
 
 function ArchivePage({cases,loading,q,setQ,country,setCountry,countries,status,setStatus,category,setCategory,categories,sort,setSort,openCase,savedIds,toggleSaved}:any){
  return <section className="page-wrap archive-page">
-  <div className="page-heading"><div className="eyebrow">01 / THE COLLECTION</div><h1>Case <em>archives.</em></h1><p>A growing library of documented investigations. Search by name, place, category or status. Read carefully; follow the sources.</p></div>
+  <div className="page-heading"><div className="eyebrow">01 / THE COLLECTION · WORKING INDEX</div><h1>Case <em>archives.</em></h1><p>A growing set of files I'm collecting, reading and checking. Search by name, place, category or status — and follow the references back to the record.</p></div>
   <div className="archive-tools"><div className="search-box"><Search size={17}/><input value={q} onChange={e=>setQ(e.target.value)} placeholder="Search names, locations, case details..."/>{q&&<button onClick={()=>setQ('')}><X size={14}/></button>}</div><div className="filters-row"><label><Globe2 size={14}/><select value={country} onChange={e=>setCountry(e.target.value)}>{countries.map((c:string)=><option key={c}>{c}</option>)}</select><ChevronDown size={13}/></label><label><Filter size={14}/><select value={status} onChange={e=>setStatus(e.target.value)}><option>All statuses</option><option value="unsolved">Unsolved</option><option value="undertrial">Trial pending</option><option value="convicted">Convictions</option><option value="court-resolved">Court outcome</option><option value="mixed-court">Mixed outcomes</option></select><ChevronDown size={13}/></label><label><FolderOpen size={14}/><select value={category} onChange={e=>setCategory(e.target.value)}>{categories.map((c:string)=><option key={c}>{c}</option>)}</select><ChevronDown size={13}/></label><label><SlidersHorizontal size={14}/><select value={sort} onChange={e=>setSort(e.target.value)}><option value="title">A–Z</option><option value="newest">Newest</option><option value="oldest">Oldest</option><option value="country">Country</option></select><ChevronDown size={13}/></label></div><div className="archive-count"><span>{cases.length} FILES</span><span>·</span><span>RESEARCH INDEX</span></div></div>
   {loading?<div className="loading-state"><div className="loading-mark">✳</div>Opening the archive…</div>:<div className="archive-grid">{cases.map((c:CaseFile,i:number)=><CaseCard key={c.id} item={c} index={i} open={()=>openCase(c.id)} saved={savedIds.includes(c.id)} toggleSaved={()=>toggleSaved(c.id)}/>)}</div>}
   {!loading&&cases.length===0&&<div className="empty-state">No files match this combination. Clear a filter or try a different search.</div>}
@@ -127,7 +144,7 @@ function ArchivePage({cases,loading,q,setQ,country,setCountry,countries,status,s
 function CaseCard({item,index,open,saved,toggleSaved}:{item:CaseFile;index:number;open:()=>void;saved:boolean;toggleSaved:()=>void}){
  const artClass='case-art art-'+(index%6);
  return <article className="case-card">
-  <button className={artClass} data-case={item.id} onClick={open}><span className="art-file">{item.case_number} / RESEARCH COPY</span><span className="art-glyph">{item.country==='India'?'IND':item.category==='Hijacking'?'FLIGHT':item.category==='Unsolved homicide'?'UNSOLVED':'DOSSIER'}</span><span className="art-period">{item.period}</span><span className="art-serial">EVIDENCE ROOM</span></button>
+  <button className={artClass} data-case={item.id} style={{backgroundImage:`url('${import.meta.env.BASE_URL}images/cases/${item.id}.svg')`}} onClick={open}><span className="art-file">{item.case_number} / RESEARCH COPY</span><span className="art-glyph">{item.country==='India'?'IND':item.category==='Hijacking'?'FLIGHT':item.category==='Unsolved homicide'?'UNSOLVED':'DOSSIER'}</span><span className="art-period">{item.period}</span><span className="art-serial">EVIDENCE ROOM</span><span className="art-handnote">field copy · keep checking</span></button>
   <div className="case-card-content"><div className="card-meta"><span>{item.country.toUpperCase()}</span><span className={'status-chip '+item.status_type}>{statusLabels[item.status_type]||item.status_type}</span></div><button className="card-title" onClick={open}>{item.title}</button><p>{item.summary}</p><div className="card-tags">{item.tags.slice(0,3).map(t=><span key={t}>{t}</span>)}</div><div className="card-bottom"><button className="open-dossier" onClick={open}>OPEN DOSSIER <ArrowRight size={14}/></button><button className={saved?'save-btn saved':'save-btn'} onClick={toggleSaved} title={saved?'Remove bookmark':'Bookmark case'}><Bookmark size={15} fill={saved?'currentColor':'none'}/></button></div></div>
  </article>
 }
